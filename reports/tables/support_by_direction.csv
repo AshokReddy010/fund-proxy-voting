@@ -1,0 +1,56 @@
+report_year,direction,direction_basis,fund_group,funds,votes,pct_for_all_votes,pct_for_average_fund
+2026,unclear,not labelled,3 Other funds,1,1.0,0.0,0.0
+2024,opposes ESG,reference votes,1 Specialist ESG houses,46,1128.0,1.68,2.95
+2024,opposes ESG,reference votes,2 ESG-named funds elsewhere,178,4172.0,2.47,2.26
+2024,opposes ESG,reference votes,3 Other funds,3907,86526.0,1.25,1.58
+2025,opposes ESG,reference votes,1 Specialist ESG houses,48,845.0,0.71,1.19
+2025,opposes ESG,reference votes,2 ESG-named funds elsewhere,146,2761.0,1.88,2.92
+2025,opposes ESG,reference votes,3 Other funds,3836,59559.0,1.5,1.76
+2026,opposes ESG,reference votes,1 Specialist ESG houses,52,930.0,0.65,0.56
+2026,opposes ESG,reference votes,2 ESG-named funds elsewhere,141,2843.0,2.08,4.46
+2026,opposes ESG,reference votes,3 Other funds,4045,65197.0,1.17,1.57
+2024,split,reference votes,1 Specialist ESG houses,27,116.0,34.48,41.49
+2024,split,reference votes,2 ESG-named funds elsewhere,113,475.0,17.47,13.54
+2024,split,reference votes,3 Other funds,2899,10510.0,7.5,8.2
+2025,split,reference votes,1 Specialist ESG houses,42,153.0,33.99,34.73
+2025,split,reference votes,2 ESG-named funds elsewhere,119,486.0,22.22,20.61
+2025,split,reference votes,3 Other funds,2729,11676.0,7.95,7.88
+2026,split,reference votes,1 Specialist ESG houses,43,229.0,43.23,41.45
+2026,split,reference votes,2 ESG-named funds elsewhere,121,712.0,19.66,19.73
+2026,split,reference votes,3 Other funds,3199,16360.0,4.83,5.04
+2024,supports ESG,reference votes,1 Specialist ESG houses,58,2583.0,98.45,96.53
+2024,supports ESG,reference votes,2 ESG-named funds elsewhere,222,8869.0,38.9,41.7
+2024,supports ESG,reference votes,3 Other funds,4929,198454.0,28.11,30.75
+2025,supports ESG,reference votes,1 Specialist ESG houses,62,1991.0,97.09,95.4
+2025,supports ESG,reference votes,2 ESG-named funds elsewhere,171,6002.0,37.19,36.72
+2025,supports ESG,reference votes,3 Other funds,4859,138103.0,16.44,17.53
+2026,supports ESG,reference votes,1 Specialist ESG houses,59,1256.0,91.72,84.49
+2026,supports ESG,reference votes,2 ESG-named funds elsewhere,160,3727.0,32.65,34.19
+2026,supports ESG,reference votes,3 Other funds,4930,91816.0,13.94,15.62
+2024,opposes ESG,wording only,1 Specialist ESG houses,7,12.0,8.33,14.29
+2024,opposes ESG,wording only,2 ESG-named funds elsewhere,55,264.0,0.38,0.91
+2024,opposes ESG,wording only,3 Other funds,2217,6612.0,1.77,1.38
+2025,opposes ESG,wording only,1 Specialist ESG houses,2,4.0,0.0,0.0
+2025,opposes ESG,wording only,2 ESG-named funds elsewhere,30,58.0,8.62,2.78
+2025,opposes ESG,wording only,3 Other funds,1597,3257.0,4.33,2.35
+2026,opposes ESG,wording only,1 Specialist ESG houses,2,2.0,0.0,0.0
+2026,opposes ESG,wording only,2 ESG-named funds elsewhere,15,19.0,5.26,6.67
+2026,opposes ESG,wording only,3 Other funds,651,1159.0,3.8,2.48
+2024,supports ESG,wording only,1 Specialist ESG houses,14,103.0,89.32,92.91
+2024,supports ESG,wording only,2 ESG-named funds elsewhere,115,1559.0,20.59,34.72
+2024,supports ESG,wording only,3 Other funds,3850,43663.0,24.99,29.3
+2025,supports ESG,wording only,1 Specialist ESG houses,14,82.0,75.61,85.32
+2025,supports ESG,wording only,2 ESG-named funds elsewhere,87,551.0,31.22,26.25
+2025,supports ESG,wording only,3 Other funds,3537,25114.0,10.1,10.84
+2026,supports ESG,wording only,1 Specialist ESG houses,12,47.0,76.6,87.5
+2026,supports ESG,wording only,2 ESG-named funds elsewhere,69,252.0,31.75,29.76
+2026,supports ESG,wording only,3 Other funds,3216,13466.0,12.54,13.93
+2024,unclear,wording only,1 Specialist ESG houses,15,61.0,59.02,61.61
+2024,unclear,wording only,2 ESG-named funds elsewhere,101,611.0,12.6,21.74
+2024,unclear,wording only,3 Other funds,3197,17409.0,12.43,16.13
+2025,unclear,wording only,1 Specialist ESG houses,16,54.0,51.85,67.19
+2025,unclear,wording only,2 ESG-named funds elsewhere,92,450.0,12.89,18.47
+2025,unclear,wording only,3 Other funds,2594,13430.0,8.02,12.35
+2026,unclear,wording only,1 Specialist ESG houses,12,32.0,59.38,67.78
+2026,unclear,wording only,2 ESG-named funds elsewhere,64,214.0,20.09,24.58
+2026,unclear,wording only,3 Other funds,2838,10167.0,5.66,6.77

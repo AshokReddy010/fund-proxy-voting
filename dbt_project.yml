@@ -1,0 +1,28 @@
+name: fund_voting
+version: "1.0.0"
+profile: fund_voting
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  fund_voting:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
+
+seeds:
+  fund_voting:
+    proposal_labels:
+      +column_types:
+        cusip: varchar
+        meeting_date: date
+        report_year: integer
+        wording_key: varchar
+        proposal_id: varchar
+        direction: varchar
+        basis: varchar

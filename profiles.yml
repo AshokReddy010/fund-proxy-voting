@@ -1,0 +1,12 @@
+fund_voting:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: fund_voting.duckdb
+      threads: 1
+      settings:
+        memory_limit: 2GB
+        threads: 2
+        preserve_insertion_order: false
+        temp_directory: npx_data/duck_tmp

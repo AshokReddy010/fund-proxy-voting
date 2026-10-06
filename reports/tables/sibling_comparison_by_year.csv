@@ -1,0 +1,19 @@
+direction,direction_basis,report_year,proposals_compared,esg_pct_for,siblings_pct_for,pct_same,pct_esg_more,pct_esg_less
+opposes ESG,reference votes,2024,2424,1.81,1.88,98.8,0.54,0.66
+opposes ESG,reference votes,2025,1695,2.04,1.74,98.94,0.65,0.41
+opposes ESG,reference votes,2026,1610,1.18,1.42,98.63,0.56,0.81
+opposes ESG,wording only,2024,142,0.0,0.0,100.0,0.0,0.0
+opposes ESG,wording only,2025,34,14.71,14.71,100.0,0.0,0.0
+opposes ESG,wording only,2026,9,0.0,0.0,100.0,0.0,0.0
+split,reference votes,2024,278,16.01,9.79,93.17,6.47,0.36
+split,reference votes,2025,303,18.65,8.58,87.46,11.22,1.32
+split,reference votes,2026,417,17.31,7.1,89.21,10.31,0.48
+supports ESG,reference votes,2024,5139,37.36,26.2,86.61,11.81,1.58
+supports ESG,reference votes,2025,3612,33.97,17.97,82.61,16.28,1.11
+supports ESG,reference votes,2026,2173,32.32,15.93,83.25,16.11,0.64
+supports ESG,wording only,2024,838,23.09,15.26,93.56,6.21,0.24
+supports ESG,wording only,2025,335,31.94,12.86,82.69,16.12,1.19
+supports ESG,wording only,2026,155,33.55,17.38,87.74,12.26,0.0
+unclear,wording only,2024,331,12.69,8.56,96.37,3.32,0.3
+unclear,wording only,2025,260,13.46,4.62,90.0,8.85,1.15
+unclear,wording only,2026,136,16.18,6.07,92.65,7.35,0.0

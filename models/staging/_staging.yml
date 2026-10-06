@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: stg_filings
+    description: One row per N-PX filing with typed columns.
+    columns:
+      - name: filing_id
+        description: SEC accession number.
+        data_tests: [unique, not_null]
+      - name: filer_kind
+        description: fund (registered investment company) or manager (institutional investment manager).
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["fund", "manager", "unknown"]
+      - name: report_kind
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["voting", "notice", "combination", "unknown"]
+
+  - name: stg_series
+    description: One row per fund named on a filing's cover page.
+    columns:
+      - name: filing_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_filings')
+                field: filing_id
+      - name: fund_id
+        data_tests: [not_null]
+
+  - name: stg_votes
+    description: One row per vote record with standardised votes, dates and topics. Its tests run on fct_votes, the saved copy, so 73 million rows are only cleaned once.

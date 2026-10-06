@@ -1,0 +1,67 @@
+version: 2
+
+models:
+  - name: fct_votes
+    description: One row per cleaned vote record with its filing's details.
+    columns:
+      - name: filing_id
+        data_tests: [not_null]
+      - name: vote
+        description: The vote in one of ten standard values. The filer's own text is kept in vote_as_filed.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["FOR", "AGAINST", "WITHHOLD", "ABSTAIN", "1 YEAR", "2 YEARS", "3 YEARS", "NOT VOTED", "UNKNOWN", "OTHER"]
+      - name: versus_management
+        description: Whether the vote was cast with or against management's recommendation. The SEC form records this, not the recommendation itself.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["WITH", "AGAINST", "NONE"]
+      - name: proposed_by
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["company", "shareholder", "unknown"]
+      - name: report_year
+        description: The reporting year stated on the filing's cover page.
+  - name: data_quality_summary
+    description: Headline data quality numbers after cleaning.
+
+  - name: dim_funds
+    description: One row per fund with its latest name and a name-based ESG label.
+    columns:
+      - name: fund_id
+        description: SEC series ID.
+        data_tests: [unique, not_null]
+      - name: is_esg_named
+        description: True when the fund's name contains an ESG-style word such as ESG, sustainable, climate or responsible.
+        data_tests: [not_null]
+
+  - name: fct_fund_es_votes
+    description: One row per fund, proposal and year, for shareholder proposals on environmental or social topics.
+    data_tests:
+      - dbt_utils_free_unique_combination:
+          arguments:
+            columns: "filing_id, fund_id, proposal_key"
+    columns:
+      - name: vote
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["FOR", "AGAINST", "ABSTAIN", "WITHHOLD"]
+
+  - name: mart_esg_support
+    description: Support for environmental and social shareholder proposals, ESG-named funds against other funds, by year.
+
+  - name: mart_sibling_comparison
+    description: ESG-named funds compared with ordinary funds from the same filer on the same proposal.
+    columns:
+      - name: outcome
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["same as siblings", "ESG fund more supportive", "ESG fund less supportive"]
+
+  - name: mart_support_by_direction
+    description: Support for environmental and social shareholder proposals by proposal direction, fund group and year.

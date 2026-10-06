@@ -1,0 +1,20 @@
+version: 2
+
+seeds:
+  - name: proposal_labels
+    description: >
+      One row per proposal wording, giving the matched proposal it belongs to and which way it points.
+      Produced by scripts/label_proposals.py from scripts/export_proposals.py output.
+    columns:
+      - name: proposal_id
+        data_tests: [not_null]
+      - name: direction
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["supports ESG", "opposes ESG", "split", "unclear"]
+      - name: basis
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["reference votes", "wording only"]

@@ -1,0 +1,8 @@
+dbt-core~=1.12.0
+dbt-duckdb~=1.11.0
+duckdb
+pandas
+requests
+matplotlib
+tabulate
+pytest

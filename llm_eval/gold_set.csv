@@ -1,0 +1,816 @@
+id,split,company,meeting_date,report_year,title,label,rule_label,reference_votes,reference_pct_for,fund_votes,pct_for
+P0001,test,ALPHABET INC.,2026-06-05,2026,Shareholder proposal regarding a report on AI data usage oversight,supports,supports,48,93.8,3533,24.1
+P0002,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING AN ADDITIONAL BOARD COMMITTEE TO OVERSEE THE FINANCIAL IMPACT OF POLICY POSITIONS,opposes,opposes,24,8.3,3191,4.3
+P0003,test,Mastercard Incorporated,2024-06-18,2024,Consideration of a stockholder proposal requesting a congruency report on privacy and human rights,opposes,opposes,34,5.9,2768,1.4
+P0004,test,Microsoft Corporation,2025-12-05,2026,Report on Al Data Usage Oversight,supports,supports,33,60.6,2218,13.9
+P0005,dev,MICROSOFT CORPORATION,2025-12-05,2026,Report on Risks of Censorship in Generative Artificial Intelligence,opposes,opposes,33,0.0,2182,0.6
+P0006,test,MICROSOFT CORPORATION,2025-12-05,2026,Report on Human Rights Due Diligence,supports,supports,33,84.8,2149,23.4
+P0007,dev,MICROSOFT CORPORATION,2025-12-05,2026,Report on Data Operations in Human Rights Hotspots,supports,supports,33,84.8,2132,22.4
+P0008,test,Microsoft Corporation,2023-12-07,2024,Report on Climate Risks to Retirement Plan Beneficiaries,supports,supports,28,89.3,2125,11.8
+P0009,dev,MICROSOFT CORPORATION,2025-12-05,2026,European Security Program Censorship Risk Audit,opposes,opposes,33,0.0,2124,0.8
+P0010,test,Microsoft Corporation,2023-12-07,2024,Mandate for Third-Party Political Reporting,opposes,supports,28,14.3,2117,2.0
+P0011,test,Microsoft Corporation,2023-12-07,2024,Report on Gender-Based Compensation and Benefit Gaps,opposes,opposes,28,0.0,2105,1.2
+P0012,test,Microsoft Corporation,2023-12-07,2024,Report on Risk from Omitting Ideology in EEO Policy,opposes,opposes,28,0.0,2101,1.2
+P0013,dev,Microsoft Corporation,2023-12-07,2024,Report on Risks of Weapons Development,supports,supports,28,78.6,2100,21.2
+P0014,test,Microsoft Corporation,2023-12-07,2024,Report on AI Misinformation and Disinformation,supports,supports,28,100.0,2095,23.8
+P0015,test,Microsoft Corporation,2023-12-07,2024,Report on Tax Transparency,supports,supports,28,100.0,2093,24.5
+P0016,test,MICROSOFT CORPORATION,2024-12-10,2025,Report on Risks of Weapons Development.,supports,supports,29,79.3,2083,16.8
+P0017,test,MICROSOFT CORPORATION,2024-12-10,2025,Report on Data Operations in Human Rights Hotspots.,supports,supports,29,100.0,2078,32.2
+P0018,test,MICROSOFT CORPORATION,2024-12-10,2025,Report on AI Misinformation and Disinformation.,supports,supports,29,100.0,2068,19.5
+P0019,dev,MICROSOFT CORPORATION,2024-12-10,2025,Report on AI Data Sourcing Accountability.,supports,supports,29,69.0,2067,49.0
+P0020,dev,Microsoft Corporation,2023-12-07,2024,Report on Data Operations in Human Rights Hotspots,supports,supports,28,100.0,2022,41.1
+P0021,test,Microsoft Corporation,2023-12-07,2024,Report on Government Takedown Requests,opposes,opposes,28,0.0,1983,0.9
+P0022,dev,"AMAZON.COM, INC.",2026-05-20,2026,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CHARITABLE PARTNERSHIPS,opposes,opposes,23,0.0,1976,0.4
+P0023,dev,NVIDIA CORPORATION,2026-06-24,2026,Approval of a non-binding stockholder proposal requesting reporting on greenhouse gas emissions from the use of our sold products.,supports,supports,27,85.2,1975,8.5
+P0024,test,NVIDIA CORPORATION,2026-06-24,2026,Approval of a non-binding stockholder proposal requesting a report on faith-based community resource groups.,opposes,opposes,27,3.7,1958,0.9
+P0025,test,"META PLATFORMS, INC.",2026-05-27,2026,A shareholder proposal regarding report on Al data usage oversight.,supports,supports,8,100.0,1952,41.3
+P0026,test,NVIDIA CORPORATION,2026-06-24,2026,Approval of a non-binding stockholder proposal requesting a report on workforce civil liberties.,opposes,opposes,27,0.0,1951,0.6
+P0027,dev,"META PLATFORMS, INC.",2026-05-27,2026,A shareholder proposal regarding report on human rights due diligence.,supports,supports,8,100.0,1945,5.7
+P0028,test,"META PLATFORMS, INC.",2026-05-27,2026,A shareholder proposal regarding data protection impact assessment on generative Al chatbots.,supports,supports,8,100.0,1945,22.1
+P0029,dev,"META PLATFORMS, INC.",2026-05-27,2026,A shareholder proposal regarding report on risks of anti-American discrimination from H-1B visa program use.,opposes,opposes,8,0.0,1927,0.3
+P0030,dev,"META PLATFORMS, INC.",2026-05-27,2026,A shareholder proposal regarding report on climate change-related commitments.,supports,supports,8,100.0,1923,13.0
+P0031,test,"META PLATFORMS, INC.",2026-05-27,2026,A shareholder proposal regarding report on addressing antisemitism and hate in online platforms.,supports,supports,8,100.0,1921,18.4
+P0032,dev,ALPHABET INC.,2026-06-05,2026,Shareholder proposal regarding an enhanced disclosure on climate goals,supports,supports,26,92.3,1888,14.5
+P0033,test,ALPHABET INC.,2026-06-05,2026,Shareholder proposal regarding a report on data privacy,supports,supports,26,92.3,1883,6.6
+P0034,test,MICROSOFT CORPORATION,2024-12-10,2025,Assessment of Investing in Bitcoin.,opposes,unclear,22,0.0,1881,0.6
+P0035,test,ALPHABET INC.,2026-06-05,2026,Shareholder proposal regarding a report on politicized content moderation,opposes,opposes,26,0.0,1864,0.4
+P0036,test,NVIDIA CORPORATION,2025-06-25,2025,Approval of a stockholder proposal to modify existing reporting on workforce data.,supports,supports,30,100.0,1805,19.3
+P0037,test,"AMAZON.COM, INC.",2025-05-21,2025,SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON IMPACT OF DATA CENTERS ON CLIMATE COMMITMENTS,supports,supports,18,100.0,1783,15.4
+P0038,dev,"AMAZON.COM, INC.",2025-05-21,2025,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON WAREHOUSE WORKING CONDITIONS,supports,supports,18,100.0,1774,21.3
+P0039,test,"AMAZON.COM, INC.",2025-05-21,2025,SHAREHOLDER PROPOSAL REQUESTING ALTERNATIVE EMISSIONS REPORTING,supports,supports,18,100.0,1768,9.0
+P0040,test,"AMAZON.COM, INC.",2025-05-21,2025,SHAREHOLDER PROPOSAL REQUESTING AN ASSESSMENT OF BOARD STRUCTURE FOR OVERSIGHT OF AI,supports,supports,18,72.2,1763,7.2
+P0041,test,"AMAZON.COM, INC.",2025-05-21,2025,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON PACKAGING MATERIALS,supports,supports,18,100.0,1761,9.8
+P0042,test,"AMAZON.COM, INC.",2025-05-21,2025,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON ADVERTISING RISKS,opposes,opposes,18,0.0,1752,1.1
+P0043,test,APPLE INC.,2026-02-24,2026,"A shareholder proposal entitled ""China Entanglement Audit""",opposes,opposes,22,9.1,1736,0.8
+P0044,test,"META PLATFORMS, INC.",2025-05-28,2025,A shareholder proposal regarding GHG emissions reduction actions.,supports,supports,4,100.0,1735,6.6
+P0045,test,APPLE INC.,2025-02-25,2025,"A shareholder proposal entitled ""Report on Charitable Giving""",opposes,opposes,23,0.0,1735,0.9
+P0046,test,APPLE INC.,2025-02-25,2025,"A shareholder proposal entitled ""Request to Cease DEI Efforts""",opposes,opposes,23,0.0,1728,2.2
+P0047,test,"Meta Platforms, Inc.",2025-05-28,2025,A shareholder proposal regarding report on Al data usage oversight.,supports,supports,4,100.0,1727,40.1
+P0048,test,"META PLATFORMS, INC.",2025-05-28,2025,A shareholder proposal regarding report on hate targeting marginalized communities.,supports,supports,4,100.0,1726,45.6
+P0049,test,"META PLATFORMS, INC.",2025-05-28,2025,A shareholder proposal regarding report on data collection and advertising practices.,supports,supports,4,100.0,1725,37.5
+P0050,dev,"META PLATFORMS, INC.",2025-05-28,2025,A shareholder proposal regarding report on child safety impacts and actual harm reduction to children.,supports,supports,4,100.0,1724,33.5
+P0051,test,"META PLATFORMS, INC.",2025-05-28,2025,A shareholder proposal regarding report on risks of deepfakes in online child exploitation.,supports,supports,4,100.0,1723,15.6
+P0052,test,Alphabet Inc.,2025-06-06,2025,Stockholder proposal regarding a human rights impact assessment of Al-driven targeted ad policies,supports,supports,29,100.0,1719,39.1
+P0053,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON GENDER/RACIAL PAY,supports,supports,12,100.0,1713,38.9
+P0054,dev,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON FREEDOM OF ASSOCIATION,supports,supports,12,100.0,1703,44.2
+P0055,dev,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON WAREHOUSE WORKING CONDITIONS,supports,supports,12,100.0,1702,50.0
+P0056,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER DUE DILIGENCE,supports,unclear,12,100.0,1699,20.0
+P0057,test,ALPHABET INC.,2025-06-06,2025,Stockholder proposal regarding a report on the due diligence process to assess human rights risks in CAHRA,supports,supports,29,100.0,1696,8.0
+P0058,test,Alphabet Inc.,2025-06-06,2025,Stockholder proposal regarding a report on risks of discrimination in GenAl,opposes,opposes,29,0.0,1695,1.4
+P0059,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING A POLICY TO DISCLOSE DIRECTORS' POLITICAL AND CHARITABLE DONATIONS,opposes,opposes,12,0.0,1694,0.1
+P0060,test,ALPHABET INC.,2025-06-06,2025,Stockholder proposal regarding a report on alignment of lobbying activities with child safety policies,supports,supports,29,100.0,1691,14.7
+P0061,dev,Alphabet Inc.,2025-06-06,2025,Stockholder proposal regarding a report on Al data usage oversight,supports,supports,29,65.5,1688,38.2
+P0062,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING AN ADDITIONAL BOARD COMMITTEE TO OVERSEE ARTIFICIAL INTELLIGENCE,supports,supports,12,83.3,1685,10.4
+P0063,dev,ALPHABET INC.,2025-06-06,2025,Stockholder proposal regarding an enhanced disclosure on climate goals,supports,supports,29,100.0,1684,17.3
+P0064,test,ALPHABET INC.,2026-06-05,2026,Shareholder proposal regarding a viewpoint diversity risk report,opposes,opposes,22,0.0,1674,0.7
+P0065,test,ALPHABET INC.,2025-06-06,2025,Stockholder proposal regarding a report on charitable partnerships,opposes,opposes,29,0.0,1674,2.9
+P0066,dev,Apple Inc.,2024-02-28,2024,"A shareholder proposal entitled ""Congruency Report on Privacy and Human Rights""",opposes,opposes,19,0.0,1669,2.5
+P0067,test,Apple Inc.,2024-02-28,2024,"A shareholder proposal entitled ""Racial and Gender Pay Gaps""",supports,supports,19,100.0,1669,41.4
+P0068,test,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding a human rights assessment of Al-driven targeted ad policies,supports,supports,21,100.0,1665,55.6
+P0069,test,"Meta Platforms, Inc.",2024-05-29,2024,A shareholder proposal regarding human rights impact assessment on AI systems driving targeted advertising.,supports,supports,3,100.0,1662,46.2
+P0070,test,"Meta Platforms, Inc.",2024-05-29,2024,A shareholder proposal regarding report on child safety impacts and actual harm reduction to children.,supports,supports,3,100.0,1661,64.8
+P0071,test,International Business Machines Corporation,2024-04-30,2024,Stockholder Proposal Requesting a Public Report on Climate Lobbying.,supports,supports,18,100.0,1658,41.0
+P0072,test,Apple Inc.,2024-02-28,2024,"A shareholder proposal entitled ""EEO Policy Risk Report""",opposes,opposes,19,0.0,1658,2.1
+P0073,test,"Meta Platforms, Inc.",2024-05-29,2024,A shareholder proposal regarding report and advisory vote on minimum age for social media.,opposes,unclear,3,0.0,1655,0.8
+P0074,dev,"Meta Platforms, Inc.",2024-05-29,2024,A shareholder proposal regarding report on political advertising and election cycle enhanced actions.,supports,supports,3,100.0,1654,8.5
+P0075,test,"Meta Platforms, Inc.",2024-05-29,2024,A shareholder proposal regarding report on framework to assess company lobbying alignment with climate goals.,supports,supports,3,100.0,1654,28.1
+P0076,dev,"Meta Platforms, Inc.",2024-05-29,2024,A shareholder proposal regarding report on generative AI misinformation and disinformation risks.,supports,supports,3,100.0,1652,55.0
+P0077,test,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding a report on generative Al misinformation and disinformation risks,supports,supports,21,100.0,1646,59.8
+P0078,test,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding an EEO policy risk report,opposes,opposes,21,0.0,1638,1.2
+P0079,test,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding a report on climate risks to retirement plan beneficiaries,supports,supports,21,85.7,1634,12.6
+P0080,test,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding a report on electromagnetic radiation and wireless technologies risks,opposes,unclear,21,9.5,1634,0.5
+P0081,test,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding a report on reproductive healthcare misinformation risks,supports,supports,21,100.0,1631,18.5
+P0082,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING ALTERNATIVE EMISSIONS REPORTING,supports,supports,12,100.0,1622,14.1
+P0083,dev,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON PACKAGING MATERIALS,supports,supports,12,100.0,1618,42.7
+P0084,dev,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON LOBBYING,supports,supports,12,100.0,1616,40.8
+P0085,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER USE OF CERTAIN TECHNOLOGIES,supports,unclear,12,100.0,1611,22.0
+P0086,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING A REPORT ON VIEWPOINT RESTRICTION,opposes,opposes,12,0.0,1606,1.4
+P0087,test,"Amazon.com, Inc.",2024-05-22,2024,SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON STAKEHOLDER IMPACTS,supports,supports,12,100.0,1600,35.6
+P0088,test,ALPHABET INC.,2025-06-06,2025,Stockholder proposal regarding a report on online safety for children,supports,supports,29,100.0,1593,24.9
+P0089,test,ALPHABET INC.,2025-06-06,2025,Stockholder proposal regarding a request to cease CEI participation,opposes,opposes,29,0.0,1584,3.5
+P0090,test,"META PLATFORMS, INC.",2025-05-28,2025,A shareholder proposal regarding Bitcoin treasury assessment.,opposes,unclear,4,0.0,1571,0.4
+P0091,dev,Apple Inc.,2024-02-28,2024,"A shareholder proposal entitled ""Report on Ensuring Respect for Civil Liberties""",opposes,opposes,19,0.0,1564,1.8
+P0092,test,Apple Inc.,2024-02-28,2024,A shareholder proposal requesting a report on the use of Al,supports,unclear,19,100.0,1563,59.3
+P0093,dev,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding a lobbying report,supports,supports,21,100.0,1559,54.8
+P0094,dev,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding a report on online safety for children,supports,supports,21,100.0,1552,46.7
+P0095,dev,Alphabet Inc.,2024-06-07,2024,Stockholder proposal regarding a policy for director transparency on political and charitable giving,opposes,opposes,21,0.0,1550,1.2
+P0096,dev,VISA INC.,2025-01-28,2025,Shareholder proposal on gender-based compensation gaps and associated risks.,opposes,opposes,23,0.0,1541,2.7
+P0097,test,ALPHABET INC.,2026-06-05,2026,Shareholder proposal regarding a report on AI-generated misinformation,supports,supports,23,91.3,1539,25.3
+P0098,dev,VISA INC.,2025-01-28,2025,Shareholder proposal requesting a report on policy on merchant category codes.,opposes,opposes,23,0.0,1535,1.2
+P0099,dev,VISA INC.,2025-01-28,2025,Shareholder proposal on transparency in lobbying.,supports,supports,23,95.7,1521,13.4
+P0100,test,General Motors Company,2024-06-04,2024,Shareholder Proposal Requesting a Report on the Use of Child Labor in Connection with the Company's EV Supply Chain,supports,supports,12,100.0,1488,15.7
+P0101,test,VISA INC.,2026-01-27,2026,Shareholder proposal on inclusion ROI audit.,opposes,opposes,23,0.0,1486,1.7
+P0102,test,ELI LILLY AND COMPANY,2026-05-04,2026,Shareholder proposal to prepare an annual lobbying report.,supports,supports,21,90.5,1473,15.3
+P0103,dev,UnitedHealth Group Incorporated,2024-06-03,2024,"If properly presented at the 2024 Annual Meeting of Shareholders, the shareholder proposal requiring a political contributions congruency report.",supports,supports,8,100.0,1472,26.0
+P0104,test,MASTERCARD INCORPORATED,2025-06-24,2025,Consideration of a stockholder proposal requesting a racial equity audit report,supports,supports,21,100.0,1426,6.2
+P0105,test,MASTERCARD INCORPORATED,2025-06-24,2025,Consideration of a stockholder proposal requesting a report on affirmative action risks,opposes,opposes,21,4.8,1419,1.4
+P0106,test,JPMORGAN CHASE & CO.,2026-05-19,2026,"Report on congruence of security, resiliency, and climate initiatives",opposes,supports,16,0.0,1380,0.9
+P0107,test,Mastercard Incorporated,2024-06-18,2024,Consideration of a stockholder proposal requesting a report on gender-based compensation and benefit gaps,opposes,opposes,17,5.9,1370,1.5
+P0108,test,Eli Lilly and Company,2024-05-06,2024,Shareholder proposal to adopt a comprehensive human rights policy,supports,supports,14,100.0,1369,10.7
+P0109,test,JPMORGAN CHASE & CO.,2026-05-19,2026,Lobbying alignment,supports,supports,16,87.5,1368,5.6
+P0110,test,Eli Lilly and Company,2024-05-06,2024,"Shareholder proposal to report on effectiveness of the company's diversity, equity, and inclusion efforts.",supports,supports,14,100.0,1362,35.4
+P0111,test,Eli Lilly and Company,2024-05-06,2024,Shareholder proposal to establish and report on a process by which the impact of extended patent exclusivities on product access would be considered in deciding whether to apply for secondary and tertiary patents.,supports,supports,14,100.0,1357,11.4
+P0112,test,"NETFLIX, INC.",2026-06-04,2026,"Stockholder proposal entitled, ''ESG ROI Report,'' if properly presented at the meeting.",opposes,opposes,19,0.0,1355,0.7
+P0113,test,JPMORGAN CHASE & CO.,2026-05-19,2026,Sustainability ROI report,opposes,opposes,16,0.0,1354,3.0
+P0114,test,JPMORGAN CHASE & CO.,2025-05-20,2025,Report on social impacts of transition finance,supports,supports,10,70.0,1352,6.1
+P0115,test,Adobe Inc.,2024-04-17,2024,Stockholder Proposal - Reporting on Hiring of Persons with Arrest or Incarceration Records.,supports,supports,21,100.0,1352,12.5
+P0116,test,"Merck & Co., Inc.",2024-05-28,2024,Shareholder proposal regarding a government censorship transparency report.,opposes,opposes,17,0.0,1343,1.0
+P0117,test,"MERCK & CO., INC.",2026-05-26,2026,Shareholder proposal regarding a report on political contributions.,supports,supports,16,93.8,1332,5.5
+P0118,test,"MERCK & CO., INC.",2026-05-26,2026,Shareholder proposal regarding a report on healthcare coverage gaps.,opposes,supports,16,0.0,1319,1.0
+P0119,dev,"MERCK & CO., INC.",2026-05-26,2026,Shareholder proposal regarding a report on DEI risks in federal contracting.,opposes,opposes,16,0.0,1317,1.3
+P0120,test,JPMorgan Chase & Co.,2024-05-21,2024,Indigenous peoples' rights indicators,supports,supports,9,100.0,1317,30.4
+P0121,test,JPMorgan Chase & Co.,2024-05-21,2024,Report on due diligence in conflict-affected and high-risk areas,supports,supports,9,100.0,1310,4.7
+P0122,test,Mastercard Incorporated,2024-06-18,2024,Consideration of a stockholder proposal requesting transparency in lobbying,supports,supports,17,100.0,1284,28.7
+P0123,dev,"NETFLIX, INC.",2025-06-05,2025,"Stockholder proposal entitled, ""Issue a Climate Transition Plan,"" if properly presented at the meeting.",supports,supports,18,100.0,1276,7.6
+P0124,test,Eli Lilly and Company,2024-05-06,2024,Shareholder proposal to publish an annual report disclosing lobbying activities.,supports,supports,14,100.0,1274,37.5
+P0125,dev,JOHNSON & JOHNSON,2025-04-24,2025,Produce a human rights impact assessment,supports,supports,3,100.0,1272,6.1
+P0126,dev,"NETFLIX, INC.",2025-06-05,2025,"Stockholder proposal entitled, ""Report on Charitable Giving,"" if properly presented at the meeting.",opposes,opposes,18,0.0,1270,0.5
+P0127,dev,"NETFLIX, INC.",2025-06-05,2025,"Stockholder proposal entitled, ""Amend the Code of Ethics to enhance policies on non-discrimination, anti-harassment, and whistleblower protection,"" if properly presented at the meeting.",supports,supports,18,100.0,1270,4.6
+P0128,test,"NETFLIX, INC.",2025-06-05,2025,"Stockholder proposal entitled, ""Affirmative Action Risks,"" if properly presented at the meeting.",opposes,opposes,18,0.0,1267,1.3
+P0129,dev,"Merck & Co., Inc.",2024-05-28,2024,Shareholder proposal regarding a report on respecting workforce civil liberties.,opposes,opposes,17,0.0,1263,1.8
+P0130,test,JPMorgan Chase & Co.,2024-05-21,2024,Humanitarian risks due to climate change policies,opposes,opposes,9,0.0,1261,1.0
+P0131,test,"Cisco Systems, Inc.",2023-12-06,2024,Stockholder Proposal - Approval to have Cisco's Board issue a tax transparency report in consideration of the Global Reporting Initiative's Tax Standard.,supports,supports,17,100.0,1260,24.0
+P0132,dev,"MERCK & CO., INC.",2025-05-27,2025,Shareholder proposal regarding a human rights impact assessment.,supports,supports,17,100.0,1258,11.4
+P0133,test,"GILEAD SCIENCES, INC.",2026-04-30,2026,"To vote on a stockholder proposal requesting a report on the impact of extended patent exclusivities on patient access, if properly presented at the Annual Meeting.",supports,supports,18,77.8,1258,5.7
+P0134,test,BANK OF AMERICA CORPORATION,2026-05-04,2026,Shareholder proposal requesting report on board oversight of risks related to animal welfare,supports,supports,16,68.8,1255,2.9
+P0135,test,"CISCO SYSTEMS, INC.",2025-12-16,2026,Stockholder Proposal - Approval to request the Board to conduct an evaluation and issue a report assessing how Cisco's Inclusion programs provide positive financial value to shareholders.,opposes,supports,14,0.0,1252,1.1
+P0136,test,"MERCK & CO., INC.",2025-05-27,2025,Shareholder proposal regarding a report on civil liberties in advertising services.,opposes,opposes,17,5.9,1246,1.6
+P0137,test,"MERCK & CO., INC.",2025-05-27,2025,Shareholder proposal regarding a tax transparency report.,supports,supports,17,100.0,1242,18.4
+P0138,dev,Bank of America Corporation,2025-04-22,2025,Shareholder proposal request report on lobbying alignment with Bank of America's climate goals,supports,supports,15,100.0,1227,12.0
+P0139,dev,WALMART INC.,2026-06-04,2026,Report on Workplace Health and Safety Governance,supports,supports,14,92.9,1214,11.8
+P0140,test,"TESLA, INC.",2025-11-06,2026,A shareholder proposal requesting a child labor audit.,supports,supports,7,85.7,1213,4.2
+P0141,dev,BANK OF AMERICA CORPORATION,2025-04-22,2025,Shareholder proposal requesting report on board oversight of risks related to animal welfare,supports,supports,15,73.3,1209,3.6
+P0142,test,Intuit Inc.,2026-01-22,2026,Shareholder proposal requesting the Board to issue a report on the return on investment of the Company's diversity and inclusion programs,opposes,opposes,19,0.0,1207,1.0
+P0143,test,BANK OF AMERICA CORPORATION,2025-04-22,2025,Shareholder proposal requesting disclosure of energy financing ratio,supports,supports,15,100.0,1201,14.1
+P0144,test,"THE HOME DEPOT, INC.",2025-05-22,2025,Shareholder Proposal Regarding Biodiversity Impact and Dependency Assessment,supports,supports,15,100.0,1193,8.1
+P0145,test,"Salesforce, Inc.",2024-06-27,2024,"A stockholder proposal requesting a report on viewpoint restriction risks, if properly presented at the meeting.",opposes,opposes,16,0.0,1193,0.8
+P0146,dev,QUALCOMM INCORPORATED,2026-03-17,2026,"Stockholder proposal entitled ""Report on Risk of China Exposure.""",opposes,opposes,11,9.1,1184,1.4
+P0147,test,"THE HOME DEPOT, INC.",2025-05-22,2025,Shareholder Proposal Regarding Report on Packaging Policies for Plastics,supports,supports,15,100.0,1180,14.8
+P0148,dev,LINDE PLC,2025-07-29,2026,A shareholder proposal requesting an annual report regarding the alignment of the Company's direct and indirect lobbying activities with the Company's 2050 climate neutrality ambition.,supports,supports,23,82.6,1179,7.9
+P0149,test,Comcast Corporation,2024-06-10,2024,Report on political expenditures misalignment with company values,supports,supports,11,100.0,1175,24.2
+P0150,test,"The Home Depot, Inc.",2024-05-16,2024,Shareholder Proposal Regarding a Report on Biodiversity Impact and Dependency Assessment,supports,supports,15,100.0,1169,14.0
+P0151,test,Johnson & Johnson,2024-04-25,2024,Gender-based compensation gaps and associated risks,opposes,opposes,4,0.0,1166,0.9
+P0152,test,THE PROCTER & GAMBLE COMPANY,2024-10-08,2025,Shareholder Proposal - Pay Gap Reporting.,supports,supports,15,100.0,1164,28.1
+P0153,dev,"The Home Depot, Inc.",2024-05-16,2024,Shareholder Proposal Regarding Political Contributions Congruency Analysis,supports,supports,15,100.0,1162,11.1
+P0154,test,"PEPSICO, INC.",2026-05-06,2026,Shareholder Proposal - Report on Human Rights Oversight.,supports,supports,12,100.0,1161,8.8
+P0155,dev,"Netflix, Inc.",2024-06-06,2024,"Stockholder proposal entitled, ""Report on Netflix's Use of Artificial Intelligence,"" if properly presented at the meeting.",supports,supports,16,100.0,1160,51.8
+P0156,dev,"Netflix, Inc.",2024-06-06,2024,"Stockholder proposal entitled, ""Corporate Financial Sustainability Proposal,"" if properly presented at the meeting.",opposes,opposes,16,0.0,1160,0.2
+P0157,test,QUALCOMM INCORPORATED,2025-03-18,2025,"Stockholder proposal entitled ""Protect Retirement Benefits.""",supports,unclear,11,100.0,1157,8.5
+P0158,test,The Procter & Gamble Company,2023-10-10,2024,Shareholder Proposal - Civil Rights Audit of Reverse Discrimination,opposes,opposes,15,0.0,1147,1.3
+P0159,test,"PEPSICO, INC.",2026-05-06,2026,Shareholder Proposal - Report Evaluating the Treatment of Animals within Supply Chain.,supports,supports,12,100.0,1146,5.6
+P0160,dev,The Procter & Gamble Company,2023-10-10,2024,Shareholder Proposal - Annual Report on Operations in China,opposes,opposes,15,6.7,1145,1.5
+P0161,test,"THE HOME DEPOT, INC.",2026-05-21,2026,Shareholder Proposal Regarding Biodiversity Impact and Dependency Assessment,supports,supports,18,94.4,1143,7.6
+P0162,test,"THE HOME DEPOT, INC.",2026-05-21,2026,Shareholder Proposal Regarding Report on Discrimination in Charitable Support,opposes,opposes,18,0.0,1141,1.1
+P0163,dev,"THE HOME DEPOT, INC.",2026-05-21,2026,Shareholder Proposal Regarding Report on Sufficiency of Associates' Access to Healthcare,supports,supports,18,66.7,1140,5.3
+P0164,test,"THE HOME DEPOT, INC.",2026-05-21,2026,Shareholder Proposal Regarding Report on Customer Data Privacy Risks,supports,supports,18,94.4,1140,5.8
+P0165,test,"THE HOME DEPOT, INC.",2026-05-21,2026,Shareholder Proposal Regarding Evaluation of Recycling-Related Plastics Targets,opposes,supports,18,0.0,1140,1.0
+P0166,dev,"THE HOME DEPOT, INC.",2026-05-21,2026,Shareholder Proposal Regarding Report on Packaging Policies for Plastics,supports,supports,18,94.4,1137,15.0
+P0167,test,WALMART INC.,2025-06-05,2025,Report on Reduction of Plastic Packaging and Recyclability Claims,supports,supports,12,100.0,1137,9.3
+P0168,test,WALMART INC.,2025-06-05,2025,Health and Safety Governance,supports,supports,12,100.0,1136,12.8
+P0169,dev,"Applied Materials, Inc.",2024-03-07,2024,Shareholder proposal requesting that Applied Materials report on quantitative median and adjusted pay gaps across race and gender.,supports,supports,18,100.0,1132,18.3
+P0170,test,"Applied Materials, Inc.",2024-03-07,2024,Shareholder proposal requesting that Applied Materials prepare a report disclosing Applied Materials' policy and procedures governing lobbying and payments by Applied Materials used for lobbying.,supports,supports,18,66.7,1132,13.3
+P0171,dev,AbbVie Inc.,2024-05-03,2024,Stockholder Proposal - to Issue Annual Report on Lobbying,supports,supports,13,100.0,1132,29.7
+P0172,test,WALMART INC.,2025-06-05,2025,Racial Equity Audit,supports,supports,12,100.0,1129,14.5
+P0173,test,WALMART INC.,2025-06-05,2025,"Report on Delays in Revising Diversity, Equity, and Inclusion (DEI) Initiatives",opposes,opposes,12,0.0,1127,0.8
+P0174,test,WALMART INC.,2025-06-05,2025,Revisit Plastics Packaging Policies,opposes,opposes,12,0.0,1125,1.0
+P0175,dev,BOOKING HOLDINGS INC.,2026-06-02,2026,Non-binding stockholder vote on a proposal to avoid brand damage due to corporate political spending.,supports,supports,13,100.0,1124,40.4
+P0176,test,THE PROCTER & GAMBLE COMPANY,2025-10-14,2026,Shareholder Proposal Requesting Additional Reporting on Plastic Packaging,supports,supports,16,93.8,1123,6.1
+P0177,test,Danaher Corporation,2024-05-07,2024,"To act upon a shareholder proposal requesting a report to shareholders on the effectiveness of the Company's diversity, equity and inclusion efforts.",supports,supports,23,100.0,1122,12.6
+P0178,test,AbbVie Inc.,2024-05-03,2024,Stockholder Proposal - to Issue a Report on Patent Process,supports,supports,13,100.0,1118,29.7
+P0179,test,WALMART INC.,2025-06-05,2025,Respect Civil Liberties in Advertising Services,opposes,opposes,12,0.0,1113,1.0
+P0180,test,Vertex Pharmaceuticals Incorporated,2024-05-15,2024,"Shareholder proposal, if properly presented at the meeting, regarding a report on racial and gender pay gaps.",supports,supports,16,100.0,1111,34.2
+P0181,test,"Merck & Co., Inc.",2025-05-27,2025,Shareholder proposal to revisit DEl goals in executive pay incentives.,opposes,opposes,13,7.7,1109,1.4
+P0182,test,Bank of America Corporation,2024-04-24,2024,Shareholder proposal requesting disclosure of clean energy financing ratio,supports,supports,12,100.0,1103,36.4
+P0183,test,"GILEAD SCIENCES, INC.",2026-04-30,2026,"To vote on a stockholder proposal requesting a report on the risks of ESG and DEI executive compensation metrics, if properly presented at the Annual Meeting.",opposes,opposes,13,0.0,1100,1.2
+P0184,dev,Bank of America Corporation,2024-04-24,2024,Shareholder proposal requesting report on lobbying alignment with Bank of America's climate goals,supports,supports,12,100.0,1100,34.2
+P0185,test,"NETFLIX, INC.",2026-06-04,2026,"Stockholder proposal entitled, ''Report on Politicized Brand Misalignment,'' if properly presented at the meeting.",opposes,opposes,17,0.0,1099,0.5
+P0186,test,THE WALT DISNEY COMPANY,2026-03-18,2026,"Shareholder proposal, if properly presented at the meeting, requesting an independent review and report on accessibility and disability inclusion practices.",supports,supports,11,81.8,1099,2.1
+P0187,test,THE WALT DISNEY COMPANY,2026-03-18,2026,"Shareholder proposal, if properly presented at the meeting, requesting a report on how the employee gift-matching program may impact risks related to religious discrimination against employees.",opposes,opposes,11,0.0,1096,1.0
+P0188,test,Intuit Inc.,2024-01-18,2024,Stockholder proposal requesting a retirement plan investment report,supports,supports,18,100.0,1095,12.5
+P0189,dev,"The Home Depot, Inc.",2024-05-16,2024,Shareholder Proposal Regarding a Report on Respecting Workforce Civil Liberties,opposes,opposes,15,0.0,1091,1.4
+P0190,test,"The Home Depot, Inc.",2024-05-16,2024,Shareholder Proposal Regarding Corporate Giving Report,opposes,opposes,15,6.7,1089,1.2
+P0191,dev,"The Home Depot, Inc.",2024-05-16,2024,Shareholder Proposal Regarding Disclosure of Director Donations,opposes,opposes,15,0.0,1083,0.7
+P0192,dev,WELLS FARGO & COMPANY,2026-04-28,2026,Shareholder Proposal - Energy Supply Ratio.,supports,supports,6,83.3,1080,11.3
+P0193,dev,WELLS FARGO & COMPANY,2026-04-28,2026,Shareholder Proposal - Report on High-Carbon Financing Litigation Risks.,supports,supports,6,83.3,1079,3.2
+P0194,dev,"GILEAD SCIENCES, INC.",2025-05-07,2025,"To vote on a stockholder proposal requesting a comprehensive human rights policy and human rights due diligence process, if properly presented at the Annual Meeting.",supports,supports,18,100.0,1078,41.1
+P0195,test,GE VERNOVA INC.,2026-05-20,2026,Stockholder proposal requesting report assessing sustainability goals on the basis of net-present-value and return-on-investment calculation,opposes,opposes,10,0.0,1072,2.9
+P0196,test,"GILEAD SCIENCES, INC.",2025-05-07,2025,"To vote on a stockholder proposal requesting a report on the risks of the Company's DEI practices for contractors, if properly presented at the Annual Meeting.",opposes,opposes,18,0.0,1070,1.2
+P0197,dev,WELLS FARGO & COMPANY,2026-04-28,2026,Shareholder Proposal - Report on Respecting Vendor Civil Liberties.,opposes,opposes,6,0.0,1069,0.5
+P0198,dev,WELLS FARGO & COMPANY,2025-04-29,2025,Shareholder Proposal - Report on Respecting Indigenous Peoples' Rights.,supports,supports,5,100.0,1062,6.3
+P0199,test,WELLS FARGO & COMPANY,2025-04-29,2025,Shareholder Proposal - Energy Supply Ratio.,supports,supports,5,100.0,1062,14.4
+P0200,test,JPMorgan Chase & Co.,2024-05-21,2024,Report on respecting workforce civil liberties,opposes,opposes,9,0.0,1058,0.3
+P0201,test,ORACLE CORPORATION,2024-11-14,2025,Stockholder Proposal Regarding a Report on Climate Risks to Retirement Plan Beneficiaries.,supports,supports,10,80.0,1058,9.1
+P0202,test,WELLS FARGO & COMPANY,2025-04-29,2025,Shareholder Proposal - Annual Report on Prevention of Workplace Harassment and Discrimination.,supports,supports,5,100.0,1057,13.2
+P0203,test,THE COCA-COLA COMPANY,2026-04-29,2026,Vote on a shareowner proposal requesting a report evaluating the Company's plastics packaging policies,opposes,supports,13,0.0,1054,0.8
+P0204,test,THE COCA-COLA COMPANY,2026-04-29,2026,Vote on a shareowner proposal requesting a report on the Company's plans to increase sustainability disclosure,supports,supports,13,100.0,1052,27.0
+P0205,dev,WELLS FARGO & COMPANY,2025-04-29,2025,Shareholder Proposal - Annual Report on Congruency of Political Spending and Corporate Values.,supports,supports,5,100.0,1052,6.5
+P0206,dev,COSTCO WHOLESALE CORPORATION,2026-01-15,2026,Shareholder proposal regarding greenwashing risk audit.,opposes,opposes,15,0.0,1049,2.4
+P0207,test,THE COCA-COLA COMPANY,2026-04-29,2026,Vote on a shareowner proposal requesting a report on risks related to ingredients,supports,supports,13,100.0,1045,6.3
+P0208,test,Walmart Inc.,2024-06-05,2024,Human Rights Impact Assessment,supports,supports,9,100.0,1042,29.8
+P0209,test,COSTCO WHOLESALE CORPORATION,2025-01-23,2025,Shareholder proposal requesting report on the risks of maintaining DEI efforts.,opposes,opposes,14,0.0,1042,1.8
+P0210,test,"PepsiCo, Inc.",2024-05-01,2024,"Shareholder Proposal - Report on Risks Created by the Company's Diversity, Equity and Inclusion Efforts.",opposes,opposes,11,0.0,1035,2.1
+P0211,dev,"NIKE, Inc.",2023-09-12,2024,"To consider a shareholder proposal regarding a Supply Chain Management Report, if properly presented at the meeting.",supports,supports,13,100.0,1034,14.5
+P0212,test,Walmart Inc.,2024-06-05,2024,Workplace Safety & Violence Review,supports,supports,9,100.0,1034,52.7
+P0213,test,Bank of America Corporation,2024-04-24,2024,Shareholder proposal requesting report on risks of politicized de-banking,opposes,opposes,12,0.0,1033,1.5
+P0214,test,"PepsiCo, Inc.",2024-05-01,2024,Shareholder Proposal - Report on Gender-Based Compensation Gaps and Associated Risks.,opposes,opposes,11,0.0,1032,1.0
+P0215,test,GE AEROSPACE,2026-05-05,2026,Shareholder Proposal Requesting Report on Defense-Related Products,supports,unclear,5,100.0,1031,4.1
+P0216,test,Walmart Inc.,2024-06-05,2024,Racial Equity Audit,supports,supports,9,100.0,1031,39.3
+P0217,dev,Walmart Inc.,2024-06-05,2024,Publication of Targets for Transitioning from Gestation Crates in Pork Supply Chain,supports,supports,9,100.0,1031,40.2
+P0218,test,"PepsiCo, Inc.",2024-05-01,2024,Shareholder Proposal - Report on Risks Related to Biodiversity and Nature Loss.,supports,supports,11,100.0,1027,16.4
+P0219,test,"The TJX Companies, Inc.",2024-06-04,2024,Shareholder proposal for a report on effectiveness of social compliance efforts in TJX's supply chain,supports,unclear,16,100.0,1025,12.5
+P0220,test,"PepsiCo, Inc.",2024-05-01,2024,Shareholder Proposal - Third-Party Racial Equity Audit.,supports,supports,11,100.0,1024,22.9
+P0221,test,Walmart Inc.,2024-06-05,2024,Corporate Financial Sustainability Report,opposes,opposes,9,0.0,1024,0.0
+P0222,dev,"PepsiCo, Inc.",2024-05-01,2024,Shareholder Proposal - Global Transparency Report.,supports,unclear,11,100.0,1023,13.5
+P0223,test,THE WALT DISNEY COMPANY,2025-03-20,2025,"Shareholder proposal, if properly presented at the meeting, requesting a report on climate risks to retirement plan beneficiaries.",supports,supports,15,100.0,1021,6.8
+P0224,dev,Walmart Inc.,2026-06-04,2026,Report on Workforce Impact of Al and Automation,supports,unclear,13,92.3,1021,6.6
+P0225,test,The Coca-Cola Company,2024-05-01,2024,"Vote on a shareowner proposal requesting a report on risks created by the Company's diversity, equity and inclusion efforts",opposes,opposes,10,0.0,1020,1.3
+P0226,dev,THE WALT DISNEY COMPANY,2025-03-20,2025,"Shareholder proposal, if properly presented at the meeting, requesting consideration of participation in the Human Rights Campaign's Corporate Equality Index.",opposes,opposes,15,0.0,1020,3.3
+P0227,dev,Oracle Corporation,2023-11-15,2024,Stockholder Proposal Regarding Pay Gap Report,supports,supports,9,100.0,1018,67.5
+P0228,test,The Coca-Cola Company,2024-05-01,2024,Vote on a shareowner proposal requesting a report on risks caused by the decline in the quality of accessible medical care,supports,unclear,10,100.0,1017,10.5
+P0229,test,VERIZON COMMUNICATIONS INC.,2026-05-21,2026,Board oversight of material issues related to climate change,supports,supports,14,92.9,1017,6.4
+P0230,test,The Cigna Group,2024-04-24,2024,"Shareholder proposal - Report to shareholders on risks created by the The Cigna Group's diversity, equity, and inclusion efforts.",opposes,opposes,9,0.0,1016,1.3
+P0231,test,"THE GOLDMAN SACHS GROUP, INC.",2026-04-29,2026,Shareholder Proposal Regarding Disclosure of Energy Supply Ratio,supports,supports,10,100.0,1014,10.1
+P0232,test,WALMART INC.,2026-06-04,2026,Report on Immigration Policy & Enforcement,supports,unclear,13,69.2,1010,11.8
+P0233,test,"PEPSICO, INC.",2025-05-07,2025,Shareholder Proposal - Report on Risks Related to Biodiversity and Nature Loss.,supports,supports,11,100.0,1009,11.1
+P0234,test,"Intuitive Surgical, Inc.",2024-04-25,2024,"The stockholder proposal requesting a racial and gender pay gap report, if properly presented at the Annual Meeting.",supports,supports,16,100.0,1008,31.0
+P0235,test,Wells Fargo & Company,2024-04-30,2024,Shareholder Proposal - Audit of Climate Transition Policies.,opposes,supports,5,0.0,1005,0.7
+P0236,dev,"PEPSICO, INC.",2025-05-07,2025,Shareholder Proposal - Third-Party Racial Equity Audit.,supports,supports,11,100.0,1005,14.9
+P0237,dev,"THE GOLDMAN SACHS GROUP, INC.",2026-04-29,2026,Shareholder Proposal Regarding Lobbying Disclosure,supports,supports,10,100.0,1004,43.8
+P0238,test,"Tesla, Inc.",2024-06-13,2024,"A stockholder proposal regarding committing to a moratorium on sourcing minerals from deep sea mining, if properly presented.",supports,supports,10,100.0,1003,6.6
+P0239,dev,Wells Fargo & Company,2024-04-30,2024,Shareholder Proposal - Report on Respecting Indigenous Peoples' Rights.,supports,supports,5,100.0,1003,29.4
+P0240,test,"Tesla, Inc.",2024-06-13,2024,"A stockholder proposal regarding reporting on effects and risks associated with electromagnetic radiation and wireless technologies, if properly presented.",opposes,unclear,10,10.0,1003,0.8
+P0241,dev,"Tesla, Inc.",2024-06-13,2024,"A stockholder proposal regarding annual reporting on anti-harassment and discrimination efforts, if properly presented.",supports,supports,10,100.0,1002,64.1
+P0242,test,Wells Fargo & Company,2024-04-30,2024,Shareholder Proposal - Annual Report on Congruency of Political Spending and Corporate Values.,supports,supports,5,100.0,1001,30.7
+P0243,dev,THE WALT DISNEY COMPANY,2025-03-20,2025,"Shareholder proposal, if properly presented at the meeting, requesting a report on risks related to selection of ad buyers and sellers.",opposes,unclear,15,0.0,1000,0.7
+P0244,dev,ADOBE INC.,2026-04-15,2026,Stockholder Proposal Regarding Report on Civil Liberties in Digital Services.,opposes,opposes,12,8.3,999,1.2
+P0245,test,Wells Fargo & Company,2024-04-30,2024,Shareholder Proposal - Annual Report on Prevention of Workplace Harassment and Discrimination.,supports,supports,5,100.0,998,35.6
+P0246,test,WELLS FARGO & COMPANY,2026-04-28,2026,Shareholder Proposal - Board Committee on Indigenous Peoples' Rights.,opposes,supports,6,0.0,997,1.1
+P0247,test,"PEPSICO, INC.",2025-05-07,2025,Shareholder Proposal - Sustainable Packaging Policies for Plastics.,supports,supports,11,100.0,997,9.3
+P0248,test,Texas Instruments Incorporated,2024-04-25,2024,Stockholder proposal to report on due diligence efforts to identify risks associated with product misuse.,supports,unclear,14,100.0,996,23.1
+P0249,test,VERIZON COMMUNICATIONS INC.,2025-05-22,2025,Climate lobbying alignment,supports,supports,13,100.0,995,7.5
+P0250,dev,Wells Fargo & Company,2024-04-30,2024,Shareholder Proposal - Annual Climate Lobbying Congruency Report.,supports,supports,5,100.0,995,33.4
+P0251,test,Wells Fargo & Company,2024-04-30,2024,Shareholder Proposal - Third-Party Assessment of Respect for Freedom of Association and Collective Bargaining.,supports,supports,5,100.0,995,36.8
+P0252,dev,THE COCA-COLA COMPANY,2025-04-30,2025,Vote on shareowner proposal regarding a report on food waste,supports,supports,11,100.0,995,16.0
+P0253,dev,"NEXTERA ENERGY, INC.",2026-05-21,2026,"A proposal entitled ''Paris Agreement Alignment'' requesting NextEra Energy publish a report describing if and how the Company plans to reduce its total contribution to climate change and align its operations and investments with the Paris Agreement's goal of maintaining global temperatures well below 2 degrees Celsius, and ideally, 1.5 degrees Celsius.",supports,supports,11,90.9,993,29.5
+P0254,test,"Gilead Sciences, Inc.",2024-05-08,2024,"To vote on a stockholder proposal requesting that the Board issue a report detailing the risks and costs to the Company caused by opposing or otherwise altering Company policy in response to state policies regulating abortion, and detailing any strategies beyond litigation and legal compliance that the Company may deploy to minimize or mitigate these risks.",opposes,unclear,16,0.0,990,2.2
+P0255,dev,INTERNATIONAL BUSINESS MACHINES CORP.,2026-04-28,2026,Stockholder Proposal Requesting a Report on Al Bias,opposes,opposes,10,0.0,990,0.8
+P0256,test,"TESLA, INC.",2025-11-06,2026,A shareholder proposal regarding adopting targets and reporting on metrics to assess the feasibility of integrating sustainability metrics into senior executive compensation plans.,supports,supports,7,100.0,989,6.2
+P0257,dev,MORGAN STANLEY,2025-05-15,2025,Shareholder proposal requesting an energy supply ratio,supports,supports,6,83.3,985,13.7
+P0258,test,INTERNATIONAL BUSINESS MACHINES CORP.,2026-04-28,2026,Stockholder Proposal Requesting a Report on Discrimination in Charitable Support,opposes,opposes,10,0.0,985,1.5
+P0259,test,McDonald's Corporation,2024-05-22,2024,Advisory Vote on Congruency Analysis on Human Rights.,opposes,supports,5,0.0,984,1.2
+P0260,dev,"NEXTERA ENERGY, INC.",2026-05-21,2026,"A proposal entitled ''Report on Net Zero Business Performance Risks'' requesting the Board of Directors of NextEra Energy prepare a report within the next year, evaluating the potential costs and benefits to NextEra Energy created by aggressive emission reduction policies.",opposes,opposes,11,0.0,983,0.7
+P0261,test,VERIZON COMMUNICATIONS INC.,2025-05-22,2025,Lead-sheathed cable report,supports,supports,13,100.0,981,6.3
+P0262,test,McDonald's Corporation,2024-05-22,2024,Advisory vote on Annual Report on Global Political Influence.,supports,unclear,5,100.0,981,8.9
+P0263,test,McDonald's Corporation,2024-05-22,2024,Advisory Vote on Adoption of Antibiotics Policy.,supports,supports,5,100.0,980,9.8
+P0264,dev,THE COCA-COLA COMPANY,2025-04-30,2025,Vote on shareowner proposal regarding a report on civil liberties in advertising services,opposes,opposes,11,0.0,980,1.0
+P0265,dev,AMERICAN EXPRESS COMPANY,2025-04-29,2025,Shareholder proposal relating to civil liberties in advertising services.,opposes,opposes,12,0.0,979,1.3
+P0266,test,McDonald's Corporation,2024-05-22,2024,Advisory Vote on Poultry Welfare Disclosure.,supports,supports,5,100.0,978,32.2
+P0267,dev,THE COCA-COLA COMPANY,2025-04-30,2025,Vote on shareowner proposal regarding creation of an improper influence board committee,opposes,opposes,11,9.1,977,0.9
+P0268,test,VERIZON COMMUNICATIONS INC.,2025-05-22,2025,Discrimination in advertising services,opposes,unclear,13,0.0,975,1.5
+P0269,test,Booking Holdings Inc.,2024-06-04,2024,Stockholder proposal requesting a non-binding stockholder vote regarding reproductive rights and data privacy.,supports,supports,9,100.0,972,12.2
+P0270,test,CITIGROUP INC.,2025-04-29,2025,Stockholder proposal requesting a report on the effectiveness of Citi's policies and practices in respecting Indigenous Peoples' rights in Citi's existing and proposed financing.,supports,supports,10,100.0,970,8.8
+P0271,dev,CITIGROUP INC.,2025-04-29,2025,Stockholder proposal requesting a report on financial statement assumptions and climate change.,opposes,opposes,10,0.0,969,0.7
+P0272,test,CITIGROUP INC.,2025-04-29,2025,Stockholder proposal requesting a report disclosing the Board's oversight regarding material risks associated with animal welfare.,supports,supports,10,90.0,968,3.4
+P0273,test,AMERICAN EXPRESS COMPANY,2026-05-05,2026,Shareholder proposal requesting a report on coverage of transgender healthcare treatments for minors.,opposes,supports,12,0.0,968,1.1
+P0274,test,ConocoPhillips,2024-05-14,2024,Revisit Pay Incentives for GHG Emission Reductions.,opposes,opposes,3,0.0,968,1.8
+P0275,test,Bank of America Corporation,2024-04-24,2024,Shareholder proposal requesting changes to executive compensation program,supports,unclear,10,80.0,967,4.7
+P0276,dev,Walmart Inc.,2024-06-05,2024,Report on Respecting Workforce Civil Liberties.,opposes,opposes,9,0.0,966,0.7
+P0277,test,"NIKE, Inc.",2023-09-12,2024,"To consider a shareholder proposal regarding Supplemental Pay Equity Disclosure, if properly presented at the meeting.",supports,supports,13,100.0,966,44.1
+P0278,dev,"Uber Technologies, Inc.",2024-05-06,2024,Stockholder proposal to prepare an independent third-party audit on Driver health and safety.,supports,supports,7,100.0,962,9.7
+P0279,test,Walmart Inc.,2024-06-05,2024,Set Compensation that Optimizes Portfolio Value for Company Shareholders.,supports,unclear,9,100.0,958,10.0
+P0280,dev,BRISTOL-MYERS SQUIBB COMPANY,2025-05-06,2025,Shareholder Proposal on a Request to Cease DEI Efforts,opposes,opposes,11,0.0,958,0.5
+P0281,test,THE COCA-COLA COMPANY,2026-04-29,2026,Vote on a shareowner proposal requesting a sustainability committee by-law amendment,opposes,supports,13,0.0,957,0.7
+P0282,dev,BRISTOL-MYERS SQUIBB COMPANY,2025-05-06,2025,Shareholder Proposal on Corporate Financial Sustainability,opposes,opposes,11,0.0,956,0.5
+P0283,test,"LOWE'S COMPANIES, INC.",2026-05-29,2026,Shareholder Proposal requesting a report describing how the Company could disclose its plastic packaging footprint.,supports,supports,11,90.9,953,9.5
+P0284,dev,"THE GOLDMAN SACHS GROUP, INC.",2025-04-23,2025,Shareholder Proposal Regarding Racial Discrimination Audit,opposes,opposes,5,0.0,951,1.6
+P0285,dev,"THE GOLDMAN SACHS GROUP, INC.",2025-04-23,2025,Shareholder Proposal Regarding Disclosure of Energy Supply Financing Ratio,supports,supports,5,100.0,951,13.0
+P0286,test,Verizon Communications Inc.,2024-05-09,2024,Lead-sheathed cable report,supports,supports,15,100.0,948,13.5
+P0287,dev,"LOWE'S COMPANIES, INC.",2026-05-29,2026,Shareholder Proposal requesting a report on risks of sharing customer data with third parties.,supports,unclear,11,90.9,946,5.0
+P0288,test,Wells Fargo & Company,2024-04-30,2024,Shareholder Proposal - Transparency in Lobbying Annual Report.,supports,supports,5,100.0,943,45.6
+P0289,test,American Tower Corporation,2024-05-22,2024,"To consider a stockholder proposal, if properly presented, regarding disclosure of racial and gender pay gaps.",supports,supports,13,100.0,942,58.1
+P0290,test,Wells Fargo & Company,2024-04-30,2024,Shareholder Proposal - Report on Risks of Politicized De-Banking.,opposes,opposes,5,0.0,939,0.9
+P0291,test,"Tesla, Inc.",2024-06-13,2024,"A stockholder proposal regarding adoption of a freedom of association and collective bargaining policy, if properly presented.",supports,supports,10,90.0,939,46.1
+P0292,dev,"GILEAD SCIENCES, INC.",2025-05-07,2025,"To vote on a stockholder proposal requesting the CEO pay ratio factor be included in the Company's executive compensation programs, if properly presented at the Annual Meeting.",supports,unclear,14,92.9,936,4.5
+P0293,dev,The Progressive Corporation,2024-05-10,2024,"Shareholder proposal regarding a report on the Company's diversity, equity, and inclusion efforts; and",opposes,opposes,16,6.2,933,1.6
+P0294,test,AT&T INC.,2026-05-14,2026,EEO-1 Report Disclosure Policy,supports,supports,8,87.5,929,26.7
+P0295,test,"NextEra Energy, Inc.",2024-05-23,2024,"A proposal entitled ""Climate Lobbying Report"" requesting a report on the Company's lobbying and trade association memberships in relation to the Company's emissions goal",supports,supports,12,100.0,927,30.0
+P0296,test,American Express Company,2024-05-06,2024,Shareholder proposal relating to climate lobbying.,supports,supports,13,100.0,925,30.9
+P0297,test,MCDONALD'S CORPORATION,2025-05-20,2025,Advisory Vote on Disclosure on Climate Transition Plans.,supports,supports,5,100.0,920,7.2
+P0298,test,Costco Wholesale Corporation,2024-01-18,2024,Shareholder proposal regarding fiduciary carbon-emission relevance report.,opposes,opposes,15,0.0,917,2.0
+P0299,dev,American Express Company,2024-05-06,2024,Shareholder proposal relating to merchant category codes.,opposes,opposes,13,0.0,916,0.7
+P0300,test,"Mondelez International, Inc.",2024-05-22,2024,Shareholder proposal requesting Board adopt targets and publicly report quantitative metrics to eradicate child labor from cocoa supply chain;,supports,supports,15,100.0,911,16.5
+P0301,test,MCDONALD'S CORPORATION,2025-05-20,2025,Advisory Vote on Report Related to Oversight of Advertising Risks.,opposes,opposes,5,0.0,910,1.3
+P0302,test,McDonald's Corporation,2024-05-22,2024,Advisory Vote on Corporate Giving Disclosure.,opposes,opposes,5,0.0,906,0.4
+P0303,test,CVS Health Corporation,2024-05-16,2024,"Stockholder Proposal Requesting an Independent, Third Party Worker Rights Assessment and Report.",supports,supports,10,100.0,905,33.3
+P0304,dev,Lennar Corporation,2024-04-10,2024,Vote on a stockholder proposal requesting a report disclosing the Company's LGBTQ equity and inclusion efforts in its human capital management strategy.,supports,supports,7,100.0,903,44.1
+P0305,test,"Mondelez International, Inc.",2024-05-22,2024,Shareholder proposal requesting an Audit Committee subcommittee study on Company affiliations;,opposes,unclear,15,0.0,903,0.2
+P0306,dev,Intel Corporation,2024-05-07,2024,"Stockholder proposal requesting a risk report of opposing state abortion regulation, if properly presented at the meeting.",opposes,opposes,18,0.0,901,0.9
+P0307,dev,Pfizer Inc.,2024-04-25,2024,Publish a Report on Corporate Contributions,opposes,unclear,9,0.0,898,1.0
+P0308,dev,The Walt Disney Company,2024-04-03,2024,"Shareholder proposal, if properly presented at the meeting, requesting a report on gender transitioning compensation and benefits.",opposes,opposes,18,0.0,896,0.8
+P0309,test,INTERNATIONAL BUSINESS MACHINES CORP.,2025-04-29,2025,Stockholder Proposal to Support Transparency in Lobbying,supports,supports,12,100.0,895,16.8
+P0310,dev,"United Parcel Service, Inc.",2024-05-02,2024,To prepare a report on the risks arising from voluntary carbon-reduction commitments.,opposes,opposes,14,0.0,895,6.0
+P0311,test,The Walt Disney Company,2024-04-03,2024,"Shareholder proposal, if properly presented at the meeting, requesting publication of recipients of charitable contributions.",opposes,opposes,18,0.0,893,2.1
+P0312,dev,INTERNATIONAL BUSINESS MACHINES CORP.,2025-04-29,2025,Stockholder Proposal Requesting a Report on Hiring/Recruitment Discrimination,opposes,opposes,12,0.0,892,1.3
+P0313,test,AMERICAN EXPRESS COMPANY,2026-05-05,2026,Shareholder proposal regarding political bias risk oversight.,opposes,unclear,12,0.0,892,0.6
+P0314,test,AMERICAN EXPRESS COMPANY,2025-04-29,2025,Shareholder proposal relating to DEI goals in executive pay incentives.,opposes,opposes,10,0.0,892,1.1
+P0315,dev,S&P GLOBAL INC.,2026-05-20,2026,Vote on a shareholder proposal to issue a report on the Company's charitable support;,opposes,opposes,18,0.0,891,1.1
+P0316,test,Verizon Communications Inc.,2024-05-09,2024,Lobbying activities report,supports,supports,15,100.0,890,36.5
+P0317,dev,"Ross Stores, Inc.",2024-05-22,2024,"To vote on a stockholder proposal regarding reporting on material value chain GHG emissions, if properly presented at the Annual Meeting.",supports,supports,13,76.9,889,28.5
+P0318,test,Intel Corporation,2024-05-07,2024,"Stockholder proposal requesting a corporate financial sustainability board committee, if properly presented at the meeting.",opposes,opposes,18,0.0,889,0.8
+P0319,test,"United Parcel Service, Inc.",2024-05-02,2024,"To prepare an annual report on the effectiveness of UPS's diversity, equity and inclusion efforts.",supports,supports,14,100.0,888,43.2
+P0320,test,COLGATE-PALMOLIVE COMPANY,2025-05-09,2025,"Stockholder proposal entitled ""Revisit plastic packaging policies.""",opposes,opposes,14,0.0,886,1.4
+P0321,dev,CUMMINS INC.,2026-05-12,2026,Shareholder proposal requesting a report on the Company's charitable support.,opposes,opposes,13,0.0,886,1.7
+P0322,dev,The Coca-Cola Company,2025-04-30,2025,Vote on shareowner proposal regard DEI goals in executive pay,opposes,opposes,10,0.0,885,0.7
+P0323,test,"O'REILLY AUTOMOTIVE, INC.",2026-05-14,2026,"Shareholder proposal entitled ""Avoid Brand Damage due to Corporate Political Spending.""",supports,supports,13,100.0,883,50.2
+P0324,test,Citigroup Inc.,2024-04-30,2024,Stockholder proposal requesting a report disclosing the Board's oversight regarding material risks associated with animal welfare.,supports,supports,9,77.8,883,5.2
+P0325,test,MCKESSON CORPORATION,2024-07-31,2025,Shareholder Proposal on Report on Risks of State Policies Restricting Reproductive Health Care.,supports,supports,3,100.0,883,10.8
+P0326,test,Verizon Communications Inc.,2024-05-09,2024,Civil liberties in digital services,opposes,opposes,15,0.0,882,1.6
+P0327,test,INTEL CORPORATION,2026-05-13,2026,Stockholder proposal requesting a report on Intel's human rights due diligence process.,supports,supports,13,92.3,882,4.5
+P0328,test,Citigroup Inc.,2024-04-30,2024,Stockholder proposal requesting a report on the effectiveness of Citi's policies and practices in respecting Indigenous Peoples' rights in Citi's existing and proposed financing.,supports,supports,9,100.0,881,27.5
+P0329,test,Verizon Communications Inc.,2024-05-09,2024,Political expenditures misalignment,supports,supports,15,100.0,881,13.7
+P0330,dev,Citigroup Inc.,2024-04-30,2024,"Stockholder proposal requesting a report to Shareholders on risks created by the Company's diversity, equity, and inclusion efforts.",opposes,opposes,9,0.0,880,0.8
+P0331,test,Deere & Company,2024-02-28,2024,"Shareholder proposal regarding a civil rights, non-discrimination, and return to merit audit",opposes,opposes,15,0.0,880,0.8
+P0332,dev,CONSTELLATION ENERGY CORP,2026-04-28,2026,"To consider a shareholder proposal (if properly presented) requesting a report assessing the bases for the company's diversity, equity and inclusion initiatives",opposes,supports,8,0.0,877,0.3
+P0333,test,"ELEVANCE HEALTH, INC.",2025-05-14,2025,"Shareholder proposal requesting report on the effectiveness of Diversity, Equity and Inclusion efforts.",supports,supports,13,100.0,877,10.8
+P0334,test,INTEL CORPORATION,2026-05-13,2026,Stockholder proposal requesting a report on risk of China exposure.,opposes,opposes,13,0.0,873,1.3
+P0335,dev,Chubb Limited,2024-05-16,2024,"Shareholder Proposal On Pay Gap Reporting, If Properly Presented",supports,supports,6,100.0,873,29.0
+P0336,test,Morgan Stanley,2024-05-23,2024,Shareholder proposal requesting a clean energy supply financing ratio,supports,unclear,5,80.0,873,32.9
+P0337,dev,STRYKER CORPORATION,2025-05-08,2025,Shareholder Proposal to Support Transparency in Political Spending.,supports,supports,13,100.0,872,24.2
+P0338,test,DEERE & COMPANY,2025-02-26,2025,Shareholder proposal on a report on charitable giving,opposes,opposes,16,0.0,872,0.6
+P0339,test,DEERE & COMPANY,2025-02-26,2025,Shareholder proposal on a civil rights audit,supports,supports,16,100.0,872,37.0
+P0340,dev,DEERE & COMPANY,2025-02-26,2025,Shareholder proposal on a report on racial and gender hiring statistics,opposes,opposes,16,0.0,871,0.9
+P0341,test,"Mondelez International, Inc.",2024-05-22,2024,Shareholder proposal requesting third-party report assessing effectiveness of implementation of human rights policy; and,supports,supports,15,100.0,871,29.5
+P0342,dev,"CADENCE DESIGN SYSTEMS, INC.",2025-05-08,2025,Stockholder proposal regarding political spending.,supports,supports,14,100.0,868,34.8
+P0343,dev,DEERE & COMPANY,2025-02-26,2025,Shareholder proposal on a report on effectiveness of efforts to create a meritocratic workplace,supports,unclear,16,100.0,867,12.3
+P0344,test,ADOBE INC.,2026-04-15,2026,Stockholder Proposal Regarding Board Matrix.,supports,unclear,10,100.0,865,4.3
+P0345,test,DEERE & COMPANY,2025-02-26,2025,Shareholder proposal on a corporate financial sustainability report,opposes,opposes,16,6.2,865,0.8
+P0346,test,"NIKE, INC.",2024-09-10,2025,"To consider a shareholder proposal regarding Environmental Targets, if properly presented at the meeting.",supports,unclear,15,100.0,865,40.7
+P0347,dev,Starbucks Corporation,2024-03-13,2024,Shareholder proposal requesting a report on human rights policies.,opposes,supports,14,7.1,864,2.3
+P0348,test,STARBUCKS CORPORATION,2025-03-12,2025,Shareholder proposal requesting a report on human rights risks related to labor organizing.,opposes,supports,15,0.0,863,0.7
+P0349,test,STARBUCKS CORPORATION,2025-03-12,2025,Shareholder proposal requesting disclosure on cage-free egg commitments in China and Japan.,supports,supports,15,86.7,863,11.1
+P0350,test,STARBUCKS CORPORATION,2025-03-12,2025,Shareholder proposal requesting an annual emissions congruency report.,opposes,supports,15,0.0,863,1.7
+P0351,test,"NIKE, INC.",2024-09-10,2025,"To consider a shareholder proposal regarding a Supply Chain Management Report, if properly presented at the meeting.",supports,supports,15,100.0,862,15.8
+P0352,test,STARBUCKS CORPORATION,2025-03-12,2025,Shareholder proposal requesting an annual report on discrimination risks related to charitable giving.,opposes,opposes,15,0.0,862,1.0
+P0353,test,Starbucks Corporation,2024-03-13,2024,Shareholder proposal requesting a report on direct and systemic discrimination.,opposes,unclear,14,0.0,858,1.4
+P0354,test,The Charles Schwab Corporation,2024-05-23,2024,Stockholder Proposal on Workforce Discrimination Risk Oversight and Impact,opposes,unclear,13,0.0,857,0.9
+P0355,test,The Walt Disney Company,2024-04-03,2024,"Shareholder proposal, if properly presented at the meeting, requesting a report on political expenditures.",supports,supports,18,100.0,855,27.7
+P0356,test,The Charles Schwab Corporation,2024-05-23,2024,Stockholder Proposal on Pay Equity Disclosure.,supports,supports,13,100.0,855,31.9
+P0357,dev,"NIKE, INC.",2024-09-10,2025,"To consider a shareholder proposal regarding a Divisive Partnerships Congruency Report, if properly presented at the meeting.",opposes,unclear,15,0.0,853,2.0
+P0358,test,"NIKE, INC.",2024-09-10,2025,"To consider a shareholder proposal regarding Worker-Driven Social Responsibility, if properly presented at the meeting.",supports,unclear,15,100.0,852,9.7
+P0359,dev,"THE GOLDMAN SACHS GROUP, INC.",2025-04-23,2025,Shareholder Proposal Regarding DEI Goals in Executive Pay Incentives,opposes,opposes,5,0.0,851,1.1
+P0360,test,Target Corporation,2024-06-12,2024,Shareholder proposal requesting animal pain management reporting.,supports,unclear,13,92.3,851,5.9
+P0361,test,GENERAL MOTORS COMPANY,2026-06-02,2026,Shareholder Proposal Requesting a Report on Human Rights Standards for Indigenous Peoples,supports,supports,7,85.7,851,4.9
+P0362,test,Target Corporation,2024-06-12,2024,"Shareholder proposal requesting a report on Target's partnerships with, charitable contributions to, and other support for certain organizations.",opposes,opposes,13,0.0,850,1.5
+P0363,test,Target Corporation,2024-06-12,2024,Shareholder proposal to establish wage policies.,supports,supports,13,84.6,847,11.7
+P0364,test,"NIKE, INC.",2024-09-10,2025,"To consider a shareholder proposal regarding Supplemental Pay Equity Disclosure, if properly presented at the meeting.",supports,supports,15,100.0,847,38.0
+P0365,test,CHUBB LIMITED,2025-05-15,2025,"Shareholder proposal on Scope 3 greenhouse gas emissions reporting, if properly presented",supports,supports,7,100.0,845,10.7
+P0366,test,"The Goldman Sachs Group, Inc.",2024-04-24,2024,Shareholder Proposal Regarding Environmental Justice Impact Assessment,supports,unclear,6,100.0,842,10.2
+P0367,test,"The Goldman Sachs Group, Inc.",2024-04-24,2024,Shareholder Proposal Regarding Disclosure of Clean Energy Supply Financing Ratio,supports,unclear,6,100.0,842,36.9
+P0368,dev,DEERE & COMPANY,2026-02-25,2026,Shareholder proposal on a report on the return on investment of emission reduction goals,opposes,opposes,17,0.0,841,2.3
+P0369,test,"Chipotle Mexican Grill, Inc.",2024-06-06,2024,Shareholder Proposal - Requesting a report on harassment and discrimination statistics.,supports,supports,7,100.0,840,18.9
+P0370,dev,DEERE & COMPANY,2026-02-25,2026,Shareholder proposal on a report on faith-based business resource groups,opposes,opposes,17,0.0,840,1.0
+P0371,dev,"Chipotle Mexican Grill, Inc.",2024-06-06,2024,Shareholder Proposal - Requesting a report on adoption of automation.,supports,unclear,7,100.0,840,21.7
+P0372,test,"MONDELEZ INTERNATIONAL, INC.",2026-05-20,2026,Shareholder proposal requesting a report on objective evaluation of plastics packaging policies,opposes,opposes,11,0.0,839,1.3
+P0373,test,"The Goldman Sachs Group, Inc.",2024-04-24,2024,Shareholder Proposal Regarding Pay Equity Reporting,supports,supports,6,100.0,837,37.2
+P0374,test,Lennar Corporation,2024-04-10,2024,Vote on a stockholder proposal requesting a report on the Company's plans to reduce greenhouse gas emissions.,supports,supports,7,100.0,836,46.4
+P0375,test,Pfizer Inc.,2024-04-25,2024,"Publish a Congruency Report on Political, Lobbying, Electioneering Expenditures",supports,supports,9,100.0,836,13.3
+P0376,dev,Lennar Corporation,2024-04-10,2024,Vote on a stockholder proposal requesting a report disclosing the Company's political spending and related policies and procedures.,supports,supports,7,100.0,834,49.5
+P0377,test,"Tesla, Inc.",2024-06-13,2024,"A stockholder proposal regarding adopting targets and reporting on metrics to assess the feasibility of integrating sustainability metrics into senior executive compensation plans, if properly presented.",supports,supports,10,100.0,834,14.6
+P0378,test,Microchip Technology Incorporated,2023-08-22,2024,"Stockholder proposal requesting that our Board of Directors commission an independent third-party report, at reasonable expense and excluding proprietary information, on our due diligence process to determine whether our customers' use of our products contribute or are linked to violations of international law.",supports,unclear,9,100.0,833,22.2
+P0379,test,"The Kansai Electric Power Co., Inc.",2024-06-26,2024,Amend Articles to Realize Zero Carbon Emissions without Nuclear Power Generation,opposes,supports,4,0.0,829,0.0
+P0380,dev,Centene Corporation,2024-05-14,2024,STOCKHOLDER PROPOSAL FOR MANAGING CLIMATE RISK THROUGH SCIENCE-BASED TARGETS AND TRANSITION PLANNING.,supports,supports,8,100.0,828,40.1
+P0381,dev,Chubb Limited,2024-05-16,2024,"Shareholder proposal on Scope 3 greenhouse gas emissions reporting, if properly presented",supports,supports,6,100.0,827,30.5
+P0382,test,"Airbnb, Inc.",2026-06-05,2026,Report on discrimination in charitable support,opposes,opposes,8,0.0,824,1.2
+P0383,test,MICROCHIP TECHNOLOGY INCORPORATED,2024-08-20,2025,"Stockholder proposal requesting that our Board of Directors commission an independent third-party report, at reasonable expense and excluding proprietary information, on our due diligence process to determine whether our customers' use of our products contribute or are linked to violations of international law.",supports,unclear,9,100.0,824,18.2
+P0384,test,Morgan Stanley,2024-05-23,2024,Shareholder proposal regarding transparency in lobbying.,supports,supports,5,100.0,823,47.4
+P0385,dev,Morgan Stanley,2024-05-23,2024,Shareholder proposal requesting a report on risks of politicized de-banking,opposes,opposes,5,0.0,823,0.7
+P0386,test,"Airbnb, Inc.",2026-06-05,2026,Report on risks of politicized divestments.,opposes,opposes,8,0.0,823,0.6
+P0387,dev,Deere & Company,2024-02-28,2024,Shareholder proposal regarding a customer and company sustainability congruency report,opposes,supports,15,0.0,821,1.9
+P0388,test,MSCI Inc.,2024-04-23,2024,To approve shareholder proposal to report on Chinese military-industry companies in Company indices.,opposes,unclear,12,8.3,821,0.7
+P0389,test,STARBUCKS CORPORATION,2026-03-25,2026,Shareholder proposal requesting a report on the Company's use of diagnostic tools created by politicized corporate partners,opposes,opposes,16,0.0,817,1.8
+P0390,test,Citigroup Inc.,2024-04-30,2024,Stockholder proposal requesting a report on risks of Politicized De-banking.,opposes,opposes,9,0.0,816,0.7
+P0391,test,STARBUCKS CORPORATION,2026-03-25,2026,Shareholder proposal requesting a report on the Company's apparent exclusion of detransitioning in its healthcare coverage,opposes,opposes,16,0.0,816,1.0
+P0392,test,STARBUCKS CORPORATION,2026-03-25,2026,Shareholder proposal requesting a report on the risks of the Company excluding religious charities from its employee-gift match program,opposes,opposes,16,0.0,816,2.0
+P0393,test,"Airbnb, Inc.",2026-06-05,2026,Oversight of risks relating to digital services,opposes,unclear,8,0.0,816,1.2
+P0394,test,Stryker Corporation,2024-05-09,2024,Shareholder Proposal on Transparency in Political Spending.,supports,supports,13,100.0,816,52.9
+P0395,test,STARBUCKS CORPORATION,2026-03-25,2026,Shareholder proposal requesting a report on median compensation and benefits gaps as they address reproductive and gender dysphoria care,opposes,opposes,16,0.0,815,0.7
+P0396,dev,"THE TRAVELERS COMPANIES, INC.",2026-05-20,2026,"Shareholder proposal relating to a report on climate-related pricing and coverage decisions, if presented at the Annual Meeting of Shareholders.",supports,supports,11,90.9,811,7.6
+P0397,test,"MONDELEZ INTERNATIONAL, INC.",2025-05-21,2025,Shareholder Proposal: Report on flexible plastic packaging,supports,supports,12,100.0,810,9.8
+P0398,test,"PALO ALTO NETWORKS, INC.",2024-12-10,2025,"To consider and vote upon a shareholder proposal, if properly presented at the Annual Meeting, regarding a report on climate risks to retirement plan beneficiaries.",supports,supports,17,100.0,810,11.1
+P0399,test,"MONDELEZ INTERNATIONAL, INC.",2025-05-21,2025,Shareholder Proposal: Report on Climate lobbying,supports,supports,12,100.0,809,8.3
+P0400,test,"MONDELEZ INTERNATIONAL, INC.",2025-05-21,2025,Shareholder Proposal: Third-party report assessing effectiveness of implementation of human rights policy,supports,supports,12,100.0,809,8.8
+P0401,test,"The PNC Financial Services Group, Inc.",2024-04-24,2024,Shareholder proposal regarding report on risk management and implementation of PNC's Human Rights Statement in financing.,supports,supports,12,100.0,807,11.3
+P0402,test,"MONDELEZ INTERNATIONAL, INC.",2025-05-21,2025,Shareholder Proposal: Report on recycled content claims,supports,supports,12,100.0,806,9.9
+P0403,test,International Business Machines Corporation,2024-04-30,2024,Stockholder Proposal Requesting the Adoption of Greenhouse Gas Emissions Targets,supports,supports,9,100.0,805,37.3
+P0404,test,PFIZER INC.,2025-04-24,2025,Issue a Report Evaluating the Risks Related to Religious Discrimination Against Employees,opposes,opposes,10,0.0,802,1.1
+P0405,dev,Target Corporation,2024-06-12,2024,Shareholder proposal requesting a political contributions congruency analysis.,supports,supports,13,100.0,802,12.2
+P0406,test,LENNAR CORPORATION,2025-04-09,2025,Vote on a stockholder proposal requesting a report disclosing the Company's LGBTQIA+ equity and inclusion efforts in its human capital management strategy.,supports,supports,7,100.0,798,19.9
+P0407,test,International Business Machines Corporation,2024-04-30,2024,Stockholder Proposal Requesting a Public Report on Congruency in China Business Operations and ESG Activities,opposes,unclear,9,0.0,796,2.6
+P0408,dev,"MONDELEZ INTERNATIONAL, INC.",2025-05-21,2025,Shareholder Proposal: Assessment of the Company's supplier and partner code of conduct due diligence process,supports,unclear,12,100.0,796,6.5
+P0409,test,"The Travelers Companies, Inc.",2024-05-15,2024,"Shareholder proposal relating to human rights risks in underwriting, if presented at the Annual Meeting of Shareholders.",supports,supports,12,100.0,795,9.6
+P0410,test,"The Goldman Sachs Group, Inc.",2024-04-24,2024,Shareholder Proposal Regarding Outcome Report on Efforts Regarding Protected Classes of Employees,supports,unclear,6,100.0,794,20.4
+P0411,dev,TARGET CORPORATION,2026-06-10,2026,Shareholder proposal requesting a report on reducing plastic microfiber shedding.,supports,supports,12,91.7,792,12.2
+P0412,test,"Chipotle Mexican Grill, Inc.",2024-06-06,2024,Shareholder Proposal - Requesting adoption of a non-interference policy.,supports,unclear,7,100.0,792,12.0
+P0413,test,"The Goldman Sachs Group, Inc.",2024-04-24,2024,Shareholder Proposal Regarding a Transparency In Lobbying Report,supports,supports,6,100.0,792,51.4
+P0414,test,"Chipotle Mexican Grill, Inc.",2024-06-06,2024,Shareholder Proposal - Requesting an audit of safety practices.,supports,supports,7,100.0,791,38.6
+P0415,test,LENNAR CORPORATION,2025-04-09,2025,Vote on a stockholder proposal requesting disclosure on how the Company intends to reduce greenhouse gas emissions.,supports,supports,7,100.0,791,21.1
+P0416,dev,CATERPILLAR INC.,2025-06-11,2025,Shareholder Proposal - Civil Rights Audit,supports,supports,6,100.0,791,6.8
+P0417,test,Cintas Corporation,2023-10-24,2024,"A shareholder proposal regarding greater disclosure of material corporate diversity, equity and inclusion data, if properly presented at the meeting.",supports,supports,10,100.0,790,43.7
+P0418,dev,"HCA HEALTHCARE, INC.",2026-04-23,2026,"Stockholder proposal, if properly presented at the meeting, regarding a report on healthcare consequences.",supports,supports,6,100.0,790,15.1
+P0419,dev,TARGET CORPORATION,2026-06-10,2026,Shareholder proposal requesting a report on presence of pesticides in Target's private label brands.,supports,supports,12,100.0,788,8.2
+P0420,test,"THE TRAVELERS COMPANIES, INC.",2025-05-21,2025,"Shareholder proposal relating to a report on climate-related pricing and coverage decisions, if presented at the Annual Meeting of Shareholders.",supports,supports,12,100.0,780,9.0
+P0421,test,"Caterpillar, Inc.",2024-06-12,2024,Shareholder Proposal - Lobbying Disclosure,supports,supports,7,100.0,779,33.8
+P0422,dev,CATERPILLAR INC.,2025-06-11,2025,Shareholder Proposal - Request to Cease DEI Efforts,opposes,opposes,6,0.0,778,1.9
+P0423,test,CATERPILLAR INC.,2025-06-11,2025,Shareholder Proposal - Report on Employee Charitable Giving Match,opposes,opposes,6,0.0,777,2.4
+P0424,test,FEDEX CORPORATION,2024-09-23,2025,Stockholder proposal regarding climate lobbying alignment with company's carbon neutral goals.,supports,supports,8,100.0,777,29.6
+P0425,test,lululemon athletica inc.,2024-06-06,2024,Shareholder proposal regarding a report on the impact of the production and sale of animal-derived products (if properly presented at the meeting).,supports,unclear,10,100.0,776,5.4
+P0426,test,AT&T Inc.,2024-05-16,2024,Report On Respecting Workforce Civil Liberties,opposes,opposes,6,0.0,773,1.3
+P0427,dev,TARGET CORPORATION,2025-06-11,2025,Shareholder proposal requesting a report on how affirmative action initiatives impact Target's risks related to actual and perceived discrimination.,opposes,opposes,11,0.0,772,8.8
+P0428,test,U.S. BANCORP,2025-04-15,2025,A shareholder proposal regarding a report on board oversight of risks relating to discrimination.,opposes,opposes,7,0.0,772,1.7
+P0429,test,"UNITED PARCEL SERVICE, INC.",2025-05-08,2025,To prepare a report on the risks arising from voluntary carbon-reduction commitments.,opposes,opposes,9,0.0,771,2.1
+P0430,dev,"NextEra Energy, Inc.",2024-05-23,2024,"A proposal entitled ""Board Matrix"" requesting a chart of individual Director self-identified gender, race/ethnicity and skills",supports,unclear,12,100.0,770,37.8
+P0431,test,FEDEX CORPORATION,2024-09-23,2025,Stockholder proposal regarding a Just Transition report.,supports,supports,8,100.0,769,35.4
+P0432,test,"PAYPAL HOLDINGS, INC.",2025-06-05,2025,Stockholder Proposal - Report on Charitable Giving.,opposes,opposes,15,0.0,769,3.9
+P0433,test,"BlackRock, Inc.",2024-05-15,2024,Shareholder Proposal - Report on Proxy Voting Record and Policies for Climate Change-Related Proposals.,supports,supports,8,100.0,759,10.7
+P0434,test,GENERAL MOTORS COMPANY,2025-06-03,2025,Shareholder Proposal Regarding a Report on Supply Chain GHG Emissions Reduction Strategies,supports,supports,5,100.0,757,7.7
+P0435,dev,FASTENAL COMPANY,2026-04-23,2026,"Shareholder proposal relating to an EEO-1 reporting disclosure policy, if properly presented at the annual meeting.",supports,supports,13,100.0,755,24.6
+P0436,dev,MCDONALD'S CORPORATION,2025-05-20,2025,Advisory Vote to Revisit DEI in Executive Compensation.,opposes,opposes,4,0.0,752,0.5
+P0437,test,"BlackRock, Inc.",2024-05-15,2024,Shareholder Proposal - Report on EEO Policy Risk.,opposes,opposes,8,0.0,751,1.3
+P0438,test,CINTAS CORPORATION,2024-10-29,2025,"A shareholder proposal regarding disclosure of managing climate risk through science-based targets and transition planning, if properly presented at the meeting.",supports,supports,10,100.0,749,33.9
+P0439,test,CINTAS CORPORATION,2024-10-29,2025,"A shareholder proposal regarding political disclosure, if properly presented at the meeting.",supports,unclear,10,100.0,749,60.1
+P0440,test,"PAYPAL HOLDINGS, INC.",2026-05-19,2026,Stockholder Proposal - Policy on Provision of Services in Conflict Zones.,supports,unclear,11,90.9,748,4.7
+P0441,test,Cintas Corporation,2024-10-29,2025,"A shareholder proposal regarding disclosure of key diversity and inclusion metric, if properly presented at the meeting.",supports,supports,10,100.0,747,31.9
+P0442,dev,General Motors Company,2024-06-04,2024,Shareholder Proposal Requesting a Report on the Company's Use of Deep-Sea Mined Minerals in its Production and Supply Chains,supports,unclear,6,100.0,747,14.9
+P0443,test,DOLLAR GENERAL CORPORATION,2026-05-28,2026,"To vote on a shareholder proposal asking the Board to report on the feasibility of adopting a comprehensive human rights policy stating the Company's commitment to respect human rights, in alignment with international human rights standards, throughout its operation and value chain.",supports,supports,10,100.0,747,25.2
+P0444,test,CENTENE CORPORATION,2025-05-13,2025,STOCKHOLDER PROPOSAL FOR REPORT ON CLIMATE RISK TO RETIREMENT INVESTMENTS.,supports,supports,10,100.0,746,7.2
+P0445,dev,CENTENE CORPORATION,2025-05-13,2025,STOCKHOLDER PROPOSAL TO DISCLOSE PLAN TO REDUCE TOTAL CONTRIBUTION TO CLIMATE CHANGE.,supports,supports,10,100.0,739,11.8
+P0446,dev,THE SOUTHERN COMPANY,2026-05-13,2026,Stockholder proposal regarding a report on climate due diligence,opposes,supports,3,0.0,738,0.8
+P0447,test,FedEx Corporation,2023-09-21,2024,Stockholder proposal regarding a report on climate risk associated with retirement plan options.,supports,supports,8,87.5,737,11.7
+P0448,test,Cintas Corporation,2023-10-24,2024,"A shareholder proposal regarding managing climate risk through science-based targets and transition planning, if properly presented at the meeting.",supports,supports,10,100.0,733,40.7
+P0449,test,"UNITED PARCEL SERVICE, INC.",2026-05-07,2026,To require UPS to provide an additional report describing the alignment of its operations and investments with its carbon neutrality goals.,supports,supports,9,100.0,733,10.8
+P0450,test,THE ALLSTATE CORPORATION,2026-05-22,2026,Shareholder proposal requesting a report on use of ESG and DEI metrics in executive compensation.,opposes,supports,5,0.0,732,1.2
+P0451,test,"BLACKROCK, INC.",2025-05-15,2025,Shareholder Proposal - Report on Risk of Stakeholder Capitalism.,opposes,opposes,7,0.0,731,2.1
+P0452,test,"UNITED PARCEL SERVICE, INC.",2026-05-07,2026,To require UPS to engage a third-party to audit and prepare an additional report on the impacts of UPS operations affecting BIPOC and low income communities.,supports,unclear,9,100.0,731,4.2
+P0453,test,The Bank of New York Mellon Corporation,2024-04-09,2024,"Stockholder proposal regarding report on risks of politicized de-banking, if properly presented.",opposes,opposes,15,0.0,731,1.5
+P0454,test,FedEx Corporation,2023-09-21,2024,Stockholder proposal regarding paid sick leave disclosure.,supports,supports,8,100.0,730,12.1
+P0455,test,FedEx Corporation,2023-09-21,2024,"Stockholder proposal regarding a ""Just Transition"" report.",supports,supports,8,100.0,729,51.9
+P0456,dev,The Bank of New York Mellon Corporation,2024-04-09,2024,"Stockholder proposal regarding transperency in lobbying, if properly presented.",supports,supports,15,100.0,729,52.8
+P0457,test,THE KROGER CO.,2026-06-25,2026,Report on GHG emissions reductions.,supports,supports,8,100.0,728,6.6
+P0458,test,LULULEMON ATHLETICA INC.,2025-06-11,2025,Shareholder proposal requesting an annual report on discrimination risks related to charitable partnerships (if properly presented at the meeting).,opposes,opposes,14,0.0,727,1.1
+P0459,test,"The Travelers Companies, Inc.",2024-05-15,2024,"Shareholder proposal relating to GHG emissions, if presented at the Annual Meeting of Shareholders.",supports,supports,12,100.0,726,11.0
+P0460,test,INTERNATIONAL PAPER COMPANY,2025-05-12,2025,Shareowner Proposal Concerning a Report on the Company's LGBTQIA+ Equity and Inclusion Efforts,supports,supports,11,100.0,726,7.0
+P0461,dev,"The Travelers Companies, Inc.",2024-05-15,2024,"Shareholder proposal relating to a report on methane in the energy sector, if presented at the Annual Meeting of Shareholders.",supports,supports,12,100.0,724,10.2
+P0462,test,"DIGITAL REALTY TRUST, INC.",2025-06-06,2025,"A stockholder proposal regarding human right to water, if properly presented.",supports,supports,12,91.7,720,8.5
+P0463,test,PACCAR Inc,2024-04-30,2024,Stockholder proposal regarding a report on climate-related policy engagement.,supports,supports,10,100.0,719,56.6
+P0464,test,"STEEL DYNAMICS, INC.",2026-05-06,2026,SHAREHOLDER PROPOSAL - AVOID POLITICAL SPENDING BRAND DAMAGE,supports,supports,12,100.0,717,47.1
+P0465,dev,SYSCO CORPORATION,2024-11-15,2025,"To consider a stockholder proposal related to establishing measurable, time bound targets for ensuring group sow housing for its private brand pork products.",supports,unclear,14,100.0,716,32.5
+P0466,dev,"Marriott International, Inc.",2024-05-10,2024,STOCKHOLDER RESOLUTION REQUESTING THE COMPANY COMMISSION A THIRD-PARTY CIVIL RIGHTS AUDIT,supports,supports,16,100.0,716,16.1
+P0467,test,"MetLife, Inc.",2024-06-18,2024,Shareholder proposal requesting a third-party racial equity audit,supports,supports,10,100.0,714,20.3
+P0468,test,STATE STREET CORPORATION,2025-05-14,2025,"Shareholder proposal requesting a report disclosing whether and how the Company addresses transition of workers and fairness to communities in its transition finance strategy, if properly presented.",supports,unclear,9,100.0,713,6.5
+P0469,test,"PayPal Holdings, Inc.",2024-05-22,2024,Stockholder Proposal - Report on Respecting Workforce Civil Liberties.,opposes,opposes,13,0.0,710,1.7
+P0470,test,The Kroger Co.,2024-06-27,2024,"Listing of Charitable Contributions of $10,000 or More.",opposes,opposes,11,9.1,706,0.8
+P0471,test,The Kroger Co.,2024-06-27,2024,Report on Public Health Costs from Sale of Tobacco Products.,supports,supports,11,100.0,706,5.9
+P0472,test,"OLD DOMINION FREIGHT LINE, INC.",2025-05-21,2025,Shareholder proposal regarding emission reduction targets.,supports,supports,11,100.0,705,19.6
+P0473,test,"Delta Air Lines, Inc.",2024-06-20,2024,A shareholder proposal requesting reporting related to third-party political contributions.,opposes,supports,9,11.1,704,1.3
+P0474,dev,The Kroger Co.,2024-06-27,2024,Just Transition Report.,supports,supports,11,100.0,702,14.4
+P0475,test,The Kroger Co.,2024-06-27,2024,Living Wage Policy.,supports,supports,11,90.9,701,14.8
+P0476,test,Capital One Financial Corporation,2024-05-02,2024,Stockholder proposal requesting setting of near - and long-term greenhouse gas emission reduction targets.,supports,supports,7,100.0,700,11.7
+P0477,dev,Truist Financial Corporation,2024-04-23,2024,"Shareholder proposal regarding a report on Board oversight of risks related to discrimination, if properly presented at the Annual Meeting.",opposes,opposes,10,0.0,700,2.0
+P0478,dev,"Old Dominion Freight Line, Inc.",2024-05-15,2024,Shareholder proposal regarding greenhouse gas reduction.,supports,supports,12,100.0,698,52.3
+P0479,test,"DexCom, Inc.",2024-05-22,2024,"To Provide A Non-Binding, Advisory Vote On Transparency In Lobbying.",supports,supports,8,100.0,696,61.9
+P0480,test,Capital One Financial Corporation,2024-05-02,2024,Stockholder proposal requesting a report on respecting workforce civil liberties.,opposes,opposes,7,0.0,696,0.3
+P0481,test,HEWLETT PACKARD ENTERPRISE COMPANY,2025-04-02,2025,"Stockholder proposal entitled: ""Transparency in Lobbying"".",supports,supports,12,100.0,696,18.0
+P0482,test,"DexCom, Inc.",2024-05-22,2024,"To provide a non-binding, advisory vote on pay equity disclosure.",supports,supports,8,100.0,695,39.9
+P0483,test,OTIS WORLDWIDE CORPORATION,2026-05-27,2026,Shareholder proposal regarding reporting on political contributions and expenditures,supports,supports,14,92.9,690,42.3
+P0484,test,"Darden Restaurants, Inc.",2025-09-17,2026,To vote on a shareholder proposal requesting the Company disclose measurable targets for reducing greenhouse emissions.,supports,supports,11,100.0,688,10.9
+P0485,test,INTEL CORPORATION,2025-05-06,2025,"Stockholder proposal requesting a report on an ethical impact assessment, if properly presented at the meeting.",supports,unclear,13,84.6,687,9.0
+P0486,dev,HEWLETT PACKARD ENTERPRISE COMPANY,2026-04-01,2026,Stockholder proposal entitled: ''Report on Discrimination in Charitable Support'',opposes,opposes,13,0.0,684,1.0
+P0487,test,INTEL CORPORATION,2025-05-06,2025,"Stockholder proposal requesting a report on charitable giving, if properly presented at the meeting.",opposes,opposes,13,0.0,681,0.7
+P0488,test,"Marriott International, Inc.",2024-05-10,2024,STOCKHOLDER RESOLUTION REQUESTING THE COMPANY ANNUALLY PREPARE A RACIAL AND GENDER PAY GAP REPORT,supports,supports,16,100.0,679,36.8
+P0489,test,Sempra,2024-05-09,2024,Shareholder proposal requesting a report on certain safety and environmental matters,supports,unclear,8,100.0,679,30.0
+P0490,test,"The Goldman Sachs Group, Inc.",2024-04-24,2024,Shareholder Proposal Regarding a Report on Financial Statement Assumptions Regarding Climate Change,opposes,opposes,6,0.0,678,0.7
+P0491,test,Global Payments Inc.,2024-04-25,2024,Advisory shareholder proposal on transparency in political spending.,supports,supports,3,100.0,678,45.7
+P0492,test,"PULTEGROUP, INC.",2025-04-30,2025,"Shareholder proposal on adoption of Paris-aligned emission reduction goals, if properly presented at the meeting.",supports,supports,8,100.0,677,18.3
+P0493,test,"Airbnb, Inc.",2024-06-05,2024,"Stockholder proposal regarding political disclosure, if properly presented at the Annual Meeting.",supports,unclear,8,100.0,677,63.7
+P0494,test,CDW Corporation,2024-05-21,2024,"To consider and act upon the stockholder proposal, if properly presented at the Annual Meeting, regarding political spending disclosure.",supports,supports,12,100.0,675,11.4
+P0495,test,Sysco Corporation,2023-11-17,2024,To consider a stockholder proposal related to re-establishing a policy for eliminating or reducing gestation crates in the Company's pork supply chain.,supports,supports,19,100.0,674,40.8
+P0496,test,OTIS WORLDWIDE CORPORATION,2025-05-15,2025,Shareholder proposal regarding reporting on political contributions and expenditures,supports,supports,13,100.0,672,42.3
+P0497,test,THE KROGER CO.,2025-06-26,2025,Report on discarded cigarette pollution.,supports,supports,11,100.0,667,4.3
+P0498,test,"GENERAL MILLS, INC.",2024-09-24,2025,Shareholder Proposal - Disclosure of Regenerative Agriculture Practices Within Supply Chain.,supports,supports,16,100.0,665,31.0
+P0499,test,THE KROGER CO.,2025-06-26,2025,Report on safeguarding the privacy of consumer health data.,supports,unclear,11,81.8,664,7.4
+P0500,test,THE KROGER CO.,2025-06-26,2025,Report on adopting a third-party mandated framework on U.S. farmers.,supports,unclear,11,100.0,663,8.9
+P0501,test,COLGATE-PALMOLIVE COMPANY,2026-05-08,2026,"Stockholder proposal entitled ""Remove DEI from Board Candidate Considerations.""",opposes,opposes,10,0.0,662,0.8
+P0502,dev,"BEST BUY CO., INC.",2025-06-13,2025,"To vote on a shareholder proposal entitled ""Publish Climate Transition Plan to Achieve Stated Goals""",supports,supports,14,100.0,660,8.2
+P0503,dev,"BEST BUY CO., INC.",2026-06-12,2026,To vote on a shareholder proposal entitled ''Sustainability ROI Report'',opposes,opposes,11,0.0,660,2.1
+P0504,dev,ARCH CAPITAL GROUP LTD.,2025-05-07,2025,"To vote on a shareholder proposal requesting that the Company report to shareholders on the effectiveness of its diversity, equity and inclusion efforts, if properly presented at the Meeting.",supports,supports,11,100.0,660,9.1
+P0505,test,"BEST BUY CO., INC.",2025-06-13,2025,"To vote on a shareholder proposal entitled ""Publish a Report on the Company's LGBTQIA+ Inclusion Efforts in its Human Capital Management Strategy""",supports,supports,14,100.0,659,13.4
+P0506,test,"TYLER TECHNOLOGIES, INC.",2025-05-06,2025,Shareholder Proposal Regarding Political Spending.,supports,supports,14,100.0,659,21.5
+P0507,dev,"GENERAL MILLS, INC.",2024-09-24,2025,Shareholder Proposal - Plastic Packaging.,supports,supports,16,100.0,656,36.9
+P0508,test,The Kraft Heinz Company,2024-05-02,2024,"Stockholder Proposal - Report on recyclability claims, if properly presented.",supports,supports,9,100.0,656,36.7
+P0509,test,Truist Financial Corporation,2024-04-23,2024,"Shareholder proposal regarding an annual report on lobbying activities, if properly presented at the Annual Meeting.",supports,supports,10,100.0,654,50.6
+P0510,dev,"Republic Services, Inc.",2024-05-23,2024,Shareholder proposal to report on stakeholder impact from the Company's climate change strategy.,supports,supports,11,100.0,652,20.9
+P0511,dev,"YUM! BRANDS, INC.",2025-05-15,2025,Shareholder Proposal Regarding Workplace Safety Policies and Practices.,supports,supports,7,100.0,652,21.2
+P0512,dev,"YUM! BRANDS, INC.",2025-05-15,2025,Shareholder Proposal Regarding Adoption of a Policy on the Use of Medically Important Antimicrobials in Food-Producing Animals.,supports,supports,7,100.0,652,6.7
+P0513,dev,"Delta Air Lines, Inc.",2024-06-20,2024,A shareholder proposal requesting the adoption of a non-interference policy.,supports,unclear,9,88.9,652,47.4
+P0514,test,"YUM! BRANDS, INC.",2025-05-15,2025,Shareholder Proposal Regarding Report on Faith-Based Employee Resource Groups.,opposes,opposes,7,0.0,651,1.2
+P0515,test,Keurig Dr Pepper Inc.,2024-06-10,2024,"To vote on a stockholder proposal requesting additional reporting on plastic packaging, if properly presented at Annual Meeting.",supports,supports,10,100.0,651,13.1
+P0516,test,McDonald's Corporation,2024-05-22,2024,Advisory Vote on Worldwide Switch to Cage-Free Eggs.,supports,supports,3,100.0,650,15.4
+P0517,dev,"NVR, Inc.",2024-05-07,2024,"Shareholder proposal to publish report on impact of diversity, equity, and inclusion efforts.",supports,supports,8,100.0,650,43.7
+P0518,dev,"BEST BUY CO., INC.",2025-06-13,2025,"To vote on a shareholder proposal entitled ""Request to Cease CEI Participation""",opposes,opposes,14,0.0,646,0.6
+P0519,dev,"GENERAL MILLS, INC.",2025-09-30,2026,Shareholder Proposal - Disclosure of Regenerative Agriculture Practices Within Supply Chain.,supports,supports,13,92.3,646,30.0
+P0520,test,Verizon Communications Inc.,2026-05-21,2026,Risks of non-fiduciary executive compensation metrics,opposes,opposes,10,0.0,645,0.9
+P0521,dev,"The Travelers Companies, Inc.",2024-05-15,2024,"Shareholder proposal relating to CEO pay ratio and executive compensation, if presented at the Annual Meeting of Shareholders.",supports,unclear,11,100.0,643,4.4
+P0522,test,Laboratory Corporation of America Holdings,2024-05-14,2024,Shareholder proposal regarding a Board report on risks of fulfilling information requests.,supports,unclear,12,100.0,643,13.8
+P0523,dev,Laboratory Corporation of America Holdings,2024-05-14,2024,Shareholder proposal regarding a Board report on transport of nonhuman primates within the U.S.,supports,supports,12,100.0,643,4.7
+P0524,test,"COSTAR GROUP, INC.",2025-06-26,2025,"Stockholder proposal regarding support for transparency in political spending, if properly presented.",supports,supports,16,100.0,640,47.8
+P0525,test,"SKYWORKS SOLUTIONS, INC.",2026-05-13,2026,To approve a stockholder proposal regarding greenhouse gas emission reduction efforts report.,supports,supports,8,100.0,639,9.5
+P0526,test,ARCHER-DANIELS-MIDLAND COMPANY,2026-05-07,2026,Stockholder Proposal Regarding Issuance of a Report on Pesticide Use Data Reporting in Regenerative Agriculture Program Disclosures.,supports,supports,4,100.0,639,7.8
+P0527,test,Edison International,2024-04-25,2024,Shareholder Proposal Regarding Lobbying,supports,supports,4,100.0,637,15.4
+P0528,test,"Skyworks Solutions, Inc.",2024-05-14,2024,To approve a stockholder proposal regarding adoption of greenhouse gas emissions reduction targets.,supports,supports,8,100.0,635,36.7
+P0529,test,"Charter Communications, Inc.",2024-04-23,2024,Stockholder proposal regarding political expenditures report.,supports,supports,11,100.0,628,60.4
+P0530,test,"Cboe Global Markets, Inc.",2025-05-06,2025,Stockholder proposal regarding political spending.,supports,supports,10,100.0,628,51.6
+P0531,test,"TYLER TECHNOLOGIES, INC.",2026-05-05,2026,Shareholder Proposal Regarding Political Spending.,supports,supports,15,86.7,626,20.1
+P0532,test,"TYSON FOODS, INC.",2026-02-05,2026,Shareholder proposal regarding report on environmental and human health impacts from waste lagoons.,supports,supports,3,100.0,625,9.6
+P0533,test,"WARNER BROS. DISCOVERY, INC.",2026-06-09,2026,"To vote on a stockholder proposal entitled ""Sustainability ROI Report"", if properly presented.",opposes,opposes,10,0.0,621,3.7
+P0534,test,"Church & Dwight Co., Inc.",2024-05-02,2024,Stockholder Proposal - Transparency in Political Contributions.,supports,supports,12,100.0,620,24.4
+P0535,dev,"CHARTER COMMUNICATIONS, INC.",2025-04-22,2025,Stockholder proposal regarding political expenditures report.,supports,supports,9,100.0,616,56.7
+P0536,dev,"DOMINION ENERGY, INC.",2025-05-07,2025,Shareholder Proposal Regarding Eliminating Non-Carbon Emitting Generation Goals in Executive Pay Incentives,opposes,opposes,7,0.0,615,2.1
+P0537,test,TRUIST FINANCIAL CORPORATION,2026-04-28,2026,"Shareholder proposal regarding a report on risks from misalignment between Company policies and customer base, if properly presented.",opposes,unclear,10,0.0,615,1.1
+P0538,dev,"TERADYNE, INC.",2025-05-09,2025,To vote on a shareholder proposal requiring the Company to prepare a report about political contributions and expenditures.,supports,supports,12,100.0,614,48.9
+P0539,dev,"Expeditors International of Washington, Inc.",2024-05-07,2024,Shareholder Proposal: Regarding Report on Effectiveness of DEI Efforts,supports,supports,10,100.0,614,38.9
+P0540,test,THE KRAFT HEINZ COMPANY,2025-05-08,2025,"Stockholder Proposal - Report on plastic packaging, if properly presented.",supports,supports,10,100.0,612,13.1
+P0541,test,IQVIA Holdings Inc.,2024-04-16,2024,"If properly presented, a stockholder proposal concerning political spending.",supports,supports,16,87.5,612,13.6
+P0542,dev,"Yum! Brands, Inc.",2024-05-16,2024,Shareholder Proposal Regarding Adoption Of A Policy On The Use Of Medically Important Antimicrobials In Food-Producing Animals.,supports,supports,9,100.0,611,11.6
+P0543,dev,"CHARTER COMMUNICATIONS, INC.",2026-04-21,2026,Stockholder proposal regarding political expenditures report.,supports,supports,8,100.0,611,50.7
+P0544,test,"NVR, Inc.",2024-05-07,2024,Shareholder proposal to expand political spending disclosure.,supports,supports,8,100.0,611,47.3
+P0545,test,The Kraft Heinz Company,2024-05-02,2024,"Stockholder Proposal - Report on greenhouse gas goals, if properly presented.",opposes,supports,9,0.0,609,1.8
+P0546,test,THE KRAFT HEINZ COMPANY,2025-05-08,2025,"Stockholder Proposal - Report on recyclability claims, if properly presented.",supports,supports,10,100.0,608,14.6
+P0547,test,DTE Energy Company,2024-05-02,2024,"Vote on a shareholder proposal relating to a climate transition plan, including gas utility downstream emissions",supports,supports,8,100.0,608,13.7
+P0548,dev,The Kraft Heinz Company,2024-05-02,2024,"Stockholder Proposal - Report on group-housed pork, if properly presented.",supports,unclear,9,100.0,605,37.4
+P0549,test,CARRIER GLOBAL CORPORATION,2025-04-09,2025,Shareowner Proposal Requesting a Lobbying Transparency Report,supports,supports,15,100.0,604,19.9
+P0550,test,"DIGITAL REALTY TRUST, INC.",2026-05-29,2026,"A stockholder proposal regarding enhanced water risk disclosure, if properly presented.",supports,supports,11,90.9,604,6.6
+P0551,dev,Cummins Inc.,2024-05-14,2024,The shareholder proposal regarding linking executive compensation to achieving 1.5 C emissions reductions.,supports,supports,12,100.0,604,18.4
+P0552,test,"DARDEN RESTAURANTS, INC.",2024-09-18,2025,To vote on a shareholder proposal requesting the Company issue a report on if and how it will reduce greenhouse gas emissions in alignment with the Paris Agreement's 1.5 degree goal if properly presented at the meeting.,supports,supports,9,100.0,602,28.4
+P0553,dev,"WORKDAY, INC.",2026-06-16,2026,To consider and vote upon a stockholder proposal regarding disclosure of employee retention rates by demographic category.,supports,unclear,8,100.0,601,4.5
+P0554,dev,"The Kansai Electric Power Co., Inc.",2024-06-26,2024,Amend Articles to Ban Operation of Nuclear Power Generation Until Effectiveness of Nuclear Accident Evacuation Plan is Confirmed,opposes,unclear,3,0.0,597,0.0
+P0555,test,Carrier Global Corporation,2024-04-18,2024,Shareowner Proposal regarding transparency in lobbying,supports,supports,16,100.0,595,48.2
+P0556,dev,"The Kansai Electric Power Co., Inc.",2025-06-26,2025,Amend Articles to Establish Promotion Committee to Realize Zero Carbon Emissions without Nuclear Power Generation,opposes,supports,4,0.0,595,1.5
+P0557,test,Ameren Corporation,2025-05-08,2025,SHAREHOLDER PROPOSAL - EVALUATION BY A THIRD-PARTY OF SHORT- AND MEDIUM-TERM GREENHOUSE GAS EMISSIONS REDUCTION TARGETS.,supports,supports,6,100.0,594,4.4
+P0558,test,"DARDEN RESTAURANTS, INC.",2024-09-18,2025,To vote on a shareholder proposal requesting the Company comply with WHO guidelines for antimicrobials for food-producing animals in the supply chain if properly presented at the meeting.,supports,supports,9,100.0,593,8.9
+P0559,test,"DARDEN RESTAURANTS, INC.",2024-09-18,2025,To vote on a shareholder proposal requesting the Company disclose the percent of pork raised in group housing and establish targets for achieving 100% group housed pork if properly presented at the meeting.,supports,unclear,9,100.0,592,29.7
+P0560,test,"CASEY'S GENERAL STORES, INC.",2025-09-03,2026,Shareholder proposal regarding Scope 3 greenhouse gas reduction targets.,supports,supports,13,92.3,592,5.4
+P0561,test,"Charter Communications, Inc.",2024-04-23,2024,Stockholder proposal regarding lobbying activities.,supports,supports,11,100.0,589,58.6
+P0562,test,Quest Diagnostics Incorporated,2024-05-16,2024,Stockholder proposal regarding managing climate risk through science-based targets and transition planning,supports,supports,15,100.0,589,56.7
+P0563,test,"Warner Bros. Discovery, Inc.",2024-06-03,2024,"To vote on a stockholder proposal entitled, ""Corporate Financial Sustainability"", if properly presented.",opposes,opposes,10,0.0,585,0.9
+P0564,test,"SKYWORKS SOLUTIONS, INC.",2025-05-14,2025,To approve a stockholder proposal regarding disclosure of Scope 3 greenhouse gas emissions.,supports,supports,9,100.0,582,18.2
+P0565,test,General Motors Company,2024-06-04,2024,Shareholder Proposal to Eliminate EV Targets from Incentive Compensation Programs,opposes,opposes,6,0.0,581,0.0
+P0566,test,The Hershey Company,2024-05-06,2024,Stockholder Proposal titled Public Report on Packaging Reuse & Recycling.,supports,supports,8,100.0,580,32.2
+P0567,test,Kellanova,2024-04-26,2024,"Shareowner proposal requesting racial and gender pay gap disclosures, if properly presented at the meeting.",supports,supports,11,100.0,579,34.0
+P0568,test,Dow Inc.,2024-04-11,2024,Stockholder Proposal - Single-Use Plastics Report,supports,supports,3,100.0,578,34.6
+P0569,test,The Hershey Company,2024-05-06,2024,"Stockholder Proposal titled ""Public Report on Living Wage & Income.""",supports,supports,8,100.0,577,13.2
+P0570,dev,A. O. Smith Corporation,2024-04-09,2024,"Stockholder proposal requesting a Board report on our hiring practices with respect to formerly incarcerated people, if properly presented at the Annual Meeting.",supports,unclear,10,100.0,576,11.6
+P0571,test,Kellanova,2024-04-26,2024,"Shareowner proposal requesting the Company report on the risks to the Company associated with pesticide use in its supply chain, if properly presented at meeting.",supports,supports,11,100.0,572,37.8
+P0572,dev,"BJ'S WHOLESALE CLUB HOLDINGS, INC.",2025-06-19,2025,"Vote on a shareholder proposal regarding a report on greenhouse gas emissions reduction efforts, if properly presented at the meeting.",supports,supports,13,100.0,571,25.9
+P0573,test,"AKAMAI TECHNOLOGIES, INC.",2026-05-13,2026,To vote upon a shareholder proposal requiring the Company to provide a report on political spending.,supports,supports,10,100.0,570,48.1
+P0574,test,"NVR, INC.",2026-05-07,2026,Shareholder proposal to disclose greenhouse gas emissions.,supports,supports,10,100.0,568,55.6
+P0575,test,Ford Motor Company,2024-05-09,2024,Relating to Disclosure of the Company's Reliance on Child Labor Outside of the United States.,supports,supports,6,100.0,568,14.1
+P0576,test,IDEX Corporation,2024-05-07,2024,Vote on a stockholder proposal regarding a report on hiring practices related to people with arrest or incarceration records.,supports,supports,13,92.3,566,11.3
+P0577,test,"Darden Restaurants, Inc.",2023-09-20,2024,To vote on a shareholder proposal requesting the Company to issue greenhouse gas reduction targets if properly presented at the meeting.,supports,supports,11,100.0,565,42.5
+P0578,test,The Southern Company,2026-05-13,2026,Stockholder proposal regarding a report on data center costs,supports,unclear,3,100.0,563,6.7
+P0579,test,"Darden Restaurants, Inc.",2023-09-20,2024,To vote on a shareholder proposal requesting the Company to issue a report on the risks arising from state policies restricting reproductive health care if properly presented at the meeting.,supports,supports,11,100.0,562,12.8
+P0580,dev,Regions Financial Corporation,2024-04-17,2024,Shareholder Proposal Relating to a Report on the Risks of Politicized De-Banking.,opposes,opposes,12,0.0,560,0.5
+P0581,dev,IDEX CORPORATION,2025-05-08,2025,Vote on a stockholder proposal regarding a report on hiring practices related to people with arrest or incarceration records.,supports,supports,14,92.9,553,8.0
+P0582,test,ANZ Group Holdings Limited,2025-12-18,2026,Approve Strategy to Eliminate Financed Deforestation,supports,supports,10,80.0,552,7.6
+P0583,dev,"DOMINION ENERGY, INC.",2026-05-05,2026,Shareholder Proposal Regarding a Report on the Use of ESG and DEI Metrics in Executive Compensation Plans,opposes,supports,9,0.0,551,0.9
+P0584,test,"Expeditors International of Washington, Inc.",2024-05-07,2024,Shareholder Proposal: Regarding Establishment of Near- and Long- Term Science-Based Greenhouse Gas Reduction Targets,supports,supports,10,100.0,551,20.0
+P0585,test,"BJ'S WHOLESALE CLUB HOLDINGS, INC.",2026-06-18,2026,"Vote on a shareholder proposal regarding a report on deforestation in the company's own-brand supply chain, if properly presented at the meeting.",supports,supports,10,90.0,551,33.4
+P0586,test,"BJ'S WHOLESALE CLUB HOLDINGS, INC.",2026-06-18,2026,"Vote on a shareholder proposal regarding a report on greenhouse gas emissions reduction efforts, if properly presented at the meeting.",supports,supports,10,90.0,551,48.1
+P0587,test,Campbell Soup Company,2023-11-29,2024,To vote on a shareholder proposal regarding a report on how the Company is protecting 401(k) retirement fund plan beneficiaries with a longer investment time horizon from future portfolio risk created by present-day investments in high carbon companies.,supports,opposes,12,100.0,542,14.6
+P0588,test,Campbell Soup Company,2023-11-29,2024,To vote on a shareholder proposal regarding a report relating to the progress of our cage-free egg commitment.,supports,supports,12,100.0,542,10.0
+P0589,test,Alliant Energy Corporation,2025-05-16,2025,Shareowner Proposal Requesting Third-Party Evaluation of Greenhouse Gas Emissions Reduction Targets.,supports,supports,12,100.0,540,11.3
+P0590,test,"Warner Bros. Discovery, Inc.",2024-06-03,2024,"To vote on a stockholder proposal entitled, ""Report on Use of Al"", if properly presented.",supports,unclear,10,100.0,538,48.1
+P0591,test,"Walgreens Boots Alliance, Inc.",2024-01-25,2024,Stockholder proposal requesting a report on cigarette waste.,supports,supports,6,100.0,538,7.6
+P0592,test,Nestle SA,2024-04-18,2024,Report on Non-Financial Matters Regarding Sales of Healthier and Less Healthy Foods,opposes,unclear,7,0.0,536,0.7
+P0593,dev,"Charles River Laboratories International, Inc.",2024-05-08,2024,"Proposal to publish a report on non-human primates imported by Charles River Laboratories International, Inc.",supports,supports,10,100.0,535,27.7
+P0594,test,International Flavors & Fragrances Inc.,2024-05-01,2024,Commission a third-party assessment on the Company's commitment to freedom of association and collective bargaining rights.,supports,supports,14,100.0,533,24.4
+P0595,test,"TEXAS ROADHOUSE,INC.",2025-05-15,2025,An Advisory Vote on a Shareholder Proposal Regarding the Adoption of a Policy Requiring the Disclosure of Texas Roadhouse's Consolidated EEO-1 Report,supports,supports,11,100.0,533,19.3
+P0596,test,"Walgreens Boots Alliance, Inc.",2024-01-25,2024,Stockholder proposal requesting an EEO policy risk report.,opposes,opposes,6,0.0,533,0.9
+P0597,test,"Walgreens Boots Alliance, Inc.",2024-01-25,2024,Stockholder proposal requesting a report on the risks of reproductive healthcare legislation.,supports,supports,6,100.0,533,12.0
+P0598,test,"CASEY'S GENERAL STORES, INC.",2024-08-28,2025,Shareholder proposal regarding greenhouse gas emissions reporting.,supports,supports,14,100.0,532,26.3
+P0599,test,"Walgreens Boots Alliance, Inc.",2024-01-25,2024,Stockholder proposal requesting a living wage policy.,supports,supports,6,100.0,531,13.2
+P0600,test,"Dick's Sporting Goods, Inc.",2024-06-12,2024,Stockholder proposal requesting that the Board adopt a policy requiring the Company to publicly disclose its EEO-1 report.,supports,supports,8,100.0,526,71.1
+P0601,dev,"DICK'S SPORTING GOODS, INC.",2025-06-11,2025,Stockholder proposal requesting that the Company conduct an evaluation and issue a report with respect to affirmative action initiatives that impact the Company's risk related to actual and perceived discrimination.,opposes,opposes,10,0.0,524,3.1
+P0602,test,Ford Motor Company,2024-05-09,2024,Relating to Reporting on the Company's Supply Chain Transparency and Traceability.,supports,unclear,6,100.0,522,14.4
+P0603,test,A. O. Smith Corporation,2025-04-08,2025,"Stockholder proposal requesting a Board report on our hiring practices with respect to formerly incarcerated people, if properly presented at the Annual Meeting.",supports,unclear,15,93.3,522,8.4
+P0604,test,GENUINE PARTS COMPANY,2025-04-28,2025,"Shareholder Proposal Seeking a Report on the Effectiveness of the Company's Diversity, Equity and Inclusion Efforts",supports,supports,8,100.0,522,16.1
+P0605,test,Kellanova,2024-04-26,2024,"Shareowner proposal requesting the Company to reduce greenwashing risk, if properly presented at meeting.",opposes,opposes,11,0.0,521,2.3
+P0606,test,DOLLAR GENERAL CORPORATION,2025-05-29,2025,To vote on a shareholder proposal to adopt a comprehensive human rights policy.,supports,supports,9,100.0,517,21.1
+P0607,dev,DOLLAR GENERAL CORPORATION,2025-05-29,2025,To vote on a shareholder proposal to publish a food waste transparency report.,supports,supports,9,100.0,516,10.5
+P0608,test,DOLLAR GENERAL CORPORATION,2025-05-29,2025,"To vote on a shareholder proposal to publish a report on employee access to timely, quality healthcare.",opposes,supports,9,11.1,516,4.8
+P0609,test,FORD MOTOR COMPANY,2025-05-08,2025,A shareholder proposal relating to a Report on Supply Chain GHG Emissions and Net Zero Goals.,supports,supports,6,100.0,504,8.1
+P0610,test,Shopify Inc.,2026-06-16,2026,"Adopt a Policy on Responsible Use of Artificial Intelligence (""AI"") in the Company's Business and Operations",supports,supports,7,100.0,491,13.0
+P0611,test,Occidental Petroleum Corporation,2024-05-02,2024,Shareholder Proposal Requesting an Annual Report on Lobbying,supports,supports,5,100.0,489,49.3
+P0612,test,"BEST BUY CO., INC.",2026-06-12,2026,To vote on a shareholder proposal entitled ''Report on Risks of Non-Fiduciary Executive Compensation Metrics'',opposes,opposes,7,0.0,486,1.0
+P0613,test,CAMPBELL SOUP COMPANY,2024-11-19,2025,To vote on a shareholder proposal regarding a diversity audit.,supports,supports,8,100.0,485,11.3
+P0614,dev,Encompass Health Corporation,2024-05-02,2024,"A vote on a resolution requesting a report on the effectiveness of the Company's diversity, equity, and inclusion efforts.",supports,supports,8,100.0,483,43.7
+P0615,test,"CROWN HOLDINGS, INC.",2025-05-01,2025,Consideration of a Shareholder proposal regarding transparency in political spending.,supports,supports,9,100.0,480,56.2
+P0616,dev,"Casey's General Stores, Inc.",2023-09-06,2024,Shareholder proposal regarding responsible sourcing disclosures.,supports,unclear,9,100.0,480,17.7
+P0617,test,BOOZ ALLEN HAMILTON HOLDING CORPORATION,2025-07-23,2026,Vote on a stockholder proposal regarding a report on political spending.,supports,supports,10,100.0,476,12.2
+P0618,test,HORMEL FOODS CORPORATION,2025-01-28,2025,"Stockholder proposal requesting publication of targets for significantly increasing group sow housing in the Company's supply chain, if properly presented at the meeting.",supports,unclear,8,100.0,468,12.6
+P0619,test,"Sumitomo Mitsui Financial Group, Inc.",2025-06-27,2025,Amend Articles to Add Provision on Assessment of Clients' Climate Change Transition Plans,supports,supports,7,100.0,461,11.1
+P0620,test,Wingstop Inc.,2024-05-23,2024,"Vote on a stockholder proposal regarding greenhouse gas emissions reporting and goals, if properly presented at the Annual Meeting of Stockholders; and",supports,supports,6,100.0,459,56.2
+P0621,dev,The Timken Company,2024-05-03,2024,"Consideration of a shareholder proposal requesting that The Timken Company adopt independently-verified short- and medium-term science-based greenhouse gas emissions reduction targets, inclusive of emissions from its full value chain, in order to achieve net-zero emissions by 2050 in line with the Paris Agreement's goal of limiting global temperature rise to 1.5 degrees Celsius.",supports,supports,8,100.0,458,25.8
+P0622,test,THE CAMPBELL'S COMPANY,2025-11-18,2026,To vote on a shareholder proposal regarding a report on the effectiveness of the Company's regenerative agriculture program including pesticide reduction outcomes.,supports,supports,10,90.0,455,6.6
+P0623,test,"Casey's General Stores, Inc.",2023-09-06,2024,Shareholder proposal regarding greenhouse gas emissions reporting.,supports,supports,9,100.0,451,40.8
+P0624,test,"Zions Bancorporation, N.A.",2024-04-26,2024,Shareholder proposal requesting a report on risks of politicized de-banking.,opposes,opposes,9,0.0,447,0.4
+P0625,test,"Mitsubishi UFJ Financial Group, Inc.",2024-06-27,2024,Amend Articles to Add Provision on Assessment of Clients' Climate Change Transition Plans,supports,supports,7,100.0,440,15.9
+P0626,test,"DICK'S SPORTING GOODS, INC.",2026-06-10,2026,Stockholder proposal requesting a report on women's rights related business risk and decision framework.,opposes,unclear,10,0.0,436,0.5
+P0627,dev,ITT Inc.,2024-05-15,2024,A shareholder proposal regarding political spending,supports,supports,8,100.0,433,14.3
+P0628,test,Knight-Swift Transportation Holdings Inc.,2026-05-12,2026,Vote on a stockholder proposal regarding support for transparency in political spending.,supports,supports,6,100.0,432,41.2
+P0629,test,"First Citizens BancShares, Inc.",2024-05-01,2024,"Proposal requesting a report on the risks of politicized de-banking, if properly presented during the meeting by or on behalf of the stockholder.",opposes,opposes,6,0.0,430,1.2
+P0630,dev,"Charles River Laboratories International, Inc.",2025-05-20,2025,"Proposal to publish a report on non-human primates imported by Charles River Laboratories International, Inc.",supports,supports,8,100.0,430,7.7
+P0631,test,"Texas Roadhouse, Inc.",2024-05-16,2024,An Advisory Vote on a Shareholder Proposal Regarding the Issuance of a Climate Report.,supports,supports,10,100.0,427,32.3
+P0632,test,Novo Nordisk A/S,2025-03-27,2025,Approve Proposal Regarding Regulated Working Conditions at Construction Sites,opposes,supports,7,0.0,422,0.0
+P0633,test,"ALBERTSONS COMPANIES, INC.",2025-08-07,2026,Stockholder Proposal for a Report on Human Rights Policy and Human Rights Due Diligence.,supports,supports,7,100.0,421,8.1
+P0634,test,"ALBERTSONS COMPANIES, INC.",2025-08-07,2026,Stockholder Proposal Regarding Food Waste Reporting.,supports,supports,7,100.0,419,15.8
+P0635,test,"Crown Holdings, Inc.",2024-05-02,2024,Consideration of a Shareholder's proposal regarding transparency in political spending.,supports,supports,9,100.0,415,60.0
+P0636,dev,Knight-Swift Transportation Holdings Inc.,2024-05-14,2024,Vote on a stockholder proposal regarding managing climate risk through science-based targets and transition planning.,supports,supports,7,100.0,414,12.6
+P0637,test,"ALBERTSONS COMPANIES, INC.",2025-08-07,2026,Stockholder Proposal for a Report on Risks of State Policies on Reproductive Health Care.,opposes,supports,7,14.3,411,2.9
+P0638,test,KNIGHT-SWIFT TRANSPORTATION HOLDINGS INC,2025-05-13,2025,Vote on a stockholder proposal regarding support for transparency in political spending.,supports,supports,9,100.0,411,44.5
+P0639,dev,THE TIMKEN COMPANY,2025-05-02,2025,"Consideration of a shareholder proposal requesting that the Company adopt independently verified short- and medium-term science-based greenhouse gas emissions reduction targets, inclusive of emissions from its full value chain.",supports,supports,8,100.0,410,8.3
+P0640,test,"DOCUSIGN, INC.",2026-06-01,2026,"A stockholder proposal to report on the risks of non-fiduciary executive compensation metrics, if properly presented at the meeting",opposes,opposes,8,0.0,408,2.0
+P0641,dev,Dell Technologies Inc.,2024-06-27,2024,"Shareholder proposal seeking a report to shareholders on the effectiveness of Dell Technologies Inc.'s diversity, equity, and inclusion efforts",supports,supports,8,100.0,404,60.1
+P0642,test,"Docusign, Inc.",2024-05-29,2024,"A stockholder proposal to report on the effectiveness of the Company's diversity, equity, and inclusion efforts, if properly presented at the meeting",supports,supports,7,100.0,399,36.1
+P0643,dev,"PLANET FITNESS, INC.",2025-05-06,2025,Stockholder proposal regarding EEO-1 report disclosure policy.,supports,supports,10,100.0,393,23.4
+P0644,dev,"Skechers U.S.A., Inc.",2024-05-23,2024,Stockholder proposal requesting our company to publicly disclose a timeline for meeting and disclosing our value chain emissions.,supports,supports,8,100.0,392,51.8
+P0645,test,THE WALT DISNEY COMPANY,2026-03-18,2026,"Shareholder proposal, if properly presented at the meeting, requesting a report on the expected and potential return on investment from climate commitments.",opposes,opposes,3,0.0,391,1.8
+P0646,test,MARKEL GROUP INC.,2026-05-20,2026,Shareholder proposal for a report on the Company's strategies and action plans to mitigate material environmental risks.,supports,unclear,7,100.0,390,23.8
+P0647,test,"FIRST CITIZENS BANCSHARES, INC.",2026-05-04,2026,Proposal requesting a report on faith-based employee resource groups.,opposes,opposes,7,0.0,389,2.3
+P0648,dev,"AutoNation, Inc.",2024-04-24,2024,Adoption of stockholder proposal regarding political contributions.,supports,supports,7,100.0,379,62.3
+P0649,dev,"Amkor Technology, Inc.",2024-05-14,2024,"Shareholder proposal to report on effectiveness of the Company's diversity, equity, and inclusion efforts.",supports,supports,3,100.0,379,55.1
+P0650,dev,"Coca-Cola Consolidated, Inc.",2024-05-14,2024,Stockholder proposal requesting an annual public report on Coca-Cola Consolidated's efforts to prevent harassment and discrimination in the workplace.,supports,supports,7,100.0,377,10.3
+P0651,test,Toyota Motor Corp.,2024-06-18,2024,Amend Articles to Report on Corporate Climate Lobbying Aligned with Paris Agreement,supports,supports,5,100.0,372,32.3
+P0652,test,Dell Technologies Inc.,2024-06-27,2024,Shareholder proposal requiring that Dell Technologies Inc.'s website list any recipient of material donations from Dell Technologies Inc.,opposes,unclear,8,0.0,367,1.1
+P0653,dev,"AUTONATION, INC.",2026-04-28,2026,Adoption of stockholder proposal regarding GHG report.,supports,supports,8,100.0,365,28.2
+P0654,test,Flowserve Corporation,2024-05-16,2024,Shareholder proposal requesting report on the Company's political spending and policies and procedures regarding political spending.,supports,supports,9,100.0,362,22.9
+P0655,test,"Mitsubishi UFJ Financial Group, Inc.",2025-06-27,2025,Amend Articles to Add Provision on Assessment of Clients' Climate Change Transition Plans,supports,supports,3,100.0,358,13.1
+P0656,test,"MAXIMUS, Inc.",2024-03-12,2024,Shareholder proposal regarding the commission of a third party assessment on the Company's commitment to freedom of association and collective bargaining rights.,supports,supports,9,100.0,353,31.2
+P0657,test,"AutoNation, Inc.",2025-04-23,2025,Adoption of stockholder proposal regarding political contributions.,supports,supports,8,100.0,352,58.0
+P0658,dev,"AUTONATION, INC.",2025-04-23,2025,"Adoption of stockholder proposal regarding diversity, equity, and inclusion efforts.",supports,supports,8,100.0,349,19.2
+P0659,test,Meritage Homes Corp,2025-05-22,2025,Shareholder proposal to support transparency in political spending,supports,supports,13,100.0,347,51.9
+P0660,dev,"Ryder System, Inc.",2024-05-03,2024,"To vote, on an advisory basis, on a shareholder proposal regarding managing climate risk through science-based targets and transition planning.",supports,supports,7,100.0,344,27.3
+P0661,test,"Ryder System, Inc.",2024-05-03,2024,"To vote, on an advisory basis, on a shareholder proposal regarding the Company's climate change strategy and related impacts on employment.",supports,supports,7,100.0,344,46.5
+P0662,dev,Canadian Pacific Kansas City Limited,2024-04-24,2024,SP 1: Adopt a Paid Sick Leave Policy,supports,supports,4,100.0,343,9.9
+P0663,test,"MATTEL, INC.",2025-05-28,2025,Stockholder proposal to disclose plan to reduce total contribution to climate change.,supports,supports,10,100.0,341,11.7
+P0664,test,SONOCO PRODUCTS COMPANY,2025-04-16,2025,Advisory (non-binding) shareholder proposal regarding transparency in political spending.,supports,supports,8,100.0,335,36.1
+P0665,test,Sonoco Products Company,2024-04-17,2024,Advisory (non-binding) shareholder proposal regarding transparency in political spending.,supports,supports,9,100.0,335,45.4
+P0666,test,COLUMBIA SPORTSWEAR COMPANY,2025-06-05,2025,Shareholder proposal regarding the adoption of GHG emissions reduction targets.,supports,supports,10,100.0,333,21.9
+P0667,dev,"Mattel, Inc.",2024-05-29,2024,Stockholder proposal requesting additional disclosure regarding political contributions and expenditures.,supports,supports,10,100.0,332,12.0
+P0668,test,The Wendy's Company,2024-05-21,2024,"Stockholder proposal regarding cage-free eggs, if properly presented at the Annual Meeting.",supports,supports,8,100.0,331,38.7
+P0669,test,SONOCO PRODUCTS COMPANY,2026-04-15,2026,Advisory (non-binding) shareholder proposal - avoid brand damage from political spending.,supports,supports,5,100.0,329,42.2
+P0670,test,"Sumitomo Mitsui Financial Group, Inc.",2024-06-27,2024,Amend Articles to Add Provision on Assessment of Clients' Climate Change Transition Plans,supports,supports,6,100.0,328,25.9
+P0671,test,Hyatt Hotels Corporation,2026-05-20,2026,Stockholder proposal requesting the issuance of a report analyzing whether Hyatt could disclose its overall plastics use.,supports,supports,8,100.0,328,10.1
+P0672,test,The Wendy's Company,2024-05-21,2024,"Stockholder proposal requesting a racial equity audit, if properly presented at the Annual Meeting.",supports,supports,8,100.0,327,20.2
+P0673,test,QBE Insurance Group Limited,2026-05-08,2026,Approve Disclosure of Climate Risks to the Company,supports,supports,6,83.3,327,15.0
+P0674,test,HSBC Holdings Plc,2024-05-03,2024,"Instruct the Board to Align Pension Inequality with their Commitment to Reduce the Gender Pay Gap, by Removing the Impact of State Deduction from the Members of the Post 1974 Midland Section of the HSBC Bank (UK) Pension Scheme",opposes,supports,6,0.0,318,0.0
+P0675,test,ARCBEST CORPORATION,2026-04-24,2026,"A shareholder proposal to approve GHG emissions reduction targets, if properly presented at the Annual Meeting.",supports,supports,3,100.0,311,37.9
+P0676,test,"Badger Meter, Inc.",2024-04-26,2024,SHAREHOLDER PROPOSAL REQUESTING THE BOARD TO PREPARE A REPORT ON HIRING PRACTICES.,supports,unclear,12,100.0,310,17.7
+P0677,dev,"Lyft, Inc.",2025-06-05,2025,"Stockholder proposal regarding an assessment of Lyft's use of artificial intelligence, if properly presented at the meeting.",supports,supports,9,100.0,308,17.2
+P0678,test,PILGRIM'S PRIDE CORPORATION,2026-04-29,2026,A stockholder proposal to provide a political spending disclosure.,supports,supports,6,100.0,307,56.7
+P0679,dev,"Mizuho Financial Group, Inc.",2025-06-24,2025,Amend Articles to Add Provision on Assessment of Clients' Climate Change Transition Plans,supports,supports,4,100.0,307,14.3
+P0680,dev,"Mitsubishi UFJ Financial Group, Inc.",2024-06-27,2024,Amend Articles to Add Provision on Director Competencies to Manage Climate-Related Business Risks and Opportunities,supports,supports,6,100.0,306,31.7
+P0681,test,PILGRIM'S PRIDE CORPORATION,2026-04-29,2026,A stockholder proposal to provide a report regarding internal diversity and inclusion policies and practices.,supports,supports,6,100.0,305,2.3
+P0682,test,"Mizuho Financial Group, Inc.",2024-06-26,2024,Amend Articles to Add Provision on Assessment of Clients' Climate Change Transition Plans,supports,supports,4,100.0,299,19.4
+P0683,test,Huntsman Corporation,2024-05-02,2024,Stockholder proposal regarding transparency in political spending.,supports,supports,6,100.0,291,44.7
+P0684,test,Canadian National Railway Company,2024-04-26,2024,SP 1: Adopt a Paid Sick Leave Policy,supports,supports,4,100.0,291,13.4
+P0685,test,"Sumitomo Mitsui Financial Group, Inc.",2024-06-27,2024,Amend Articles to Add Provision on Director Competencies to Manage Climate-Related Business Risks and Opportunities,supports,supports,5,100.0,286,43.7
+P0686,dev,"HARLEY-DAVIDSON, INC.",2026-05-21,2026,To vote on a shareholder proposal regarding a climate transition plan.,supports,supports,3,100.0,278,25.5
+P0687,test,ANZ Group Holdings Limited,2025-12-18,2026,Approve Customer Transition Approach and Climate Commitments,supports,supports,5,80.0,276,12.7
+P0688,test,"Zions Bancorporation, N.A.",2026-05-01,2026,"To consider a shareholder proposal regarding ""Report on Risks from Misalignment Between Company Policies and Customer Base.""",opposes,unclear,8,0.0,276,0.7
+P0689,test,American Airlines Group Inc.,2025-06-11,2025,Advisory vote on stockholder proposal to end participation in the Human Rights Campaign's Corporate Equality Index;,opposes,opposes,7,0.0,275,1.5
+P0690,test,Nordea Bank Abp,2026-03-24,2026,Approve Proposal Regarding Business Activities in the Arctic Region,opposes,unclear,4,0.0,271,12.5
+P0691,test,"Foot Locker, Inc.",2025-05-21,2025,Vote on a Shareholder Proposal Requesting that the Company Adopt a Goal for Reducing Its Enterprise-wide Greenhouse Gas Emissions in Line with the Paris Agreement.,supports,supports,3,100.0,271,7.4
+P0692,test,Coty Inc.,2023-11-02,2024,Stockholder proposal regarding a report on plastic packaging reduction,supports,supports,7,100.0,270,48.9
+P0693,dev,ANZ Group Holdings Limited,2024-12-19,2025,Approve Transition Plan Assessments,supports,supports,5,100.0,258,17.1
+P0694,test,Granite Construction Incorporated,2024-06-05,2024,Shareholder proposal regarding a report on the I-80 South Quarry Project,supports,unclear,3,100.0,258,17.8
+P0695,test,Danske Bank A/S,2026-03-26,2026,Approve Divestment from Fossil Fuel Companies that do not have a Transition Plan in Line with the Paris Agreement,opposes,supports,3,0.0,243,1.2
+P0696,test,"Mizuho Financial Group, Inc.",2024-06-26,2024,Amend Articles to Add Provision on Director Competencies to Manage Climate-Related Business Risks and Opportunities,supports,supports,3,100.0,242,38.4
+P0697,test,Volvo AB,2026-04-08,2026,Approve Publication of a Report on Company's Climate Policy Commitments and Alignment with the Paris Agreement,supports,supports,3,100.0,240,21.7
+P0698,test,DSV A/S,2024-03-14,2024,Report on Efforts and Risks Related to Human and Labor Rights,supports,supports,5,100.0,238,94.5
+P0699,dev,"UNDER ARMOUR, INC.",2025-09-03,2026,"To vote on a stockholder proposal, if properly presented at the Annual Meeting.",supports,unclear,3,100.0,233,6.4
+P0700,test,"WOLVERINE WORLD WIDE, INC.",2025-05-01,2025,Shareholder proposal regarding greenhouse gas emissions disclosures and targets.,supports,supports,3,100.0,232,11.2
+P0701,test,"WOLVERINE WORLD WIDE, INC.",2026-05-07,2026,Shareholder proposal regarding new climate change polices or practices.,supports,supports,3,100.0,230,10.0
+P0702,dev,Jack in the Box Inc.,2024-03-01,2024,"Shareholder Proposal Regarding Greenhouse Gas (""GHG"") Emissions Disclosures.",supports,supports,3,100.0,229,55.9
+P0703,dev,Westpac Banking Corporation,2024-12-13,2025,Approve Transition Plan Assessments,supports,supports,4,100.0,229,17.0
+P0704,test,Nordea Bank Abp,2025-03-20,2025,Approve Business Activities in Line with the Paris Agreement,opposes,supports,4,0.0,219,0.0
+P0705,test,National Australia Bank Limited,2024-12-18,2025,Approve Transition Plan Assessments,supports,supports,4,100.0,217,14.3
+P0706,dev,Skandinaviska Enskilda Banken AB,2024-03-19,2024,Instruct Board of Directors to Revise SEB Overall Strategy to be in Line with the Paris Agreement Goals,supports,supports,5,100.0,215,9.8
+P0707,dev,National Australia Bank Limited,2023-12-15,2024,Approve Transition Plan Assessments,supports,supports,5,100.0,215,22.8
+P0708,test,Kao Corp.,2026-04-30,2026,"Appoint Three Individuals to Investigate Status of Operations and Property of the Company including Potential Failures of Risk Management, Internal Controls and Board Oversight related to Palm Oil, Paper and Pulp Supply Chains",supports,unclear,6,83.3,214,40.2
+P0709,test,Royal Bank of Canada,2025-04-10,2025,SP 3: Adopt Advanced Generative AI Systems Voluntary Code of Conduct,supports,unclear,4,75.0,211,7.6
+P0710,dev,Macquarie Group Limited,2025-07-24,2026,Approve the Climate Risk Exposure and Management Disclosures,supports,supports,5,100.0,211,20.9
+P0711,dev,East Japan Railway Co.,2026-06-19,2026,Amend Articles to Establish Safety Advisory Committee,opposes,unclear,4,0.0,208,0.0
+P0712,test,Coles Group Limited,2025-11-11,2026,Approve Contingent Resolution - Seafood Sourcing Policy,supports,unclear,4,75.0,205,6.8
+P0713,test,The Toronto-Dominion Bank,2026-04-16,2026,SP 6: Report on Forced Labor and Child Labor in Lending Portfolios,supports,supports,3,100.0,201,4.0
+P0714,test,Royal Bank of Canada,2026-04-09,2026,SP 6: Report on Forced Labor and Child Labor in Lending Portfolios,supports,supports,4,75.0,200,7.0
+P0715,test,Saab AB,2026-04-01,2026,Approve Introduction of a Key Performance Indicator to Monitor how much the Year's Emissions are Estimated to Contribute to Global Warming and thus to Demand for Company's Products,opposes,supports,3,0.0,198,4.0
+P0716,test,Westpac Banking Corporation,2025-12-11,2026,Approve Transition Plan Approach and Climate Commitments,supports,supports,3,100.0,198,9.1
+P0717,dev,Coles Group Limited,2024-11-12,2025,Approve Contingent Resolution - Nature-Related Disclosure,supports,unclear,4,100.0,197,40.6
+P0718,dev,Coles Group Limited,2024-11-12,2025,Approve Contingent Resolution - Farmed Salmon Sourcing,opposes,unclear,4,0.0,197,2.0
+P0719,test,Woolworths Group Limited,2024-10-31,2025,Approve Farmed Salmon Sourcing,opposes,unclear,4,0.0,197,1.0
+P0720,dev,Woolworths Group Limited,2024-10-31,2025,Approve Farmed Seafood Reporting,supports,unclear,4,100.0,197,36.0
+P0721,dev,Westpac Banking Corp.,2023-12-14,2024,Approve Transition Plan Assessments,supports,supports,4,100.0,196,18.9
+P0722,dev,Skandinaviska Enskilda Banken AB,2026-03-24,2026,"Approve Revision of Company's Strategy to Reduce Environmental, Climate-Related and Financial Risks",opposes,supports,3,0.0,192,7.8
+P0723,test,The Toronto-Dominion Bank,2024-04-18,2024,SP 9: Provide All Employees the Same Amount of Benefit Credits,opposes,unclear,5,0.0,191,0.0
+P0724,dev,Nippon Telegraph & Telephone Corp.,2025-06-19,2025,Amend Articles to Add Provisions on Nationality Requirement for Directors,opposes,unclear,3,0.0,186,0.0
+P0725,test,Swedbank AB,2024-03-26,2024,Adopt Company Strategy Aligned with the Paris Agreement Goal,supports,supports,5,100.0,186,2.7
+P0726,test,Royal Bank of Canada,2025-04-10,2025,SP 2: Report on Forced Labor and Child Labor in Lending Portfolios,supports,supports,4,75.0,186,13.4
+P0727,dev,Marks & Spencer Group Plc,2025-07-01,2026,Oversee the Preparation of a Report to Provide Investors the Information Needed to Assess the Company's Approach to Human Capital Management,supports,unclear,3,100.0,183,14.2
+P0728,test,Royal Bank of Canada,2024-04-11,2024,SP 1: Disclose Clean Energy to Fossil Fuel Financing Ratios,supports,supports,4,100.0,182,8.2
+P0729,test,The Toronto-Dominion Bank,2024-04-18,2024,SP 2: Disclose Transition Activities Towards 2030 Emission Reduction Targets,supports,supports,5,100.0,180,21.1
+P0730,test,The Toronto-Dominion Bank,2026-04-16,2026,SP 8: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,180,3.9
+P0731,test,The Toronto-Dominion Bank,2024-04-18,2024,SP 6: Report on Impact of Oil and Gas Divestment,opposes,opposes,5,0.0,180,0.6
+P0732,test,The Toronto-Dominion Bank,2024-04-18,2024,SP 5: Advisory Vote on Environmental Policies,supports,unclear,5,80.0,180,21.7
+P0733,test,Dollarama Inc.,2026-06-11,2026,SP 4: Advisory Vote on Environmental Policies,supports,unclear,4,100.0,177,11.9
+P0734,test,Dollarama Inc.,2026-06-11,2026,SP 2: Establish Formal Action Plan on Minimizing All Forms of Operations Waste,supports,supports,4,100.0,177,13.0
+P0735,test,Royal Bank of Canada,2025-04-10,2025,SP 5: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,175,16.0
+P0736,test,The Toronto-Dominion Bank,2026-04-16,2026,"SP 7: Report on AI-Use in High-Level Decision-Making, Risk Assessment and Loan Grants",supports,unclear,3,100.0,174,12.1
+P0737,test,The Toronto-Dominion Bank,2026-04-16,2026,SP 9: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,174,5.7
+P0738,test,APA Group,2024-10-24,2025,Approve Climate Risk Safeguarding,supports,supports,3,100.0,173,19.1
+P0739,test,The Toronto-Dominion Bank,2024-04-18,2024,SP 4: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,4,100.0,170,14.1
+P0740,dev,APA Group,2025-10-22,2026,Approve Climate Risk Safeguarding,supports,supports,3,100.0,169,8.3
+P0741,test,Royal Bank of Canada,2026-04-09,2026,"SP 7: Report on AI-Use in High-Level Decision-Making, Risk Assessment and Loan Grants",supports,unclear,3,100.0,169,9.5
+P0742,test,APA Group,2025-10-22,2026,Approve Key Partner Due Diligence,supports,unclear,3,100.0,169,7.7
+P0743,test,GameStop Corp.,2024-06-17,2024,"To consider and vote on the stockholder proposal requesting a Board of Directors skills and diversity matrix, if properly presented at the annual meeting.",supports,supports,8,100.0,168,46.4
+P0744,test,Woolworths Group Limited,2025-10-30,2026,Approve Farmed Seafood Reporting,supports,unclear,4,100.0,167,39.5
+P0745,dev,Woolworths Group Limited,2025-10-30,2026,Approve Seafood Sourcing Policy,supports,unclear,4,75.0,167,7.2
+P0746,test,Saab AB,2026-04-01,2026,"Acknowledge the Correlation that Increased Emissions Lead to Increased Global Warming, which Leads to Increased Risk of War and Conflict, Increased Demand for Weapons Systems and Increased Profits for the Company",opposes,supports,3,0.0,163,15.3
+P0747,test,The Toronto-Dominion Bank,2025-04-10,2025,SP 1: Annual Energy Supply Ratio Disclosure,supports,supports,4,100.0,160,27.5
+P0748,dev,Royal Bank of Canada,2025-04-10,2025,SP 6: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,159,11.9
+P0749,test,Canadian Imperial Bank of Commerce,2025-04-03,2025,SP 6: Disclose Industry-Specific Carbon Risk Scoring/Transition Plans,supports,supports,4,100.0,158,16.5
+P0750,test,Canadian Imperial Bank of Commerce,2025-04-03,2025,SP 1: Disclose the Corporation's Energy Supply Ratio Annually,supports,supports,4,100.0,158,21.5
+P0751,test,Canadian Imperial Bank of Commerce,2025-04-03,2025,SP 2: Report on Fighting Against Forced Labour and Child Labour in Loan Portfolios,supports,supports,4,75.0,158,15.2
+P0752,test,The Bank of Nova Scotia,2025-04-08,2025,SP 1: Publish a Third-Party Racial Equity Audit,supports,supports,4,100.0,157,31.8
+P0753,dev,The Bank of Nova Scotia,2025-04-08,2025,SP 3: Adopt Advanced Generative AI Systems Voluntary Code of Conduct,supports,unclear,4,75.0,157,7.0
+P0754,test,Thomson Reuters Corporation,2026-06-10,2026,SP 1: Human Rights Risk Assessment,supports,supports,6,83.3,157,8.3
+P0755,test,Royal Bank of Canada,2024-04-11,2024,SP 2: Report on Impact of Oil and Gas Divestment,opposes,opposes,3,0.0,156,0.0
+P0756,test,Royal Bank of Canada,2024-04-11,2024,SP 7: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,156,16.7
+P0757,dev,The Toronto-Dominion Bank,2025-04-10,2025,SP 3: Adopt Advanced Generative AI Systems Voluntary Code of Conduct,supports,supports,4,75.0,155,7.7
+P0758,test,Royal Bank of Canada,2024-04-11,2024,SP 5: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,155,11.6
+P0759,test,H&M Hennes & Mauritz AB,2026-05-05,2026,Approve Prohibition of the Use of Mohair; Request the Board to Consider Developing a Plan to Phase out All Remaining Animal-derived Materials,supports,unclear,3,100.0,154,16.9
+P0760,dev,Royal Bank of Canada,2026-04-09,2026,SP 8: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,154,5.8
+P0761,test,The Bank of Nova Scotia,2026-04-14,2026,"SP 6: Report on AI-Use in High-Level Decision-Making, Risk Assessment and Loan Grants",supports,unclear,4,100.0,153,7.8
+P0762,test,The Bank of Nova Scotia,2026-04-14,2026,SP 8: Advisory Vote on Environmental Policies,supports,unclear,4,100.0,153,11.8
+P0763,test,National Bank of Canada,2025-04-24,2025,SP 4: Adopt Advanced Generative AI Systems Voluntary Code of Conduct,supports,unclear,5,80.0,153,9.2
+P0764,test,Canadian Imperial Bank of Commerce,2024-04-04,2024,SP 1: Issue Report Disclosing Exposure on the Oil and Gas Sector,opposes,supports,5,0.0,153,0.7
+P0765,test,Woolworths Group Limited,2025-10-30,2026,"Approve Update of Pulp, Paper and Timber Policy",opposes,unclear,3,0.0,153,0.0
+P0766,test,Woolworths Group Limited,2025-10-30,2026,Approve Classification of Beef,supports,unclear,3,100.0,153,7.2
+P0767,test,Metro Inc.,2024-01-30,2024,SP 1: Report on Cage-Free Egg Goal,supports,opposes,4,100.0,151,15.9
+P0768,dev,Skandinaviska Enskilda Banken AB,2025-04-01,2025,Instruct Board of Directors to Revise SEB Overall Strategy to be in Line with the Paris Agreement Goals,supports,supports,3,100.0,149,6.0
+P0769,test,Royal Bank of Canada,2026-04-09,2026,SP 9: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,148,14.2
+P0770,test,H&M Hennes & Mauritz AB,2024-05-03,2024,Approve Zero Tolerance of Clothes as Waste in 2025,supports,supports,5,80.0,146,21.2
+P0771,test,Levi Strauss & Co.,2024-04-24,2024,"Shareholder proposal, if properly presented at the meeting, requesting a corporate financial sustainability report.",opposes,opposes,5,0.0,144,0.0
+P0772,dev,Dollarama Inc.,2025-06-11,2025,SP 1: Establish Formal Action Plan on Minimizing All Forms of Operations Waste,supports,supports,3,100.0,143,16.8
+P0773,dev,Dollarama Inc.,2025-06-11,2025,SP 5: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,143,14.0
+P0774,test,The Toronto-Dominion Bank,2025-04-10,2025,SP 2: Report on Forced Labor and Child Labor in Lending Portfolios,supports,supports,3,100.0,143,16.8
+P0775,test,Canadian Imperial Bank of Commerce,2026-04-16,2026,SP 7: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,142,13.4
+P0776,test,Levi Strauss & Co.,2025-04-23,2025,"Shareholder proposal, if properly presented at the meeting, requesting Levi Strauss & Co. cease DEI efforts.",opposes,opposes,7,0.0,142,2.1
+P0777,test,National Bank of Canada,2025-04-24,2025,SP 2: Advisory Vote on Environmental Policies,supports,unclear,4,100.0,141,14.2
+P0778,dev,H&M Hennes & Mauritz AB,2024-05-03,2024,Instruct Board to Assess the Impact of Sales of Clothing Containing Down on H&M's Reputation and Sales Losses,supports,unclear,4,100.0,141,24.1
+P0779,test,The Bank of Nova Scotia,2026-04-14,2026,SP 7: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,139,5.8
+P0780,test,The Bank of Nova Scotia,2024-04-09,2024,SP 1: Report on Impact of Oil and Gas Divestment,opposes,opposes,5,0.0,138,0.7
+P0781,test,CGI Inc.,2026-01-28,2026,SP 3: Adjust Governance Practices in Light of the Risks Related to Trade Tensions with the United States,opposes,unclear,4,0.0,138,1.4
+P0782,dev,The Bank of Nova Scotia,2025-04-08,2025,SP 2: Report on Forced Labor and Child Labor in Lending Portfolios,supports,supports,3,100.0,136,17.6
+P0783,test,Canadian Imperial Bank of Commerce,2026-04-16,2026,SP 6: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,130,7.7
+P0784,dev,The Toronto-Dominion Bank,2025-04-10,2025,SP 6: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,129,13.2
+P0785,dev,The Bank of Nova Scotia,2024-04-09,2024,SP 3: Advisory Vote on Environmental Policies,supports,unclear,4,100.0,129,24.8
+P0786,test,The Bank of Nova Scotia,2024-04-09,2024,SP 2: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,4,100.0,128,18.0
+P0787,dev,National Bank of Canada,2025-04-24,2025,SP 3: Report on Forced Labor and Child Labor in Lending Profiles,supports,supports,3,100.0,127,13.4
+P0788,test,National Bank of Canada,2025-04-24,2025,SP 1: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,126,10.3
+P0789,test,The Bank of Nova Scotia,2025-04-08,2025,SP 5: Advisory Vote on Environmental Policies,supports,unclear,4,100.0,125,19.2
+P0790,test,Canadian Imperial Bank of Commerce,2024-04-04,2024,SP 4: Advisory Vote on Environmental Policy,supports,unclear,4,100.0,125,24.8
+P0791,test,The Toronto-Dominion Bank,2025-04-10,2025,SP 5: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,125,16.8
+P0792,test,Canadian Imperial Bank of Commerce,2025-04-03,2025,SP 5: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,125,15.2
+P0793,test,Bank of Montreal,2024-04-16,2024,SP 4: Report on Impact of Oil and Gas Divestment,opposes,opposes,4,0.0,124,0.0
+P0794,test,Bank of Montreal,2024-04-16,2024,SP 3: Advisory Vote on Environmental Policies,supports,unclear,4,100.0,124,24.2
+P0795,dev,Canadian Imperial Bank of Commerce,2024-04-04,2024,SP 3: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,4,100.0,124,17.7
+P0796,dev,Canadian Imperial Bank of Commerce,2025-04-03,2025,SP 4: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,123,20.3
+P0797,dev,Bank of Montreal,2024-04-16,2024,SP 2: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,4,100.0,123,16.3
+P0798,test,National Bank of Canada,2026-04-24,2026,SP 5: Report on Forced Labor and Child Labor in Lending Portfolios,supports,supports,4,75.0,120,7.5
+P0799,test,Bank of Montreal,2025-04-11,2025,SP 5: Annual Energy Supply Ratio Disclosure,supports,supports,3,100.0,119,23.5
+P0800,test,Bank of Montreal,2025-04-11,2025,SP 4: Adopt Advanced Generative AI Systems Voluntary Code of Conduct,supports,unclear,3,100.0,119,9.2
+P0801,dev,Bank of Montreal,2026-04-15,2026,"SP 6: Report on AI-Use in High-Level Decision-Making, Risk Assessment and Loan Grants",supports,unclear,3,100.0,115,13.9
+P0802,dev,Bank of Montreal,2026-04-15,2026,SP 8: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,115,10.4
+P0803,test,Thomson Reuters Corporation,2025-06-04,2025,Amend Artificial Intelligence (AI) Governance Framework in Alignment with the UN Guiding Principles on Business and Human Rights (UNGPs),supports,supports,3,100.0,113,9.7
+P0804,test,iA Financial Corporation Inc.,2026-05-07,2026,SP 2: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,111,9.0
+P0805,dev,The Bank of Nova Scotia,2025-04-08,2025,SP 6: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,111,16.2
+P0806,test,Bank of Montreal,2026-04-15,2026,SP 7: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,105,9.5
+P0807,dev,National Bank of Canada,2026-04-24,2026,SP 7: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,104,15.4
+P0808,test,National Bank of Canada,2026-04-24,2026,SP 6: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,104,8.7
+P0809,test,Bank of Montreal,2025-04-11,2025,SP 2: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,102,18.6
+P0810,test,Bank of Montreal,2025-04-11,2025,SP 6: Lobbying and Policy Influence Activities Disclosure,supports,supports,3,100.0,101,15.8
+P0811,test,Bank of Montreal,2025-04-11,2025,SP 1: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,3,100.0,92,14.1
+P0812,test,Saputo Inc.,2024-08-09,2025,SP 1: Advisory Vote on Environmental Policies,supports,unclear,3,100.0,71,29.6
+P0813,test,Norsk Hydro ASA,2026-05-07,2026,Shareholder Proposal Regarding Group Energy Sourcing,opposes,unclear,3,0.0,34,0.0
+P0814,dev,Norsk Hydro ASA,2026-05-07,2026,Shareholder Proposal Regarding Establishment of Small Modular Reactors,opposes,unclear,3,0.0,34,0.0
+P0815,dev,Norsk Hydro ASA,2026-05-07,2026,Shareholder Proposal Regarding Assessing Involvement in Nuclear Power,opposes,unclear,3,0.0,32,0.0

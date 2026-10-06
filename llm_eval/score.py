@@ -43,7 +43,10 @@ def main():
         covered = gold.index.intersection(list(answers))
         if len(covered) == len(gold):
             model, prompt = path.stem.split("__")
-            systems[f"{model} / {prompt}"] = pd.Series(answers).reindex(gold.index)
+            llm = pd.Series(answers).reindex(gold.index)
+            systems[f"{model} / {prompt}"] = llm
+            # Hybrid: keep the keyword rule where it gives an answer, ask the model only where it does not.
+            systems[f"Rules, then {prompt} where rules are unclear"] = gold["rule_label"].where(gold["rule_label"] != "unclear", llm)
         elif len(covered):
             print(f"Skipping {path.name}: only {len(covered)} of {len(gold)} {args.split} proposals labelled")
 

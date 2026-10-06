@@ -113,7 +113,7 @@ scripts/label_proposals.py      match wordings, label direction  → seeds/propo
 scripts/make_charts.py          charts from reports/tables
 ```
 
-- **dbt:** 10 models, 1 seed and 21 data tests, including a custom test that no fund has two answers for the same proposal.
+- **dbt:** 9 models, 1 seed and 21 data tests, including a custom test that no fund has two answers for the same proposal.
 - **Unit tests:** 8 pytest checks on the SEC file reader, the wording matcher and the direction rules, run by GitHub Actions on every push.
 - **Runs on a laptop:** DuckDB with a 2 GB memory limit rebuilds every table from the 73.8 million rows in about ten minutes.
 

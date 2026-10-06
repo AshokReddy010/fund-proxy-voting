@@ -51,9 +51,6 @@ models:
               arguments:
                 values: ["FOR", "AGAINST", "ABSTAIN", "WITHHOLD"]
 
-  - name: mart_esg_support
-    description: Support for environmental and social shareholder proposals, ESG-named funds against other funds, by year.
-
   - name: mart_sibling_comparison
     description: ESG-named funds compared with ordinary funds from the same filer on the same proposal.
     columns:

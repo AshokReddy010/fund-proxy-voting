@@ -97,6 +97,45 @@ The raw data is not in this repository. `download_votes.py` rebuilds it from the
 
 Where both signals gave an answer, the first version of the wording rules agreed with the reference votes 91.2% of the time. Nearly every disagreement was an opposing proposal written in ESG vocabulary. Refining the rules raised agreement to 94.7% on 664 proposals, but they were refined on those same cases, so that figure is optimistic. The published results therefore use reference votes wherever they exist, and report wording-only labels separately.
 
+## Can a language model label the proposals?
+
+Reference votes exist for 84% of fund votes. The rest depend on keyword rules, which are the weakest part of the pipeline. So I tested whether a language model could label a proposal's direction from its company name and title alone, and measured it against the reference votes.
+
+**Setup**
+
+- **Answer key:** 815 proposals where the specialist ESG houses gave a clear answer, 579 supporting and 236 opposing.
+- **Split:** a fixed 237 for practice and 578 for the final test, assigned by a hash of the proposal ID.
+- **Prompts:** three versions, written and revised using only the practice set. The final set was scored once, after the prompts were frozen.
+- **Model:** `openai/gpt-oss-120b` through the Groq API, at temperature 0, with every answer cached in [`llm_eval/runs`](llm_eval/runs).
+
+**Results on the final set (578 proposals)**
+
+| Method | Accuracy | Opposing proposals caught | No clear answer |
+|:--|--:|--:|--:|
+| Keyword rules | 76.6% | 68.9% | 18.5% |
+| LLM, plain prompt | 69.2% | 7.9% | 6.4% |
+| LLM, prompt with written guidance | 76.5% | 36.0% | 6.1% |
+| LLM, prompt with examples and a reframed task | 84.9% | 65.2% | 5.4% |
+| Rules first, LLM where the rules give no answer | 91.0% | 76.2% | 2.9% |
+
+Full tables, with precision and recall for both classes, are in [`llm_eval/results_test.md`](llm_eval/results_test.md). Every proposal a method got wrong is in [`llm_eval/errors_test.csv`](llm_eval/errors_test.csv).
+
+**What this shows**
+
+- **The prompt mattered more than anything else.** The same model went from 69.2% to 84.9%. With a plain prompt it labelled almost every proposal as supporting ESG, and caught 8% of the opposing ones.
+- **The largest gain came from changing the question.** Asking "how would specialist responsible-investment funds vote on this?" worked better than asking whether a proposal "supports ESG", because opposing proposals are written in ESG vocabulary.
+- **Rules and model fail in different places.** The rules are precise but silent on 18.5% of proposals. The model answers nearly all of them. Using the rules first and the model for the remainder beat both.
+- **Practice scores were higher.** The combined method scored 93.7% on the practice set and 91.0% on the final set, which is the figure to quote.
+
+**Limits of this test**
+
+- The keyword rules were refined earlier against reference votes on many of these same proposals, so their 76.6%, and the combined 91.0% that builds on them, are optimistic. The LLM-only rows are a clean test.
+- Even the best method misses about a quarter of opposing proposals.
+- The answer key is the specialists' votes, which is a chosen yardstick and not ground truth.
+- One model was tested. The published fund results do not use these LLM labels.
+
+To rerun it, set a `GROQ_API_KEY` environment variable, then run `python llm_eval\run_llm.py --prompt v3_examples_and_reframing --split test` and `python llm_eval\score.py --split test`.
+
 ## How it is built
 
 ```
@@ -111,6 +150,7 @@ SEC EDGAR (33,929 filings)
                └─ marts         support by direction, sibling comparison
 scripts/label_proposals.py      match wordings, label direction  → seeds/proposal_labels.csv
 scripts/make_charts.py          charts from reports/tables
+llm_eval/                       LLM labelling test: answer key, prompts, cached runs, scores
 ```
 
 - **dbt:** 9 models, 1 seed and 21 data tests, including a custom test that no fund has two answers for the same proposal.
@@ -152,7 +192,7 @@ python scripts\make_charts.py
 
 ## Tools
 
-Python, DuckDB, dbt, pandas, Matplotlib, pytest, GitHub Actions.
+Python, DuckDB, dbt, pandas, Matplotlib, pytest, GitHub Actions, Groq API (open-weight LLM).
 
 ## Author
 

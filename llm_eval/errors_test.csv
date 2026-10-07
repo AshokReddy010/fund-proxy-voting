@@ -1,0 +1,267 @@
+id,company,title,label,Keyword rules,openai-gpt-oss-120b / v1_zero_shot,"Rules, then v1_zero_shot where rules are unclear",openai-gpt-oss-120b / v2_with_guidance,"Rules, then v2_with_guidance where rules are unclear",openai-gpt-oss-120b / v3_examples_and_reframing,"Rules, then v3_examples_and_reframing where rules are unclear"
+P0002,"Amazon.com, Inc.",SHAREHOLDER PROPOSAL REQUESTING AN ADDITIONAL BOARD COMMITTEE TO OVERSEE THE FINANCIAL IMPACT OF POLICY POSITIONS,opposes,opposes,supports,opposes,opposes,opposes,unclear,opposes
+P0003,Mastercard Incorporated,Consideration of a stockholder proposal requesting a congruency report on privacy and human rights,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0010,Microsoft Corporation,Mandate for Third-Party Political Reporting,opposes,supports,supports,supports,supports,supports,supports,supports
+P0011,Microsoft Corporation,Report on Gender-Based Compensation and Benefit Gaps,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0012,Microsoft Corporation,Report on Risk from Omitting Ideology in EEO Policy,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0021,Microsoft Corporation,Report on Government Takedown Requests,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0024,NVIDIA CORPORATION,Approval of a non-binding stockholder proposal requesting a report on faith-based community resource groups.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0026,NVIDIA CORPORATION,Approval of a non-binding stockholder proposal requesting a report on workforce civil liberties.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0034,MICROSOFT CORPORATION,Assessment of Investing in Bitcoin.,opposes,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0035,ALPHABET INC.,Shareholder proposal regarding a report on politicized content moderation,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0036,NVIDIA CORPORATION,Approval of a stockholder proposal to modify existing reporting on workforce data.,supports,supports,supports,supports,unclear,supports,supports,supports
+P0042,"AMAZON.COM, INC.",SHAREHOLDER PROPOSAL REQUESTING A REPORT ON ADVERTISING RISKS,opposes,opposes,supports,opposes,supports,opposes,unclear,opposes
+P0043,APPLE INC.,"A shareholder proposal entitled ""China Entanglement Audit""",opposes,opposes,unclear,opposes,opposes,opposes,opposes,opposes
+P0045,APPLE INC.,"A shareholder proposal entitled ""Report on Charitable Giving""",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0056,"Amazon.com, Inc.",SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER DUE DILIGENCE,supports,unclear,supports,supports,supports,supports,supports,supports
+P0058,Alphabet Inc.,Stockholder proposal regarding a report on risks of discrimination in GenAl,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0059,"Amazon.com, Inc.",SHAREHOLDER PROPOSAL REQUESTING A POLICY TO DISCLOSE DIRECTORS' POLITICAL AND CHARITABLE DONATIONS,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0064,ALPHABET INC.,Shareholder proposal regarding a viewpoint diversity risk report,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0065,ALPHABET INC.,Stockholder proposal regarding a report on charitable partnerships,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0072,Apple Inc.,"A shareholder proposal entitled ""EEO Policy Risk Report""",opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0073,"Meta Platforms, Inc.",A shareholder proposal regarding report and advisory vote on minimum age for social media.,opposes,unclear,supports,supports,supports,supports,supports,supports
+P0078,Alphabet Inc.,Stockholder proposal regarding an EEO policy risk report,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0080,Alphabet Inc.,Stockholder proposal regarding a report on electromagnetic radiation and wireless technologies risks,opposes,unclear,supports,supports,supports,supports,unclear,unclear
+P0085,"Amazon.com, Inc.",SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER USE OF CERTAIN TECHNOLOGIES,supports,unclear,supports,supports,unclear,unclear,unclear,unclear
+P0086,"Amazon.com, Inc.",SHAREHOLDER PROPOSAL REQUESTING A REPORT ON VIEWPOINT RESTRICTION,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0089,ALPHABET INC.,Stockholder proposal regarding a request to cease CEI participation,opposes,opposes,opposes,opposes,opposes,opposes,supports,opposes
+P0090,"META PLATFORMS, INC.",A shareholder proposal regarding Bitcoin treasury assessment.,opposes,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0092,Apple Inc.,A shareholder proposal requesting a report on the use of Al,supports,unclear,supports,supports,supports,supports,supports,supports
+P0101,VISA INC.,Shareholder proposal on inclusion ROI audit.,opposes,opposes,supports,opposes,opposes,opposes,supports,opposes
+P0105,MASTERCARD INCORPORATED,Consideration of a stockholder proposal requesting a report on affirmative action risks,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0106,JPMORGAN CHASE & CO.,"Report on congruence of security, resiliency, and climate initiatives",opposes,supports,supports,supports,supports,supports,supports,supports
+P0107,Mastercard Incorporated,Consideration of a stockholder proposal requesting a report on gender-based compensation and benefit gaps,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0109,JPMORGAN CHASE & CO.,Lobbying alignment,supports,supports,unclear,supports,unclear,supports,unclear,supports
+P0110,Eli Lilly and Company,"Shareholder proposal to report on effectiveness of the company's diversity, equity, and inclusion efforts.",supports,supports,supports,supports,opposes,supports,supports,supports
+P0112,"NETFLIX, INC.","Stockholder proposal entitled, ''ESG ROI Report,'' if properly presented at the meeting.",opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0113,JPMORGAN CHASE & CO.,Sustainability ROI report,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0116,"Merck & Co., Inc.",Shareholder proposal regarding a government censorship transparency report.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0118,"MERCK & CO., INC.",Shareholder proposal regarding a report on healthcare coverage gaps.,opposes,supports,supports,supports,supports,supports,supports,supports
+P0130,JPMorgan Chase & Co.,Humanitarian risks due to climate change policies,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0135,"CISCO SYSTEMS, INC.",Stockholder Proposal - Approval to request the Board to conduct an evaluation and issue a report assessing how Cisco's Inclusion programs provide positive financial value to shareholders.,opposes,supports,supports,supports,opposes,supports,supports,supports
+P0136,"MERCK & CO., INC.",Shareholder proposal regarding a report on civil liberties in advertising services.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0142,Intuit Inc.,Shareholder proposal requesting the Board to issue a report on the return on investment of the Company's diversity and inclusion programs,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0145,"Salesforce, Inc.","A stockholder proposal requesting a report on viewpoint restriction risks, if properly presented at the meeting.",opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0151,Johnson & Johnson,Gender-based compensation gaps and associated risks,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0157,QUALCOMM INCORPORATED,"Stockholder proposal entitled ""Protect Retirement Benefits.""",supports,unclear,supports,supports,unclear,unclear,unclear,unclear
+P0158,The Procter & Gamble Company,Shareholder Proposal - Civil Rights Audit of Reverse Discrimination,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0162,"THE HOME DEPOT, INC.",Shareholder Proposal Regarding Report on Discrimination in Charitable Support,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0164,"THE HOME DEPOT, INC.",Shareholder Proposal Regarding Report on Customer Data Privacy Risks,supports,supports,supports,supports,supports,supports,unclear,supports
+P0165,"THE HOME DEPOT, INC.",Shareholder Proposal Regarding Evaluation of Recycling-Related Plastics Targets,opposes,supports,supports,supports,supports,supports,supports,supports
+P0173,WALMART INC.,"Report on Delays in Revising Diversity, Equity, and Inclusion (DEI) Initiatives",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0174,WALMART INC.,Revisit Plastics Packaging Policies,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0178,AbbVie Inc.,Stockholder Proposal - to Issue a Report on Patent Process,supports,supports,unclear,supports,unclear,supports,unclear,supports
+P0179,WALMART INC.,Respect Civil Liberties in Advertising Services,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0181,"Merck & Co., Inc.",Shareholder proposal to revisit DEl goals in executive pay incentives.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0183,"GILEAD SCIENCES, INC.","To vote on a stockholder proposal requesting a report on the risks of ESG and DEI executive compensation metrics, if properly presented at the Annual Meeting.",opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0185,"NETFLIX, INC.","Stockholder proposal entitled, ''Report on Politicized Brand Misalignment,'' if properly presented at the meeting.",opposes,opposes,unclear,opposes,opposes,opposes,opposes,opposes
+P0187,THE WALT DISNEY COMPANY,"Shareholder proposal, if properly presented at the meeting, requesting a report on how the employee gift-matching program may impact risks related to religious discrimination against employees.",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0188,Intuit Inc.,Stockholder proposal requesting a retirement plan investment report,supports,supports,unclear,supports,unclear,supports,unclear,supports
+P0190,"The Home Depot, Inc.",Shareholder Proposal Regarding Corporate Giving Report,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0195,GE VERNOVA INC.,Stockholder proposal requesting report assessing sustainability goals on the basis of net-present-value and return-on-investment calculation,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0199,WELLS FARGO & COMPANY,Shareholder Proposal - Energy Supply Ratio.,supports,supports,unclear,supports,unclear,supports,supports,supports
+P0200,JPMorgan Chase & Co.,Report on respecting workforce civil liberties,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0203,THE COCA-COLA COMPANY,Vote on a shareowner proposal requesting a report evaluating the Company's plastics packaging policies,opposes,supports,supports,supports,supports,supports,supports,supports
+P0207,THE COCA-COLA COMPANY,Vote on a shareowner proposal requesting a report on risks related to ingredients,supports,supports,supports,supports,supports,supports,unclear,supports
+P0214,"PepsiCo, Inc.",Shareholder Proposal - Report on Gender-Based Compensation Gaps and Associated Risks.,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0215,GE AEROSPACE,Shareholder Proposal Requesting Report on Defense-Related Products,supports,unclear,supports,supports,supports,supports,supports,supports
+P0219,"The TJX Companies, Inc.",Shareholder proposal for a report on effectiveness of social compliance efforts in TJX's supply chain,supports,unclear,supports,supports,supports,supports,supports,supports
+P0221,Walmart Inc.,Corporate Financial Sustainability Report,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0228,The Coca-Cola Company,Vote on a shareowner proposal requesting a report on risks caused by the decline in the quality of accessible medical care,supports,unclear,supports,supports,supports,supports,unclear,unclear
+P0232,WALMART INC.,Report on Immigration Policy & Enforcement,supports,unclear,supports,supports,supports,supports,unclear,unclear
+P0235,Wells Fargo & Company,Shareholder Proposal - Audit of Climate Transition Policies.,opposes,supports,supports,supports,supports,supports,supports,supports
+P0238,"Tesla, Inc.","A stockholder proposal regarding committing to a moratorium on sourcing minerals from deep sea mining, if properly presented.",supports,supports,supports,supports,supports,supports,opposes,supports
+P0240,"Tesla, Inc.","A stockholder proposal regarding reporting on effects and risks associated with electromagnetic radiation and wireless technologies, if properly presented.",opposes,unclear,supports,supports,supports,supports,supports,supports
+P0246,WELLS FARGO & COMPANY,Shareholder Proposal - Board Committee on Indigenous Peoples' Rights.,opposes,supports,supports,supports,supports,supports,supports,supports
+P0248,Texas Instruments Incorporated,Stockholder proposal to report on due diligence efforts to identify risks associated with product misuse.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0251,Wells Fargo & Company,Shareholder Proposal - Third-Party Assessment of Respect for Freedom of Association and Collective Bargaining.,supports,supports,supports,supports,supports,supports,opposes,supports
+P0254,"Gilead Sciences, Inc.","To vote on a stockholder proposal requesting that the Board issue a report detailing the risks and costs to the Company caused by opposing or otherwise altering Company policy in response to state policies regulating abortion, and detailing any strategies beyond litigation and legal compliance that the Company may deploy to minimize or mitigate these risks.",opposes,unclear,supports,supports,opposes,opposes,opposes,opposes
+P0258,INTERNATIONAL BUSINESS MACHINES CORP.,Stockholder Proposal Requesting a Report on Discrimination in Charitable Support,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0259,McDonald's Corporation,Advisory Vote on Congruency Analysis on Human Rights.,opposes,supports,supports,supports,supports,supports,supports,supports
+P0262,McDonald's Corporation,Advisory vote on Annual Report on Global Political Influence.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0268,VERIZON COMMUNICATIONS INC.,Discrimination in advertising services,opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0269,Booking Holdings Inc.,Stockholder proposal requesting a non-binding stockholder vote regarding reproductive rights and data privacy.,supports,supports,supports,supports,supports,supports,opposes,supports
+P0273,AMERICAN EXPRESS COMPANY,Shareholder proposal requesting a report on coverage of transgender healthcare treatments for minors.,opposes,supports,supports,supports,supports,supports,opposes,supports
+P0274,ConocoPhillips,Revisit Pay Incentives for GHG Emission Reductions.,opposes,opposes,supports,opposes,opposes,opposes,supports,opposes
+P0275,Bank of America Corporation,Shareholder proposal requesting changes to executive compensation program,supports,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0279,Walmart Inc.,Set Compensation that Optimizes Portfolio Value for Company Shareholders.,supports,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0281,THE COCA-COLA COMPANY,Vote on a shareowner proposal requesting a sustainability committee by-law amendment,opposes,supports,supports,supports,supports,supports,supports,supports
+P0290,Wells Fargo & Company,Shareholder Proposal - Report on Risks of Politicized De-Banking.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0298,Costco Wholesale Corporation,Shareholder proposal regarding fiduciary carbon-emission relevance report.,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0301,MCDONALD'S CORPORATION,Advisory Vote on Report Related to Oversight of Advertising Risks.,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0302,McDonald's Corporation,Advisory Vote on Corporate Giving Disclosure.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0305,"Mondelez International, Inc.",Shareholder proposal requesting an Audit Committee subcommittee study on Company affiliations;,opposes,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0311,The Walt Disney Company,"Shareholder proposal, if properly presented at the meeting, requesting publication of recipients of charitable contributions.",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0313,AMERICAN EXPRESS COMPANY,Shareholder proposal regarding political bias risk oversight.,opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0314,AMERICAN EXPRESS COMPANY,Shareholder proposal relating to DEI goals in executive pay incentives.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0318,Intel Corporation,"Stockholder proposal requesting a corporate financial sustainability board committee, if properly presented at the meeting.",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0320,COLGATE-PALMOLIVE COMPANY,"Stockholder proposal entitled ""Revisit plastic packaging policies.""",opposes,opposes,supports,opposes,opposes,opposes,supports,opposes
+P0323,"O'REILLY AUTOMOTIVE, INC.","Shareholder proposal entitled ""Avoid Brand Damage due to Corporate Political Spending.""",supports,supports,opposes,supports,supports,supports,unclear,supports
+P0325,MCKESSON CORPORATION,Shareholder Proposal on Report on Risks of State Policies Restricting Reproductive Health Care.,supports,supports,supports,supports,supports,supports,opposes,supports
+P0326,Verizon Communications Inc.,Civil liberties in digital services,opposes,opposes,unclear,opposes,unclear,opposes,opposes,opposes
+P0329,Verizon Communications Inc.,Political expenditures misalignment,supports,supports,opposes,supports,unclear,supports,unclear,supports
+P0331,Deere & Company,"Shareholder proposal regarding a civil rights, non-discrimination, and return to merit audit",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0333,"ELEVANCE HEALTH, INC.","Shareholder proposal requesting report on the effectiveness of Diversity, Equity and Inclusion efforts.",supports,supports,supports,supports,opposes,supports,supports,supports
+P0334,INTEL CORPORATION,Stockholder proposal requesting a report on risk of China exposure.,opposes,opposes,unclear,opposes,unclear,opposes,opposes,opposes
+P0336,Morgan Stanley,Shareholder proposal requesting a clean energy supply financing ratio,supports,unclear,supports,supports,supports,supports,supports,supports
+P0338,DEERE & COMPANY,Shareholder proposal on a report on charitable giving,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0339,DEERE & COMPANY,Shareholder proposal on a civil rights audit,supports,supports,supports,supports,supports,supports,opposes,supports
+P0341,"Mondelez International, Inc.",Shareholder proposal requesting third-party report assessing effectiveness of implementation of human rights policy; and,supports,supports,supports,supports,opposes,supports,supports,supports
+P0344,ADOBE INC.,Stockholder Proposal Regarding Board Matrix.,supports,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0345,DEERE & COMPANY,Shareholder proposal on a corporate financial sustainability report,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0346,"NIKE, INC.","To consider a shareholder proposal regarding Environmental Targets, if properly presented at the meeting.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0348,STARBUCKS CORPORATION,Shareholder proposal requesting a report on human rights risks related to labor organizing.,opposes,supports,supports,supports,supports,supports,supports,supports
+P0350,STARBUCKS CORPORATION,Shareholder proposal requesting an annual emissions congruency report.,opposes,supports,supports,supports,supports,supports,supports,supports
+P0351,"NIKE, INC.","To consider a shareholder proposal regarding a Supply Chain Management Report, if properly presented at the meeting.",supports,supports,unclear,supports,supports,supports,supports,supports
+P0352,STARBUCKS CORPORATION,Shareholder proposal requesting an annual report on discrimination risks related to charitable giving.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0353,Starbucks Corporation,Shareholder proposal requesting a report on direct and systemic discrimination.,opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0354,The Charles Schwab Corporation,Stockholder Proposal on Workforce Discrimination Risk Oversight and Impact,opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0358,"NIKE, INC.","To consider a shareholder proposal regarding Worker-Driven Social Responsibility, if properly presented at the meeting.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0360,Target Corporation,Shareholder proposal requesting animal pain management reporting.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0362,Target Corporation,"Shareholder proposal requesting a report on Target's partnerships with, charitable contributions to, and other support for certain organizations.",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0366,"The Goldman Sachs Group, Inc.",Shareholder Proposal Regarding Environmental Justice Impact Assessment,supports,unclear,supports,supports,supports,supports,supports,supports
+P0367,"The Goldman Sachs Group, Inc.",Shareholder Proposal Regarding Disclosure of Clean Energy Supply Financing Ratio,supports,unclear,supports,supports,supports,supports,supports,supports
+P0369,"Chipotle Mexican Grill, Inc.",Shareholder Proposal - Requesting a report on harassment and discrimination statistics.,supports,supports,supports,supports,supports,supports,opposes,supports
+P0372,"MONDELEZ INTERNATIONAL, INC.",Shareholder proposal requesting a report on objective evaluation of plastics packaging policies,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0378,Microchip Technology Incorporated,"Stockholder proposal requesting that our Board of Directors commission an independent third-party report, at reasonable expense and excluding proprietary information, on our due diligence process to determine whether our customers' use of our products contribute or are linked to violations of international law.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0379,"The Kansai Electric Power Co., Inc.",Amend Articles to Realize Zero Carbon Emissions without Nuclear Power Generation,opposes,supports,supports,supports,supports,supports,opposes,supports
+P0382,"Airbnb, Inc.",Report on discrimination in charitable support,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0383,MICROCHIP TECHNOLOGY INCORPORATED,"Stockholder proposal requesting that our Board of Directors commission an independent third-party report, at reasonable expense and excluding proprietary information, on our due diligence process to determine whether our customers' use of our products contribute or are linked to violations of international law.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0386,"Airbnb, Inc.",Report on risks of politicized divestments.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0388,MSCI Inc.,To approve shareholder proposal to report on Chinese military-industry companies in Company indices.,opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0389,STARBUCKS CORPORATION,Shareholder proposal requesting a report on the Company's use of diagnostic tools created by politicized corporate partners,opposes,opposes,supports,opposes,unclear,opposes,opposes,opposes
+P0390,Citigroup Inc.,Stockholder proposal requesting a report on risks of Politicized De-banking.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0391,STARBUCKS CORPORATION,Shareholder proposal requesting a report on the Company's apparent exclusion of detransitioning in its healthcare coverage,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0392,STARBUCKS CORPORATION,Shareholder proposal requesting a report on the risks of the Company excluding religious charities from its employee-gift match program,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0393,"Airbnb, Inc.",Oversight of risks relating to digital services,opposes,unclear,unclear,unclear,unclear,unclear,opposes,opposes
+P0395,STARBUCKS CORPORATION,Shareholder proposal requesting a report on median compensation and benefits gaps as they address reproductive and gender dysphoria care,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0404,PFIZER INC.,Issue a Report Evaluating the Risks Related to Religious Discrimination Against Employees,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0407,International Business Machines Corporation,Stockholder Proposal Requesting a Public Report on Congruency in China Business Operations and ESG Activities,opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0410,"The Goldman Sachs Group, Inc.",Shareholder Proposal Regarding Outcome Report on Efforts Regarding Protected Classes of Employees,supports,unclear,supports,supports,supports,supports,supports,supports
+P0412,"Chipotle Mexican Grill, Inc.",Shareholder Proposal - Requesting adoption of a non-interference policy.,supports,unclear,unclear,unclear,opposes,opposes,opposes,opposes
+P0423,CATERPILLAR INC.,Shareholder Proposal - Report on Employee Charitable Giving Match,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0425,lululemon athletica inc.,Shareholder proposal regarding a report on the impact of the production and sale of animal-derived products (if properly presented at the meeting).,supports,unclear,supports,supports,supports,supports,supports,supports
+P0426,AT&T Inc.,Report On Respecting Workforce Civil Liberties,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0428,U.S. BANCORP,A shareholder proposal regarding a report on board oversight of risks relating to discrimination.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0429,"UNITED PARCEL SERVICE, INC.",To prepare a report on the risks arising from voluntary carbon-reduction commitments.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0432,"PAYPAL HOLDINGS, INC.",Stockholder Proposal - Report on Charitable Giving.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0437,"BlackRock, Inc.",Shareholder Proposal - Report on EEO Policy Risk.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0439,CINTAS CORPORATION,"A shareholder proposal regarding political disclosure, if properly presented at the meeting.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0440,"PAYPAL HOLDINGS, INC.",Stockholder Proposal - Policy on Provision of Services in Conflict Zones.,supports,unclear,supports,supports,unclear,unclear,supports,supports
+P0450,THE ALLSTATE CORPORATION,Shareholder proposal requesting a report on use of ESG and DEI metrics in executive compensation.,opposes,supports,supports,supports,supports,supports,opposes,supports
+P0451,"BLACKROCK, INC.",Shareholder Proposal - Report on Risk of Stakeholder Capitalism.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0452,"UNITED PARCEL SERVICE, INC.",To require UPS to engage a third-party to audit and prepare an additional report on the impacts of UPS operations affecting BIPOC and low income communities.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0453,The Bank of New York Mellon Corporation,"Stockholder proposal regarding report on risks of politicized de-banking, if properly presented.",opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0458,LULULEMON ATHLETICA INC.,Shareholder proposal requesting an annual report on discrimination risks related to charitable partnerships (if properly presented at the meeting).,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0464,"STEEL DYNAMICS, INC.",SHAREHOLDER PROPOSAL - AVOID POLITICAL SPENDING BRAND DAMAGE,supports,supports,opposes,supports,opposes,supports,unclear,supports
+P0468,STATE STREET CORPORATION,"Shareholder proposal requesting a report disclosing whether and how the Company addresses transition of workers and fairness to communities in its transition finance strategy, if properly presented.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0469,"PayPal Holdings, Inc.",Stockholder Proposal - Report on Respecting Workforce Civil Liberties.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0470,The Kroger Co.,"Listing of Charitable Contributions of $10,000 or More.",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0471,The Kroger Co.,Report on Public Health Costs from Sale of Tobacco Products.,supports,supports,supports,supports,supports,supports,unclear,supports
+P0473,"Delta Air Lines, Inc.",A shareholder proposal requesting reporting related to third-party political contributions.,opposes,supports,supports,supports,supports,supports,supports,supports
+P0480,Capital One Financial Corporation,Stockholder proposal requesting a report on respecting workforce civil liberties.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0485,INTEL CORPORATION,"Stockholder proposal requesting a report on an ethical impact assessment, if properly presented at the meeting.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0487,INTEL CORPORATION,"Stockholder proposal requesting a report on charitable giving, if properly presented at the meeting.",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0489,Sempra,Shareholder proposal requesting a report on certain safety and environmental matters,supports,unclear,supports,supports,supports,supports,supports,supports
+P0490,"The Goldman Sachs Group, Inc.",Shareholder Proposal Regarding a Report on Financial Statement Assumptions Regarding Climate Change,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0493,"Airbnb, Inc.","Stockholder proposal regarding political disclosure, if properly presented at the Annual Meeting.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0499,THE KROGER CO.,Report on safeguarding the privacy of consumer health data.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0500,THE KROGER CO.,Report on adopting a third-party mandated framework on U.S. farmers.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0506,"TYLER TECHNOLOGIES, INC.",Shareholder Proposal Regarding Political Spending.,supports,supports,unclear,supports,supports,supports,supports,supports
+P0514,"YUM! BRANDS, INC.",Shareholder Proposal Regarding Report on Faith-Based Employee Resource Groups.,opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0520,Verizon Communications Inc.,Risks of non-fiduciary executive compensation metrics,opposes,opposes,unclear,opposes,opposes,opposes,opposes,opposes
+P0522,Laboratory Corporation of America Holdings,Shareholder proposal regarding a Board report on risks of fulfilling information requests.,supports,unclear,unclear,unclear,unclear,unclear,opposes,opposes
+P0533,"WARNER BROS. DISCOVERY, INC.","To vote on a stockholder proposal entitled ""Sustainability ROI Report"", if properly presented.",opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0537,TRUIST FINANCIAL CORPORATION,"Shareholder proposal regarding a report on risks from misalignment between Company policies and customer base, if properly presented.",opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0545,The Kraft Heinz Company,"Stockholder Proposal - Report on greenhouse gas goals, if properly presented.",opposes,supports,supports,supports,supports,supports,supports,supports
+P0559,"DARDEN RESTAURANTS, INC.",To vote on a shareholder proposal requesting the Company disclose the percent of pork raised in group housing and establish targets for achieving 100% group housed pork if properly presented at the meeting.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0561,"Charter Communications, Inc.",Stockholder proposal regarding lobbying activities.,supports,supports,unclear,supports,supports,supports,supports,supports
+P0563,"Warner Bros. Discovery, Inc.","To vote on a stockholder proposal entitled, ""Corporate Financial Sustainability"", if properly presented.",opposes,opposes,supports,opposes,unclear,opposes,opposes,opposes
+P0578,The Southern Company,Stockholder proposal regarding a report on data center costs,supports,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0579,"Darden Restaurants, Inc.",To vote on a shareholder proposal requesting the Company to issue a report on the risks arising from state policies restricting reproductive health care if properly presented at the meeting.,supports,supports,supports,supports,supports,supports,opposes,supports
+P0587,Campbell Soup Company,To vote on a shareholder proposal regarding a report on how the Company is protecting 401(k) retirement fund plan beneficiaries with a longer investment time horizon from future portfolio risk created by present-day investments in high carbon companies.,supports,opposes,supports,opposes,supports,opposes,supports,opposes
+P0590,"Warner Bros. Discovery, Inc.","To vote on a stockholder proposal entitled, ""Report on Use of Al"", if properly presented.",supports,unclear,unclear,unclear,unclear,unclear,supports,supports
+P0592,Nestle SA,Report on Non-Financial Matters Regarding Sales of Healthier and Less Healthy Foods,opposes,unclear,supports,supports,supports,supports,unclear,unclear
+P0596,"Walgreens Boots Alliance, Inc.",Stockholder proposal requesting an EEO policy risk report.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0597,"Walgreens Boots Alliance, Inc.",Stockholder proposal requesting a report on the risks of reproductive healthcare legislation.,supports,supports,supports,supports,opposes,supports,unclear,supports
+P0602,Ford Motor Company,Relating to Reporting on the Company's Supply Chain Transparency and Traceability.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0603,A. O. Smith Corporation,"Stockholder proposal requesting a Board report on our hiring practices with respect to formerly incarcerated people, if properly presented at the Annual Meeting.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0605,Kellanova,"Shareowner proposal requesting the Company to reduce greenwashing risk, if properly presented at meeting.",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0608,DOLLAR GENERAL CORPORATION,"To vote on a shareholder proposal to publish a report on employee access to timely, quality healthcare.",opposes,supports,supports,supports,supports,supports,supports,supports
+P0612,"BEST BUY CO., INC.",To vote on a shareholder proposal entitled ''Report on Risks of Non-Fiduciary Executive Compensation Metrics'',opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0613,CAMPBELL SOUP COMPANY,To vote on a shareholder proposal regarding a diversity audit.,supports,supports,supports,supports,supports,supports,opposes,supports
+P0618,HORMEL FOODS CORPORATION,"Stockholder proposal requesting publication of targets for significantly increasing group sow housing in the Company's supply chain, if properly presented at the meeting.",supports,unclear,supports,supports,supports,supports,supports,supports
+P0624,"Zions Bancorporation, N.A.",Shareholder proposal requesting a report on risks of politicized de-banking.,opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0626,"DICK'S SPORTING GOODS, INC.",Stockholder proposal requesting a report on women's rights related business risk and decision framework.,opposes,unclear,supports,supports,opposes,opposes,opposes,opposes
+P0629,"First Citizens BancShares, Inc.","Proposal requesting a report on the risks of politicized de-banking, if properly presented during the meeting by or on behalf of the stockholder.",opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0632,Novo Nordisk A/S,Approve Proposal Regarding Regulated Working Conditions at Construction Sites,opposes,supports,supports,supports,supports,supports,supports,supports
+P0637,"ALBERTSONS COMPANIES, INC.",Stockholder Proposal for a Report on Risks of State Policies on Reproductive Health Care.,opposes,supports,supports,supports,supports,supports,opposes,supports
+P0640,"DOCUSIGN, INC.","A stockholder proposal to report on the risks of non-fiduciary executive compensation metrics, if properly presented at the meeting",opposes,opposes,supports,opposes,unclear,opposes,opposes,opposes
+P0642,"Docusign, Inc.","A stockholder proposal to report on the effectiveness of the Company's diversity, equity, and inclusion efforts, if properly presented at the meeting",supports,supports,supports,supports,opposes,supports,supports,supports
+P0645,THE WALT DISNEY COMPANY,"Shareholder proposal, if properly presented at the meeting, requesting a report on the expected and potential return on investment from climate commitments.",opposes,opposes,supports,opposes,opposes,opposes,opposes,opposes
+P0646,MARKEL GROUP INC.,Shareholder proposal for a report on the Company's strategies and action plans to mitigate material environmental risks.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0647,"FIRST CITIZENS BANCSHARES, INC.",Proposal requesting a report on faith-based employee resource groups.,opposes,opposes,supports,opposes,supports,opposes,unclear,opposes
+P0652,Dell Technologies Inc.,Shareholder proposal requiring that Dell Technologies Inc.'s website list any recipient of material donations from Dell Technologies Inc.,opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0657,"AutoNation, Inc.",Adoption of stockholder proposal regarding political contributions.,supports,supports,unclear,supports,unclear,supports,supports,supports
+P0661,"Ryder System, Inc.","To vote, on an advisory basis, on a shareholder proposal regarding the Company's climate change strategy and related impacts on employment.",supports,supports,supports,supports,opposes,supports,supports,supports
+P0669,SONOCO PRODUCTS COMPANY,Advisory (non-binding) shareholder proposal - avoid brand damage from political spending.,supports,supports,supports,supports,opposes,supports,unclear,supports
+P0674,HSBC Holdings Plc,"Instruct the Board to Align Pension Inequality with their Commitment to Reduce the Gender Pay Gap, by Removing the Impact of State Deduction from the Members of the Post 1974 Midland Section of the HSBC Bank (UK) Pension Scheme",opposes,supports,supports,supports,supports,supports,supports,supports
+P0676,"Badger Meter, Inc.",SHAREHOLDER PROPOSAL REQUESTING THE BOARD TO PREPARE A REPORT ON HIRING PRACTICES.,supports,unclear,supports,supports,supports,supports,supports,supports
+P0688,"Zions Bancorporation, N.A.","To consider a shareholder proposal regarding ""Report on Risks from Misalignment Between Company Policies and Customer Base.""",opposes,unclear,supports,supports,supports,supports,opposes,opposes
+P0690,Nordea Bank Abp,Approve Proposal Regarding Business Activities in the Arctic Region,opposes,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0694,Granite Construction Incorporated,Shareholder proposal regarding a report on the I-80 South Quarry Project,supports,unclear,supports,supports,supports,supports,supports,supports
+P0695,Danske Bank A/S,Approve Divestment from Fossil Fuel Companies that do not have a Transition Plan in Line with the Paris Agreement,opposes,supports,supports,supports,supports,supports,supports,supports
+P0704,Nordea Bank Abp,Approve Business Activities in Line with the Paris Agreement,opposes,supports,supports,supports,supports,supports,supports,supports
+P0708,Kao Corp.,"Appoint Three Individuals to Investigate Status of Operations and Property of the Company including Potential Failures of Risk Management, Internal Controls and Board Oversight related to Palm Oil, Paper and Pulp Supply Chains",supports,unclear,supports,supports,supports,supports,supports,supports
+P0709,Royal Bank of Canada,SP 3: Adopt Advanced Generative AI Systems Voluntary Code of Conduct,supports,unclear,unclear,unclear,supports,supports,supports,supports
+P0712,Coles Group Limited,Approve Contingent Resolution - Seafood Sourcing Policy,supports,unclear,supports,supports,supports,supports,supports,supports
+P0715,Saab AB,Approve Introduction of a Key Performance Indicator to Monitor how much the Year's Emissions are Estimated to Contribute to Global Warming and thus to Demand for Company's Products,opposes,supports,supports,supports,supports,supports,supports,supports
+P0719,Woolworths Group Limited,Approve Farmed Salmon Sourcing,opposes,unclear,supports,supports,unclear,unclear,unclear,unclear
+P0723,The Toronto-Dominion Bank,SP 9: Provide All Employees the Same Amount of Benefit Credits,opposes,unclear,supports,supports,supports,supports,supports,supports
+P0730,The Toronto-Dominion Bank,SP 8: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,supports,supports,supports,supports
+P0731,The Toronto-Dominion Bank,SP 6: Report on Impact of Oil and Gas Divestment,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0732,The Toronto-Dominion Bank,SP 5: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0733,Dollarama Inc.,SP 4: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0735,Royal Bank of Canada,SP 5: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0736,The Toronto-Dominion Bank,"SP 7: Report on AI-Use in High-Level Decision-Making, Risk Assessment and Loan Grants",supports,unclear,supports,supports,unclear,unclear,supports,supports
+P0737,The Toronto-Dominion Bank,SP 9: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0739,The Toronto-Dominion Bank,SP 4: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,supports,supports,supports,supports
+P0741,Royal Bank of Canada,"SP 7: Report on AI-Use in High-Level Decision-Making, Risk Assessment and Loan Grants",supports,unclear,supports,supports,supports,supports,supports,supports
+P0742,APA Group,Approve Key Partner Due Diligence,supports,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0744,Woolworths Group Limited,Approve Farmed Seafood Reporting,supports,unclear,supports,supports,supports,supports,supports,supports
+P0746,Saab AB,"Acknowledge the Correlation that Increased Emissions Lead to Increased Global Warming, which Leads to Increased Risk of War and Conflict, Increased Demand for Weapons Systems and Increased Profits for the Company",opposes,supports,unclear,supports,opposes,supports,opposes,supports
+P0755,Royal Bank of Canada,SP 2: Report on Impact of Oil and Gas Divestment,opposes,opposes,supports,opposes,opposes,opposes,supports,opposes
+P0756,Royal Bank of Canada,SP 7: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0758,Royal Bank of Canada,SP 5: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,supports,supports,supports,supports
+P0759,H&M Hennes & Mauritz AB,Approve Prohibition of the Use of Mohair; Request the Board to Consider Developing a Plan to Phase out All Remaining Animal-derived Materials,supports,unclear,supports,supports,supports,supports,supports,supports
+P0761,The Bank of Nova Scotia,"SP 6: Report on AI-Use in High-Level Decision-Making, Risk Assessment and Loan Grants",supports,unclear,unclear,unclear,supports,supports,supports,supports
+P0762,The Bank of Nova Scotia,SP 8: Advisory Vote on Environmental Policies,supports,unclear,unclear,unclear,supports,supports,supports,supports
+P0763,National Bank of Canada,SP 4: Adopt Advanced Generative AI Systems Voluntary Code of Conduct,supports,unclear,unclear,unclear,supports,supports,supports,supports
+P0764,Canadian Imperial Bank of Commerce,SP 1: Issue Report Disclosing Exposure on the Oil and Gas Sector,opposes,supports,supports,supports,supports,supports,supports,supports
+P0765,Woolworths Group Limited,"Approve Update of Pulp, Paper and Timber Policy",opposes,unclear,supports,supports,supports,supports,supports,supports
+P0766,Woolworths Group Limited,Approve Classification of Beef,supports,unclear,supports,supports,supports,supports,supports,supports
+P0767,Metro Inc.,SP 1: Report on Cage-Free Egg Goal,supports,opposes,supports,opposes,supports,opposes,supports,opposes
+P0769,Royal Bank of Canada,SP 9: Advisory Vote on Environmental Policies,supports,unclear,unclear,unclear,supports,supports,supports,supports
+P0771,Levi Strauss & Co.,"Shareholder proposal, if properly presented at the meeting, requesting a corporate financial sustainability report.",opposes,opposes,supports,opposes,supports,opposes,opposes,opposes
+P0775,Canadian Imperial Bank of Commerce,SP 7: Advisory Vote on Environmental Policies,supports,unclear,unclear,unclear,supports,supports,supports,supports
+P0777,National Bank of Canada,SP 2: Advisory Vote on Environmental Policies,supports,unclear,unclear,unclear,supports,supports,supports,supports
+P0779,The Bank of Nova Scotia,SP 7: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,unclear,unclear,supports,supports,supports,supports
+P0780,The Bank of Nova Scotia,SP 1: Report on Impact of Oil and Gas Divestment,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0781,CGI Inc.,SP 3: Adjust Governance Practices in Light of the Risks Related to Trade Tensions with the United States,opposes,unclear,unclear,unclear,unclear,unclear,unclear,unclear
+P0783,Canadian Imperial Bank of Commerce,SP 6: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,unclear,unclear,supports,supports
+P0786,The Bank of Nova Scotia,SP 2: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,unclear,unclear,supports,supports
+P0788,National Bank of Canada,SP 1: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,unclear,unclear,supports,supports
+P0789,The Bank of Nova Scotia,SP 5: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0790,Canadian Imperial Bank of Commerce,SP 4: Advisory Vote on Environmental Policy,supports,unclear,supports,supports,supports,supports,supports,supports
+P0791,The Toronto-Dominion Bank,SP 5: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0792,Canadian Imperial Bank of Commerce,SP 5: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,unclear,unclear,supports,supports
+P0793,Bank of Montreal,SP 4: Report on Impact of Oil and Gas Divestment,opposes,opposes,supports,opposes,supports,opposes,supports,opposes
+P0794,Bank of Montreal,SP 3: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0800,Bank of Montreal,SP 4: Adopt Advanced Generative AI Systems Voluntary Code of Conduct,supports,unclear,supports,supports,supports,supports,supports,supports
+P0804,iA Financial Corporation Inc.,SP 2: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0806,Bank of Montreal,SP 7: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,supports,supports,supports,supports
+P0808,National Bank of Canada,SP 6: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,supports,supports,supports,supports
+P0809,Bank of Montreal,SP 2: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0811,Bank of Montreal,SP 1: Disclose Non-Confidential Information Relating to the Bank's Country-by-Country Reporting,supports,unclear,supports,supports,supports,supports,supports,supports
+P0812,Saputo Inc.,SP 1: Advisory Vote on Environmental Policies,supports,unclear,supports,supports,supports,supports,supports,supports
+P0813,Norsk Hydro ASA,Shareholder Proposal Regarding Group Energy Sourcing,opposes,unclear,unclear,unclear,unclear,unclear,supports,supports

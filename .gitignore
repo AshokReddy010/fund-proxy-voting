@@ -18,3 +18,4 @@ __pycache__/
 /esg_fund_names.csv
 /export_proposals.py
 /download_sample.py
+cloud/logs/

@@ -27,7 +27,19 @@ from pathlib import Path
 
 import requests
 
-QUARTERS = [(2024, 3), (2024, 4), (2025, 1), (2025, 2), (2025, 3), (2025, 4), (2026, 1), (2026, 2), (2026, 3), (2026, 4)]
+def quarters_to_date(start=(2024, 3)):
+    """Every quarter from the first structured N-PX filings up to the current quarter."""
+    from datetime import date
+    today = date.today()
+    now = (today.year, (today.month - 1) // 3 + 1)
+    year, quarter, out = start[0], start[1], []
+    while (year, quarter) <= now:
+        out.append((year, quarter))
+        year, quarter = (year + 1, 1) if quarter == 4 else (year, quarter + 1)
+    return out
+
+
+QUARTERS = quarters_to_date()
 INDEX = "https://www.sec.gov/Archives/edgar/full-index/{}/QTR{}/form.idx"
 BASE = "https://www.sec.gov/Archives/"
 OUT = Path("npx_data")

@@ -155,7 +155,13 @@ The 73.8 million raw votes stay in DuckDB on a laptop. The curated tables go to 
 
 **Every publish is checked.** `cloud/publish_to_bigquery.py` compares each table's row count in BigQuery with the local count and records the result in a `load_audit` table and in `cloud/publish_log.csv`. A dbt test fails if the curated tables are more than 45 days old, before the sandbox would delete them.
 
-To publish and rebuild the cloud layer:
+**Monthly refresh.** `cloud/refresh.py` runs the whole chain in one command: it fetches only SEC filings it has not seen before, appends their votes without re-reading the 73.8 million already loaded, rebuilds and tests the local models, re-publishes to BigQuery with the row-count audit, and rebuilds and tests the cloud models. Each run is logged in `cloud/refresh_log.csv`. Proposals first seen in new filings stay labelled "unclear" until the labelling step is re-run.
+
+```
+python cloud\refresh.py
+```
+
+To publish and rebuild the cloud layer on its own:
 
 ```
 gcloud auth application-default login

@@ -1,0 +1,15 @@
+published_at,table_name,local_rows,cloud_rows,cloud_mb,status
+2026-10-08T03:46:04Z,dim_funds,12416,12416,1.4,ok
+2026-10-08T03:46:04Z,fct_fund_es_votes,856132,856132,314.9,ok
+2026-10-08T03:46:04Z,mart_support_by_direction,55,55,0.0,ok
+2026-10-08T03:46:04Z,mart_sibling_comparison,19891,19891,3.9,ok
+2026-10-08T03:46:04Z,data_quality_summary,1,1,0.0,ok
+2026-10-08T03:46:04Z,proposal_labels,8274,8274,1.3,ok
+2026-10-08T03:46:04Z,fct_fund_year_topic,182476,182476,18.0,ok
+2026-10-08T15:27:45Z,dim_funds,12416,12416,1.4,ok
+2026-10-08T15:27:45Z,fct_fund_es_votes,856166,856166,314.9,ok
+2026-10-08T15:27:45Z,mart_support_by_direction,55,55,0.0,ok
+2026-10-08T15:27:45Z,mart_sibling_comparison,19899,19899,3.9,ok
+2026-10-08T15:27:45Z,data_quality_summary,1,1,0.0,ok
+2026-10-08T15:27:45Z,proposal_labels,8274,8274,1.3,ok
+2026-10-08T15:27:45Z,fct_fund_year_topic,182476,182476,18.0,ok

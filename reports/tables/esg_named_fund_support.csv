@@ -5,9 +5,9 @@ S000073893,BlackRock Sustainable U.S. Value Equity Fund,"BLACKROCK FUNDS VII, IN
 S000061286,Impact Shares NAACP Minority Empowerment ETF,Tidal Trust III,42,0.0
 S000061285,Impact Shares Womens Empowerment ETF,Tidal Trust III,36,0.0
 S000010109,Pioneer Balanced ESG Fund,Pioneer Series Trust IV,35,0.0
-S000071711,Putnam Sustainable Future ETF,Putnam ETF Trust,24,0.0
-S000003851,Putnam Sustainable Future Fund,PUTNAM INVESTMENT FUNDS,24,0.0
 S000003881,Putnam VT Sustainable Future,PUTNAM VARIABLE TRUST,24,0.0
+S000003851,Putnam Sustainable Future Fund,PUTNAM INVESTMENT FUNDS,24,0.0
+S000071711,Putnam Sustainable Future ETF,Putnam ETF Trust,24,0.0
 S000072568,BlackRock Sustainable High Yield Bond Fund,BlackRock Funds V,23,0.0
 S000015504,WisdomTree U.S. ESG Fund,WisdomTree Trust,21,0.0
 S000079198,iShares ESG Aware MSCI USA Value ETF,iSHARES TRUST,187,0.5
@@ -61,8 +61,8 @@ S000074882,Boston Partners Global Sustainability Fund,"RBB FUND, INC.",47,19.1
 S000020423,International Sustainability Core 1 Portfolio,DFA INVESTMENT DIMENSIONS GROUP INC,83,19.3
 S000010074,"AB Sustainable Global Thematic Fund, Inc.","AB SUSTAINABLE GLOBAL THEMATIC FUND, INC.",29,20.7
 S000065529,VANGUARD GLOBAL ESG SELECT STOCK FUND,VANGUARD SPECIALIZED FUNDS,33,21.2
-S000010510,AB Sustainable Thematic Balanced Portfolio,AB PORTFOLIOS,35,22.9
 S000074628,EQ/AB Sustainable U.S. Thematic Portfolio,EQ ADVISORS TRUST,35,22.9
+S000010510,AB Sustainable Thematic Balanced Portfolio,AB PORTFOLIOS,35,22.9
 S000048737,ClearBridge Sustainability Leaders Fund,LEGG MASON PARTNERS INVESTMENT TRUST,88,23.9
 S000080316,Fidelity Series Sustainable Non-U.S. Developed Markets Fund,FIDELITY INVESTMENT TRUST,75,24.0
 S000075429,JNL/AB Sustainable Global Thematic Fund,JNL SERIES TRUST,29,24.1
@@ -70,9 +70,9 @@ S000068926,LAZARD US SUSTAINABLE EQUITY PORTFOLIO,LAZARD FUNDS INC,43,25.6
 S000009147,EQ/ClearBridge Large Cap Growth ESG Portfolio,EQ ADVISORS TRUST,89,25.8
 S000010447,AB Sustainable Global Thematic Portfolio,"AB VARIABLE PRODUCTS SERIES FUND, INC.",31,25.8
 S000063792,MFG Global Sustainable Fund,"FRONTIER FUNDS, INC.",58,25.9
-S000073433,Janus Henderson U.S. Sustainable Equity ETF,Janus Detroit Street Trust,30,26.7
-S000068819,Janus Henderson Global Sustainable Equity Fund,JANUS INVESTMENT FUND,30,26.7
 S000074910,Janus Henderson Global Sustainable Equity Portfolio,JANUS ASPEN SERIES,30,26.7
+S000068819,Janus Henderson Global Sustainable Equity Fund,JANUS INVESTMENT FUND,30,26.7
+S000073433,Janus Henderson U.S. Sustainable Equity ETF,Janus Detroit Street Trust,30,26.7
 S000079510,Impact Equity Fund,GuideStone Funds,108,26.9
 S000072489,Nuveen ESG Dividend ETF,Nushares ETF Trust,52,26.9
 S000084191,Nuveen Sustainable Core ETF,Nushares ETF Trust,95,27.4
@@ -99,8 +99,8 @@ S000082271,Amplify Etho Climate Leadership U.S. ETF,Amplify ETF Trust,95,35.8
 S000080314,Fidelity Series Sustainable U.S. Market Fund,FIDELITY SUMMER STREET TRUST,332,36.4
 S000072126,Fidelity Sustainable U.S. Equity ETF,FIDELITY COVINGTON TRUST,101,36.6
 S000069815,U.S. Socially Responsible Fund,VALIC Co I,164,37.8
-S000039595,Transamerica Sustainable Equity Income,TRANSAMERICA FUNDS,41,39.0
 S000007908,Transamerica Aegon Sustainable Equity Income VP,TRANSAMERICA SERIES TRUST,41,39.0
+S000039595,Transamerica Sustainable Equity Income,TRANSAMERICA FUNDS,41,39.0
 S000055811,Nuveen ESG Large-Cap Growth ETF,Nushares ETF Trust,62,40.3
 S000076639,Dimensional US Sustainability Core 1 ETF,Dimensional ETF Trust,386,40.4
 S000057207,ClearBridge All Cap Growth ESG ETF,Legg Mason ETF Investment Trust,51,41.2

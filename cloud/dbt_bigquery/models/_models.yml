@@ -1,0 +1,46 @@
+version: 2
+
+models:
+  - name: rpt_topic_trends
+    description: Votes, support and agreement with management by year, topic and proposer.
+    data_tests:
+      - unique_combination:
+          arguments:
+            columns: [report_year, topic, proposed_by]
+    columns:
+      - name: pct_for
+        data_tests:
+          - between:
+              arguments: {low: 0, high: 100}
+      - name: pct_with_management
+        data_tests:
+          - between:
+              arguments: {low: 0, high: 100}
+  - name: rpt_fund_scorecard
+    description: One row per fund.
+    columns:
+      - name: fund_id
+        data_tests: [unique, not_null]
+      - name: pct_backing_pro_esg
+        data_tests:
+          - between:
+              arguments: {low: 0, high: 100}
+  - name: rpt_house_esg_gap
+    description: ESG-named funds against the other funds of the same house.
+    data_tests:
+      - unique_combination:
+          arguments:
+            columns: [fund_house, report_year]
+    columns:
+      - name: gap_points
+        data_tests:
+          - between:
+              arguments: {low: -100, high: 100}
+  - name: rpt_publish_status
+    description: Row-count check results from the latest publish.
+    columns:
+      - name: status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["ok"]

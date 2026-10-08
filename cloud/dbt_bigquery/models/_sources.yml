@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: published
+    description: Curated tables sent from the local DuckDB warehouse by cloud/publish_to_bigquery.py.
+    schema: fund_voting
+    tables:
+      - name: dim_funds
+      - name: fct_fund_es_votes
+      - name: fct_fund_year_topic
+      - name: mart_support_by_direction
+      - name: mart_sibling_comparison
+      - name: load_audit
+        description: One row per table per publish, comparing local and cloud row counts.

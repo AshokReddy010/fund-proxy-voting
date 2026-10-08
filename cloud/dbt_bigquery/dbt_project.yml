@@ -1,0 +1,14 @@
+name: fund_voting_cloud
+version: "1.0.0"
+profile: fund_voting_cloud
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+# The sandbox has no INSERT or MERGE, so every model is rebuilt whole as a table.
+models:
+  fund_voting_cloud:
+    +materialized: table

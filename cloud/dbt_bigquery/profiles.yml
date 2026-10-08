@@ -1,0 +1,14 @@
+# Signs in with the Google account set up by "gcloud auth application-default login".
+# No key file is stored anywhere.
+fund_voting_cloud:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: fund-voting-warehouse
+      dataset: fund_voting_reporting
+      location: US
+      threads: 2
+      job_execution_timeout_seconds: 300
+      priority: interactive

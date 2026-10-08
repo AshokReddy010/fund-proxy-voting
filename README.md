@@ -136,6 +136,35 @@ Full tables, with precision and recall for both classes, are in [`llm_eval/resul
 
 To rerun it, set a `GROQ_API_KEY` environment variable, then run `python llm_eval\run_llm.py --prompt v3_examples_and_reframing --split test` and `python llm_eval\score.py --split test`.
 
+## In the cloud
+
+**[Open the live dashboard](https://datastudio.google.com/reporting/018f69c4-a00a-4e0b-80dc-5e1085eabdd0)**, built on BigQuery and open to anyone with the link.
+
+![Pipeline from SEC filings to the public dashboard](reports/figures/pipeline.gif)
+
+The 73.8 million raw votes stay in DuckDB on a laptop. The curated tables go to BigQuery, where a second dbt project builds the reporting tables the dashboard reads.
+
+| Layer | Where | What |
+|:--|:--|:--|
+| Raw and modelled votes | DuckDB, local | 73.8 million rows, 9 dbt models, 21 tests |
+| Curated tables | BigQuery | 7 tables, about 1.1 million rows, including a summary of every fund vote by fund, year and topic |
+| Reporting models | BigQuery, built by dbt | 4 tables and 11 tests, including a reconciliation of the fund scorecard against its source |
+| Dashboard | Data Studio | Public, read-only |
+
+**Why not put everything in the cloud?** The project runs on BigQuery's free sandbox, which allows 10 GB of storage over the project's lifetime, deletes tables after 60 days, and has no INSERT or MERGE statements. So the heavy layer stays local, and the curated layer, about 340 MB in BigQuery, is re-sent whole on each refresh. Each refresh also resets the 60-day clock, and the allowance covers roughly 29 refreshes.
+
+**Every publish is checked.** `cloud/publish_to_bigquery.py` compares each table's row count in BigQuery with the local count and records the result in a `load_audit` table and in `cloud/publish_log.csv`. A dbt test fails if the curated tables are more than 45 days old, before the sandbox would delete them.
+
+To publish and rebuild the cloud layer:
+
+```
+gcloud auth application-default login
+python cloud\publish_to_bigquery.py --dry-run
+python cloud\publish_to_bigquery.py
+cd cloud\dbt_bigquery
+dbt build --profiles-dir .
+```
+
 ## How it is built
 
 ```
@@ -192,7 +221,7 @@ python scripts\make_charts.py
 
 ## Tools
 
-Python, DuckDB, dbt, pandas, Matplotlib, pytest, GitHub Actions, Groq API (open-weight LLM).
+Python, DuckDB, dbt, BigQuery, Data Studio, pandas, Matplotlib, pytest, GitHub Actions, Groq API (open-weight LLM).
 
 ## Author
 

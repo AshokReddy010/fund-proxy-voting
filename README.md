@@ -8,6 +8,8 @@ Every US fund must publish how it voted at company shareholder meetings. This pr
 
 The short answer: a little, and far less than the name suggests. The fund house a fund belongs to tells you more about its votes than its label does.
 
+**▶ [Interactive explorer](https://ashokreddy010.github.io/fund-proxy-voting/)**: support by fund group, ESG-named funds against their siblings at every fund house, and a searchable list of all ESG-named funds. It reads the result tables in [`reports/tables/`](reports/tables/) directly, so it updates whenever the data is refreshed.
+
 ## Findings
 
 All figures are for shareholder proposals on environmental and social topics, in the reporting years ending June 2024, 2025 and 2026.
